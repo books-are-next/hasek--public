@@ -1,0 +1,1083 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Povídky II",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jaroslav Hašek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-02-18T00:00:00.000Z",
+    "published": "2022-02-18T10:26:51.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_ii_084.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_povidky2_2.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ZE ŽIVOTA MILOSTNÉHO, RODINNÉHO I SPOLEČENSKÉHO",
+      "children": [
+        {
+          "title": "Boje s domovníky",
+          "href": "OEBPS/Text/povidky_ii_006.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Drobílkovo milostné dobrodružství",
+          "href": "OEBPS/Text/povidky_ii_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Šťastný domov",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-5"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-6"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-7"
+            },
+            {
+              "title": "IV",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-8"
+            },
+            {
+              "title": "V",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-9"
+            },
+            {
+              "title": "VI",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-10"
+            },
+            {
+              "title": "VII",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-11"
+            },
+            {
+              "title": "VIII",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-12"
+            },
+            {
+              "title": "IX",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-13"
+            },
+            {
+              "title": "X",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-14"
+            },
+            {
+              "title": "XI",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-15"
+            },
+            {
+              "title": "XII",
+              "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-16"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Jak jsem si přišíval knoflík ke kalhotám",
+          "href": "OEBPS/Text/povidky_ii_009.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Jak vypadají ženy",
+          "href": "OEBPS/Text/povidky_ii_010.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Kradení lidí",
+          "href": "OEBPS/Text/povidky_ii_011.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Osudy společenského člověka",
+          "href": "OEBPS/Text/povidky_ii_012.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Otcovské radosti pana Motejzlíka",
+          "href": "OEBPS/Text/povidky_ii_013.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Společenské lži",
+          "href": "OEBPS/Text/povidky_ii_014.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Trampoty pana Tenkráta",
+          "children": [
+            {
+              "title": "Předmluva",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-24"
+            },
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-25"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-26"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-27"
+            },
+            {
+              "title": "IV",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-28"
+            },
+            {
+              "title": "V",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-29"
+            },
+            {
+              "title": "VI",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-30"
+            },
+            {
+              "title": "VII",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-31"
+            },
+            {
+              "title": "VIII",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-32"
+            },
+            {
+              "title": "IX",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-33"
+            },
+            {
+              "title": "X",
+              "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-34"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_015.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Vařím si vejce naměkko",
+          "href": "OEBPS/Text/povidky_ii_016.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Z praktického života",
+          "href": "OEBPS/Text/povidky_ii_017.xhtml#_idParaDest-36"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_ii_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "ALKOHOL, ABSTINENCE A JINÉ NEŘESTI",
+      "children": [
+        {
+          "title": "Alkoholická idylka",
+          "href": "OEBPS/Text/povidky_ii_019.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Dobrodružství pana Karafiáta",
+          "href": "OEBPS/Text/povidky_ii_020.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Jak se stal pan Karaus alkoholikem",
+          "href": "OEBPS/Text/povidky_ii_021.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "O bludném cyklistovi",
+          "href": "OEBPS/Text/povidky_ii_022.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Pokus o abstinentní večírek čili americká zábava",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_023.xhtml#_idParaDest-43"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_023.xhtml#_idParaDest-44"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_023.xhtml#_idParaDest-45"
+            },
+            {
+              "title": "IV",
+              "href": "OEBPS/Text/povidky_ii_023.xhtml#_idParaDest-46"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_023.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Psychiatrická záhada",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_024.xhtml#_idParaDest-48"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_024.xhtml#_idParaDest-49"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_024.xhtml#_idParaDest-50"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_024.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Silvestr abstinentů",
+          "href": "OEBPS/Text/povidky_ii_025.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Velmi spletitá historie o špatném vínu",
+          "href": "OEBPS/Text/povidky_ii_026.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Zápas s Armádou spásy",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_027.xhtml#_idParaDest-54"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_027.xhtml#_idParaDest-55"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_027.xhtml#_idParaDest-53"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_ii_018.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "DĚTI, STUDENTI A JEJICH VZDĚLAVATELÉ",
+      "children": [
+        {
+          "title": "Časopisy pro mládež",
+          "href": "OEBPS/Text/povidky_ii_029.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Dobrodružství s nahým klukem",
+          "href": "OEBPS/Text/povidky_ii_030.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Duchovní cvičení s překážkami",
+          "href": "OEBPS/Text/povidky_ii_031.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Hodina pravopisu",
+          "href": "OEBPS/Text/povidky_ii_032.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "Hovor s malým Mílou",
+          "href": "OEBPS/Text/povidky_ii_033.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Jak se Baluška naučil lhát",
+          "href": "OEBPS/Text/povidky_ii_034.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Jaké máme trápení s tetou",
+          "href": "OEBPS/Text/povidky_ii_035.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "Logické a nelogické hlavy",
+          "href": "OEBPS/Text/povidky_ii_036.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "Mnemotechnika",
+          "href": "OEBPS/Text/povidky_ii_037.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "Muž a žena v manželství",
+          "href": "OEBPS/Text/povidky_ii_038.xhtml#_idParaDest-66"
+        },
+        {
+          "title": "Náš dům",
+          "href": "OEBPS/Text/povidky_ii_039.xhtml#_idParaDest-67"
+        },
+        {
+          "title": "Pepíček Nový vypravuje o zasnoubení své sestry",
+          "href": "OEBPS/Text/povidky_ii_040.xhtml#_idParaDest-68"
+        },
+        {
+          "title": "Školní čítanky",
+          "href": "OEBPS/Text/povidky_ii_041.xhtml#_idParaDest-69"
+        },
+        {
+          "title": "Školní výlet",
+          "href": "OEBPS/Text/povidky_ii_042.xhtml#_idParaDest-70"
+        },
+        {
+          "title": "Terciánská vzpoura",
+          "href": "OEBPS/Text/povidky_ii_043.xhtml#_idParaDest-71"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_ii_028.xhtml#_idParaDest-56"
+    },
+    {
+      "title": "NOVINY A PSANÍ VŮBEC",
+      "children": [
+        {
+          "title": "Dotazy a odpovědi",
+          "href": "OEBPS/Text/povidky_ii_045.xhtml#_idParaDest-73"
+        },
+        {
+          "title": "Jak se máme chovati doma, na ulici, v úřadech, v obchodech, v divadlech, na aeroplánu a na fotbalových zápasech",
+          "children": [
+            {
+              "title": "Jak se máme chovati doma",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-75"
+            },
+            {
+              "title": "Jak se máme chovati na ulici",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-76"
+            },
+            {
+              "title": "Jak se máme chovati v úřadech",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-77"
+            },
+            {
+              "title": "Jak se máme chovati v obchodech",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-78"
+            },
+            {
+              "title": "Jak se máme chovati v divadle",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-79"
+            },
+            {
+              "title": "Jak se máme chovati na aeroplánu",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-80"
+            },
+            {
+              "title": "Jak se máme chovati na fotbalových zápasech",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-81"
+            },
+            {
+              "title": "Doslov",
+              "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-82"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_046.xhtml#_idParaDest-74"
+        },
+        {
+          "title": "Interview s panem cenzorem",
+          "href": "OEBPS/Text/povidky_ii_047.xhtml#_idParaDest-83"
+        },
+        {
+          "title": "Lidská ješitnost",
+          "href": "OEBPS/Text/povidky_ii_048.xhtml#_idParaDest-84"
+        },
+        {
+          "title": "Malá polemička",
+          "href": "OEBPS/Text/povidky_ii_049.xhtml#_idParaDest-85"
+        },
+        {
+          "title": "Malý oznamovatel Národní politiky",
+          "children": [
+            {
+              "title": "Dopisy",
+              "href": "OEBPS/Text/povidky_ii_050.xhtml#_idParaDest-87"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_050.xhtml#_idParaDest-86"
+        },
+        {
+          "title": "Malý oznamovatel Národní politiky – Nabídnutí k sňatku",
+          "href": "OEBPS/Text/povidky_ii_051.xhtml#_idParaDest-88"
+        },
+        {
+          "title": "Něco o inzerátech",
+          "href": "OEBPS/Text/povidky_ii_052.xhtml#_idParaDest-89"
+        },
+        {
+          "title": "Nedělní zábavná příloha",
+          "href": "OEBPS/Text/povidky_ii_053.xhtml#_idParaDest-90"
+        },
+        {
+          "title": "O vhodných názvech",
+          "href": "OEBPS/Text/povidky_ii_054.xhtml#_idParaDest-91"
+        },
+        {
+          "title": "Osiřelé dítě a tajemná jeho matka",
+          "children": [
+            {
+              "title": "I Osiřelé dítě s modrýma očima",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-93"
+            },
+            {
+              "title": "II Listonoš s penězi",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-94"
+            },
+            {
+              "title": "III Statečný čin penzisty Pavlíka",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-95"
+            },
+            {
+              "title": "IV Obchodní čin obchodníka",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-96"
+            },
+            {
+              "title": "V Následky článku Tajemná matka",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-97"
+            },
+            {
+              "title": "VI Hluchoněmá služka",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-98"
+            },
+            {
+              "title": "VII Nová psaní, nová odhalení a nové obchody",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-99"
+            },
+            {
+              "title": "VIII Rady a úvahy",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-100"
+            },
+            {
+              "title": "IX Tajemná matka objevena a diskrétnost zachována",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-101"
+            },
+            {
+              "title": "X Otec velmi podoben Toničce",
+              "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-102"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_055.xhtml#_idParaDest-92"
+        },
+        {
+          "title": "Polemika mezi Hlasy od Nučic a Nučickou stráží",
+          "href": "OEBPS/Text/povidky_ii_056.xhtml#_idParaDest-103"
+        },
+        {
+          "title": "Rady pro život",
+          "children": [
+            {
+              "title": "I Těš a raduj se!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-105"
+            },
+            {
+              "title": "II Nesmějme se cizímu neštěstí!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-106"
+            },
+            {
+              "title": "III Nelezte v noci do pokoje pro služebné!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-107"
+            },
+            {
+              "title": "IV Nenadávejte!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-108"
+            },
+            {
+              "title": "V Nechoďte světem s obličejem zasmušilým a nevlídným!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-109"
+            },
+            {
+              "title": "VI Nekupujte zajíce v pytli!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-110"
+            },
+            {
+              "title": "VII Čím více se do tebe mluví, tím méně mluv!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-111"
+            },
+            {
+              "title": "VIII Odlož rozhodnutí učiněné ve zlosti!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-112"
+            },
+            {
+              "title": "IX Nevypravuj své domácí nesnáze přátelům!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-113"
+            },
+            {
+              "title": "X Nepomáhej, pokud pomoci žádající sám si může pomoci!",
+              "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-114"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_057.xhtml#_idParaDest-104"
+        },
+        {
+          "title": "Román z Malého oznamovatele v Národní politice za řadu dní",
+          "href": "OEBPS/Text/povidky_ii_058.xhtml#_idParaDest-115"
+        },
+        {
+          "title": "Stručný obsah krvavého románu",
+          "href": "OEBPS/Text/povidky_ii_059.xhtml#_idParaDest-116"
+        },
+        {
+          "title": "Tragický konec sekundána Petišky",
+          "href": "OEBPS/Text/povidky_ii_060.xhtml#_idParaDest-117"
+        },
+        {
+          "title": "Vyhubení praktikantů speditérské firmy Kobkán",
+          "href": "OEBPS/Text/povidky_ii_061.xhtml#_idParaDest-118"
+        },
+        {
+          "title": "Vzdělávací čítanka",
+          "children": [
+            {
+              "title": "Předmluva",
+              "href": "OEBPS/Text/povidky_ii_062.xhtml#_idParaDest-120"
+            },
+            {
+              "title": "Několik ukázek",
+              "href": "OEBPS/Text/povidky_ii_062.xhtml#_idParaDest-121"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_062.xhtml#_idParaDest-119"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_ii_044.xhtml#_idParaDest-72"
+    },
+    {
+      "title": "PÁNBŮH A JEHO SLUŽEBNÍCI",
+      "children": [
+        {
+          "title": "Fialový hrom",
+          "href": "OEBPS/Text/povidky_ii_064.xhtml#_idParaDest-123"
+        },
+        {
+          "title": "Hřích faráře Ondřeje",
+          "href": "OEBPS/Text/povidky_ii_065.xhtml#_idParaDest-124"
+        },
+        {
+          "title": "Idyla z chudobince na Žižkově",
+          "href": "OEBPS/Text/povidky_ii_066.xhtml#_idParaDest-125"
+        },
+        {
+          "title": "Kam to vede, když člověk vystoupí z církve",
+          "href": "OEBPS/Text/povidky_ii_067.xhtml#_idParaDest-126"
+        },
+        {
+          "title": "Povídka z pekla",
+          "href": "OEBPS/Text/povidky_ii_068.xhtml#_idParaDest-127"
+        },
+        {
+          "title": "Smutný konec nádražní misie",
+          "href": "OEBPS/Text/povidky_ii_069.xhtml#_idParaDest-128"
+        },
+        {
+          "title": "Světci a zvířata",
+          "href": "OEBPS/Text/povidky_ii_070.xhtml#_idParaDest-129"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_ii_063.xhtml#_idParaDest-122"
+    },
+    {
+      "title": "ZVÍŘATA DVOU- I VÍCENOHÁ",
+      "children": [
+        {
+          "title": "Aféra s křečkem",
+          "href": "OEBPS/Text/povidky_ii_072.xhtml#_idParaDest-131"
+        },
+        {
+          "title": "Kynologický ústav",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_073.xhtml#_idParaDest-133"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_073.xhtml#_idParaDest-134"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_073.xhtml#_idParaDest-135"
+            },
+            {
+              "title": "IV",
+              "href": "OEBPS/Text/povidky_ii_073.xhtml#_idParaDest-136"
+            },
+            {
+              "title": "V",
+              "href": "OEBPS/Text/povidky_ii_073.xhtml#_idParaDest-137"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_073.xhtml#_idParaDest-132"
+        },
+        {
+          "title": "Má drahá přítelkyně Julča",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_074.xhtml#_idParaDest-139"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_074.xhtml#_idParaDest-140"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_074.xhtml#_idParaDest-141"
+            },
+            {
+              "title": "IV",
+              "href": "OEBPS/Text/povidky_ii_074.xhtml#_idParaDest-142"
+            },
+            {
+              "title": "V",
+              "href": "OEBPS/Text/povidky_ii_074.xhtml#_idParaDest-143"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_074.xhtml#_idParaDest-138"
+        },
+        {
+          "title": "Nešťastná historie s kocourem",
+          "href": "OEBPS/Text/povidky_ii_075.xhtml#_idParaDest-144"
+        },
+        {
+          "title": "O nejošklivějším psu Balabánovi",
+          "href": "OEBPS/Text/povidky_ii_076.xhtml#_idParaDest-145"
+        },
+        {
+          "title": "Obecní býk v Jablečnu",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_077.xhtml#_idParaDest-147"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_077.xhtml#_idParaDest-148"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_077.xhtml#_idParaDest-149"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_077.xhtml#_idParaDest-146"
+        },
+        {
+          "title": "Ohař pana barona",
+          "href": "OEBPS/Text/povidky_ii_078.xhtml#_idParaDest-150"
+        },
+        {
+          "title": "Podivuhodné dobrodružství indického kačera v městském parku",
+          "href": "OEBPS/Text/povidky_ii_079.xhtml#_idParaDest-151"
+        },
+        {
+          "title": "Povídka o kočce",
+          "children": [
+            {
+              "title": "I",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-153"
+            },
+            {
+              "title": "II",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-154"
+            },
+            {
+              "title": "III",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-155"
+            },
+            {
+              "title": "IV",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-156"
+            },
+            {
+              "title": "V",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-157"
+            },
+            {
+              "title": "VI",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-158"
+            },
+            {
+              "title": "VII",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-159"
+            },
+            {
+              "title": "VIII",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-160"
+            },
+            {
+              "title": "IX",
+              "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-161"
+            }
+          ],
+          "href": "OEBPS/Text/povidky_ii_080.xhtml#_idParaDest-152"
+        },
+        {
+          "title": "Povídka z hipodromu",
+          "href": "OEBPS/Text/povidky_ii_081.xhtml#_idParaDest-162"
+        },
+        {
+          "title": "V přírodovědeckém časopise",
+          "href": "OEBPS/Text/povidky_ii_082.xhtml#_idParaDest-163"
+        },
+        {
+          "title": "Vliv hudby na zvířata",
+          "href": "OEBPS/Text/povidky_ii_083.xhtml#_idParaDest-164"
+        }
+      ],
+      "href": "OEBPS/Text/povidky_ii_071.xhtml#_idParaDest-130"
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Povídky II</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ZE ŽIVOTA MILOSTNÉHO, RODINNÉHO I SPOLEČENSKÉHO</text>
+      </navLabel>
+      <content src="Text/povidky_ii_005.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Boje s domovníky</text>
+        </navLabel>
+        <content src="Text/povidky_ii_006.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Drobílkovo milostné dobrodružství</text>
+        </navLabel>
+        <content src="Text/povidky_ii_007.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Šťastný domov</text>
+        </navLabel>
+        <content src="Text/povidky_ii_008.xhtml#_idParaDest-4"/>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-5"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-6"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-7"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-8"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-9"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>VI</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-10"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>VII</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-11"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>VIII</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-12"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>IX</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-13"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>X</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-14"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>XI</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-15"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>XII</text>
+          </navLabel>
+          <content src="Text/povidky_ii_008.xhtml#_idParaDest-16"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Jak jsem si přišíval knoflík ke kalhotám</text>
+        </navLabel>
+        <content src="Text/povidky_ii_009.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Jak vypadají ženy</text>
+        </navLabel>
+        <content src="Text/povidky_ii_010.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Kradení lidí</text>
+        </navLabel>
+        <content src="Text/povidky_ii_011.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Osudy společenského člověka</text>
+        </navLabel>
+        <content src="Text/povidky_ii_012.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Otcovské radosti pana Motejzlíka</text>
+        </navLabel>
+        <content src="Text/povidky_ii_013.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Společenské lži</text>
+        </navLabel>
+        <content src="Text/povidky_ii_014.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Trampoty pana Tenkráta</text>
+        </navLabel>
+        <content src="Text/povidky_ii_015.xhtml#_idParaDest-23"/>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>Předmluva</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-24"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-25"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-26"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-27"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-28"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-29"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>VI</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-30"/>
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>VII</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-31"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>VIII</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-32"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>IX</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-33"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>X</text>
+          </navLabel>
+          <content src="Text/povidky_ii_015.xhtml#_idParaDest-34"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Vařím si vejce naměkko</text>
+        </navLabel>
+        <content src="Text/povidky_ii_016.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Z praktického života</text>
+        </navLabel>
+        <content src="Text/povidky_ii_017.xhtml#_idParaDest-36"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>ALKOHOL, ABSTINENCE A JINÉ NEŘESTI</text>
+      </navLabel>
+      <content src="Text/povidky_ii_018.xhtml#_idParaDest-37"/>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Alkoholická idylka</text>
+        </navLabel>
+        <content src="Text/povidky_ii_019.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Dobrodružství pana Karafiáta</text>
+        </navLabel>
+        <content src="Text/povidky_ii_020.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Jak se stal pan Karaus alkoholikem</text>
+        </navLabel>
+        <content src="Text/povidky_ii_021.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>O bludném cyklistovi</text>
+        </navLabel>
+        <content src="Text/povidky_ii_022.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Pokus o abstinentní večírek čili americká zábava</text>
+        </navLabel>
+        <content src="Text/povidky_ii_023.xhtml#_idParaDest-42"/>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_023.xhtml#_idParaDest-43"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_023.xhtml#_idParaDest-44"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_023.xhtml#_idParaDest-45"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/povidky_ii_023.xhtml#_idParaDest-46"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Psychiatrická záhada</text>
+        </navLabel>
+        <content src="Text/povidky_ii_024.xhtml#_idParaDest-47"/>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_024.xhtml#_idParaDest-48"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_024.xhtml#_idParaDest-49"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_024.xhtml#_idParaDest-50"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Silvestr abstinentů</text>
+        </navLabel>
+        <content src="Text/povidky_ii_025.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Velmi spletitá historie o špatném vínu</text>
+        </navLabel>
+        <content src="Text/povidky_ii_026.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Zápas s Armádou spásy</text>
+        </navLabel>
+        <content src="Text/povidky_ii_027.xhtml#_idParaDest-53"/>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_027.xhtml#_idParaDest-54"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_027.xhtml#_idParaDest-55"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>DĚTI, STUDENTI A JEJICH VZDĚLAVATELÉ</text>
+      </navLabel>
+      <content src="Text/povidky_ii_028.xhtml#_idParaDest-56"/>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Časopisy pro mládež</text>
+        </navLabel>
+        <content src="Text/povidky_ii_029.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Dobrodružství s nahým klukem</text>
+        </navLabel>
+        <content src="Text/povidky_ii_030.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Duchovní cvičení s překážkami</text>
+        </navLabel>
+        <content src="Text/povidky_ii_031.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Hodina pravopisu</text>
+        </navLabel>
+        <content src="Text/povidky_ii_032.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Hovor s malým Mílou</text>
+        </navLabel>
+        <content src="Text/povidky_ii_033.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Jak se Baluška naučil lhát</text>
+        </navLabel>
+        <content src="Text/povidky_ii_034.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Jaké máme trápení s tetou</text>
+        </navLabel>
+        <content src="Text/povidky_ii_035.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Logické a nelogické hlavy</text>
+        </navLabel>
+        <content src="Text/povidky_ii_036.xhtml#_idParaDest-64"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Mnemotechnika</text>
+        </navLabel>
+        <content src="Text/povidky_ii_037.xhtml#_idParaDest-65"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Muž a žena v manželství</text>
+        </navLabel>
+        <content src="Text/povidky_ii_038.xhtml#_idParaDest-66"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Náš dům</text>
+        </navLabel>
+        <content src="Text/povidky_ii_039.xhtml#_idParaDest-67"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Pepíček Nový vypravuje o zasnoubení své sestry</text>
+        </navLabel>
+        <content src="Text/povidky_ii_040.xhtml#_idParaDest-68"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Školní čítanky</text>
+        </navLabel>
+        <content src="Text/povidky_ii_041.xhtml#_idParaDest-69"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Školní výlet</text>
+        </navLabel>
+        <content src="Text/povidky_ii_042.xhtml#_idParaDest-70"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Terciánská vzpoura</text>
+        </navLabel>
+        <content src="Text/povidky_ii_043.xhtml#_idParaDest-71"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>NOVINY A PSANÍ VŮBEC</text>
+      </navLabel>
+      <content src="Text/povidky_ii_044.xhtml#_idParaDest-72"/>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Dotazy a odpovědi</text>
+        </navLabel>
+        <content src="Text/povidky_ii_045.xhtml#_idParaDest-73"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Jak se máme chovati doma, na ulici, v úřadech, v obchodech, v divadlech, na aeroplánu a na fotbalových zápasech</text>
+        </navLabel>
+        <content src="Text/povidky_ii_046.xhtml#_idParaDest-74"/>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>Jak se máme chovati doma</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-75"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>Jak se máme chovati na ulici</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-76"/>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>Jak se máme chovati v úřadech</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-77"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>Jak se máme chovati v obchodech</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-78"/>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>Jak se máme chovati v divadle</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-79"/>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>Jak se máme chovati na aeroplánu</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-80"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>Jak se máme chovati na fotbalových zápasech</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-81"/>
+        </navPoint>
+        <navPoint id="navPoint-82" playOrder="82">
+          <navLabel>
+            <text>Doslov</text>
+          </navLabel>
+          <content src="Text/povidky_ii_046.xhtml#_idParaDest-82"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Interview s panem cenzorem</text>
+        </navLabel>
+        <content src="Text/povidky_ii_047.xhtml#_idParaDest-83"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Lidská ješitnost</text>
+        </navLabel>
+        <content src="Text/povidky_ii_048.xhtml#_idParaDest-84"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Malá polemička</text>
+        </navLabel>
+        <content src="Text/povidky_ii_049.xhtml#_idParaDest-85"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Malý oznamovatel Národní politiky</text>
+        </navLabel>
+        <content src="Text/povidky_ii_050.xhtml#_idParaDest-86"/>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>Dopisy</text>
+          </navLabel>
+          <content src="Text/povidky_ii_050.xhtml#_idParaDest-87"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Malý oznamovatel Národní politiky – Nabídnutí k sňatku</text>
+        </navLabel>
+        <content src="Text/povidky_ii_051.xhtml#_idParaDest-88"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Něco o inzerátech</text>
+        </navLabel>
+        <content src="Text/povidky_ii_052.xhtml#_idParaDest-89"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Nedělní zábavná příloha</text>
+        </navLabel>
+        <content src="Text/povidky_ii_053.xhtml#_idParaDest-90"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>O vhodných názvech</text>
+        </navLabel>
+        <content src="Text/povidky_ii_054.xhtml#_idParaDest-91"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Osiřelé dítě a tajemná jeho matka</text>
+        </navLabel>
+        <content src="Text/povidky_ii_055.xhtml#_idParaDest-92"/>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>I Osiřelé dítě s modrýma očima</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-93"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>II Listonoš s penězi</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-94"/>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+          <navLabel>
+            <text>III Statečný čin penzisty Pavlíka</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-95"/>
+        </navPoint>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>IV Obchodní čin obchodníka</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-96"/>
+        </navPoint>
+        <navPoint id="navPoint-97" playOrder="97">
+          <navLabel>
+            <text>V Následky článku Tajemná matka</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-97"/>
+        </navPoint>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>VI Hluchoněmá služka</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-98"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>VII Nová psaní, nová odhalení a nové obchody</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-99"/>
+        </navPoint>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>VIII Rady a úvahy</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-100"/>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>IX Tajemná matka objevena a diskrétnost zachována</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-101"/>
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>X Otec velmi podoben Toničce</text>
+          </navLabel>
+          <content src="Text/povidky_ii_055.xhtml#_idParaDest-102"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Polemika mezi Hlasy od Nučic a Nučickou stráží</text>
+        </navLabel>
+        <content src="Text/povidky_ii_056.xhtml#_idParaDest-103"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Rady pro život</text>
+        </navLabel>
+        <content src="Text/povidky_ii_057.xhtml#_idParaDest-104"/>
+        <navPoint id="navPoint-105" playOrder="105">
+          <navLabel>
+            <text>I Těš a raduj se!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-105"/>
+        </navPoint>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>II Nesmějme se cizímu neštěstí!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-106"/>
+        </navPoint>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>III Nelezte v noci do pokoje pro služebné!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-107"/>
+        </navPoint>
+        <navPoint id="navPoint-108" playOrder="108">
+          <navLabel>
+            <text>IV Nenadávejte!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-108"/>
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>V Nechoďte světem s obličejem zasmušilým a nevlídným!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-109"/>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>VI Nekupujte zajíce v pytli!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-110"/>
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111">
+          <navLabel>
+            <text>VII Čím více se do tebe mluví, tím méně mluv!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-111"/>
+        </navPoint>
+        <navPoint id="navPoint-112" playOrder="112">
+          <navLabel>
+            <text>VIII Odlož rozhodnutí učiněné ve zlosti!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-112"/>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>IX Nevypravuj své domácí nesnáze přátelům!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-113"/>
+        </navPoint>
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>X Nepomáhej, pokud pomoci žádající sám si může pomoci!</text>
+          </navLabel>
+          <content src="Text/povidky_ii_057.xhtml#_idParaDest-114"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Román z Malého oznamovatele v Národní politice za řadu dní</text>
+        </navLabel>
+        <content src="Text/povidky_ii_058.xhtml#_idParaDest-115"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Stručný obsah krvavého románu</text>
+        </navLabel>
+        <content src="Text/povidky_ii_059.xhtml#_idParaDest-116"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Tragický konec sekundána Petišky</text>
+        </navLabel>
+        <content src="Text/povidky_ii_060.xhtml#_idParaDest-117"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Vyhubení praktikantů speditérské firmy Kobkán</text>
+        </navLabel>
+        <content src="Text/povidky_ii_061.xhtml#_idParaDest-118"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>Vzdělávací čítanka</text>
+        </navLabel>
+        <content src="Text/povidky_ii_062.xhtml#_idParaDest-119"/>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>Předmluva</text>
+          </navLabel>
+          <content src="Text/povidky_ii_062.xhtml#_idParaDest-120"/>
+        </navPoint>
+        <navPoint id="navPoint-121" playOrder="121">
+          <navLabel>
+            <text>Několik ukázek</text>
+          </navLabel>
+          <content src="Text/povidky_ii_062.xhtml#_idParaDest-121"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-122" playOrder="122">
+      <navLabel>
+        <text>PÁNBŮH A JEHO SLUŽEBNÍCI</text>
+      </navLabel>
+      <content src="Text/povidky_ii_063.xhtml#_idParaDest-122"/>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Fialový hrom</text>
+        </navLabel>
+        <content src="Text/povidky_ii_064.xhtml#_idParaDest-123"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Hřích faráře Ondřeje</text>
+        </navLabel>
+        <content src="Text/povidky_ii_065.xhtml#_idParaDest-124"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>Idyla z chudobince na Žižkově</text>
+        </navLabel>
+        <content src="Text/povidky_ii_066.xhtml#_idParaDest-125"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Kam to vede, když člověk vystoupí z církve</text>
+        </navLabel>
+        <content src="Text/povidky_ii_067.xhtml#_idParaDest-126"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Povídka z pekla</text>
+        </navLabel>
+        <content src="Text/povidky_ii_068.xhtml#_idParaDest-127"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Smutný konec nádražní misie</text>
+        </navLabel>
+        <content src="Text/povidky_ii_069.xhtml#_idParaDest-128"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>Světci a zvířata</text>
+        </navLabel>
+        <content src="Text/povidky_ii_070.xhtml#_idParaDest-129"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-130" playOrder="130">
+      <navLabel>
+        <text>ZVÍŘATA DVOU- I VÍCENOHÁ</text>
+      </navLabel>
+      <content src="Text/povidky_ii_071.xhtml#_idParaDest-130"/>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>Aféra s křečkem</text>
+        </navLabel>
+        <content src="Text/povidky_ii_072.xhtml#_idParaDest-131"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>Kynologický ústav</text>
+        </navLabel>
+        <content src="Text/povidky_ii_073.xhtml#_idParaDest-132"/>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_073.xhtml#_idParaDest-133"/>
+        </navPoint>
+        <navPoint id="navPoint-134" playOrder="134">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_073.xhtml#_idParaDest-134"/>
+        </navPoint>
+        <navPoint id="navPoint-135" playOrder="135">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_073.xhtml#_idParaDest-135"/>
+        </navPoint>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/povidky_ii_073.xhtml#_idParaDest-136"/>
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/povidky_ii_073.xhtml#_idParaDest-137"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Má drahá přítelkyně Julča</text>
+        </navLabel>
+        <content src="Text/povidky_ii_074.xhtml#_idParaDest-138"/>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_074.xhtml#_idParaDest-139"/>
+        </navPoint>
+        <navPoint id="navPoint-140" playOrder="140">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_074.xhtml#_idParaDest-140"/>
+        </navPoint>
+        <navPoint id="navPoint-141" playOrder="141">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_074.xhtml#_idParaDest-141"/>
+        </navPoint>
+        <navPoint id="navPoint-142" playOrder="142">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/povidky_ii_074.xhtml#_idParaDest-142"/>
+        </navPoint>
+        <navPoint id="navPoint-143" playOrder="143">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/povidky_ii_074.xhtml#_idParaDest-143"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>Nešťastná historie s kocourem</text>
+        </navLabel>
+        <content src="Text/povidky_ii_075.xhtml#_idParaDest-144"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>O nejošklivějším psu Balabánovi</text>
+        </navLabel>
+        <content src="Text/povidky_ii_076.xhtml#_idParaDest-145"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>Obecní býk v Jablečnu</text>
+        </navLabel>
+        <content src="Text/povidky_ii_077.xhtml#_idParaDest-146"/>
+        <navPoint id="navPoint-147" playOrder="147">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_077.xhtml#_idParaDest-147"/>
+        </navPoint>
+        <navPoint id="navPoint-148" playOrder="148">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_077.xhtml#_idParaDest-148"/>
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_077.xhtml#_idParaDest-149"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>Ohař pana barona</text>
+        </navLabel>
+        <content src="Text/povidky_ii_078.xhtml#_idParaDest-150"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>Podivuhodné dobrodružství indického kačera v městském parku</text>
+        </navLabel>
+        <content src="Text/povidky_ii_079.xhtml#_idParaDest-151"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>Povídka o kočce</text>
+        </navLabel>
+        <content src="Text/povidky_ii_080.xhtml#_idParaDest-152"/>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>I</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-153"/>
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+          <navLabel>
+            <text>II</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-154"/>
+        </navPoint>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>III</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-155"/>
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>IV</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-156"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>V</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-157"/>
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158">
+          <navLabel>
+            <text>VI</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-158"/>
+        </navPoint>
+        <navPoint id="navPoint-159" playOrder="159">
+          <navLabel>
+            <text>VII</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-159"/>
+        </navPoint>
+        <navPoint id="navPoint-160" playOrder="160">
+          <navLabel>
+            <text>VIII</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-160"/>
+        </navPoint>
+        <navPoint id="navPoint-161" playOrder="161">
+          <navLabel>
+            <text>IX</text>
+          </navLabel>
+          <content src="Text/povidky_ii_080.xhtml#_idParaDest-161"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>Povídka z hipodromu</text>
+        </navLabel>
+        <content src="Text/povidky_ii_081.xhtml#_idParaDest-162"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>V přírodovědeckém časopise</text>
+        </navLabel>
+        <content src="Text/povidky_ii_082.xhtml#_idParaDest-163"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>Vliv hudby na zvířata</text>
+        </navLabel>
+        <content src="Text/povidky_ii_083.xhtml#_idParaDest-164"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

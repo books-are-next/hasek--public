@@ -1,0 +1,110 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: en
+meta:
+  title: Povídky II
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jaroslav Hašek
+  publisher: Městská knihovna v Praze
+  modified: '2022-02-18T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - povidky_ii_001.html
+  - povidky_ii_002.html
+  - povidky_ii_003.html
+  - povidky_ii_004.html
+  - povidky_ii_005.html
+  - povidky_ii_006.html
+  - povidky_ii_007.html
+  - povidky_ii_008.html
+  - povidky_ii_009.html
+  - povidky_ii_010.html
+  - povidky_ii_011.html
+  - povidky_ii_012.html
+  - povidky_ii_013.html
+  - povidky_ii_014.html
+  - povidky_ii_015.html
+  - povidky_ii_016.html
+  - povidky_ii_017.html
+  - povidky_ii_018.html
+  - povidky_ii_019.html
+  - povidky_ii_020.html
+  - povidky_ii_021.html
+  - povidky_ii_022.html
+  - povidky_ii_023.html
+  - povidky_ii_024.html
+  - povidky_ii_025.html
+  - povidky_ii_026.html
+  - povidky_ii_027.html
+  - povidky_ii_028.html
+  - povidky_ii_029.html
+  - povidky_ii_030.html
+  - povidky_ii_031.html
+  - povidky_ii_032.html
+  - povidky_ii_033.html
+  - povidky_ii_034.html
+  - povidky_ii_035.html
+  - povidky_ii_036.html
+  - povidky_ii_037.html
+  - povidky_ii_038.html
+  - povidky_ii_039.html
+  - povidky_ii_040.html
+  - povidky_ii_041.html
+  - povidky_ii_042.html
+  - povidky_ii_043.html
+  - povidky_ii_044.html
+  - povidky_ii_045.html
+  - povidky_ii_046.html
+  - povidky_ii_047.html
+  - povidky_ii_048.html
+  - povidky_ii_049.html
+  - povidky_ii_050.html
+  - povidky_ii_051.html
+  - povidky_ii_052.html
+  - povidky_ii_053.html
+  - povidky_ii_054.html
+  - povidky_ii_055.html
+  - povidky_ii_056.html
+  - povidky_ii_057.html
+  - povidky_ii_058.html
+  - povidky_ii_059.html
+  - povidky_ii_060.html
+  - povidky_ii_061.html
+  - povidky_ii_062.html
+  - povidky_ii_063.html
+  - povidky_ii_064.html
+  - povidky_ii_065.html
+  - povidky_ii_066.html
+  - povidky_ii_067.html
+  - povidky_ii_068.html
+  - povidky_ii_069.html
+  - povidky_ii_070.html
+  - povidky_ii_071.html
+  - povidky_ii_072.html
+  - povidky_ii_073.html
+  - povidky_ii_074.html
+  - povidky_ii_075.html
+  - povidky_ii_076.html
+  - povidky_ii_077.html
+  - povidky_ii_078.html
+  - povidky_ii_079.html
+  - povidky_ii_080.html
+  - povidky_ii_081.html
+  - povidky_ii_082.html
+  - povidky_ii_083.html
+  - povidky_ii_084.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - favicon.png
+---
