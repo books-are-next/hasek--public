@@ -3,8 +3,6 @@ title: Školní čítanky
 contentType: prose
 ---
 
-  
-
 Spisovatelům školních čítanek pro děti nelze upřít tu dobrou snahu vychovat z dětí řádné vlastence a bohabojné lidi…
 
 Tomu nasvědčuje již rozdělení čítanek na části:
@@ -21,24 +19,24 @@ Tomu nasvědčuje již rozdělení čítanek na části:
 
 Všechny ty části tvoří jakousi mravnou a bohabojnou kaši. Omastek tvoří naučení od mravenců, vymyšlené důvtipně nebožtíkem B. Jablonským.
 
-„Synu, uč se od mravence  
+_„Synu, uč se od mravence  
 mravně na tom světě žíti,  
 nelenujeť, žije tence,  
-sbírá jen, co musí míti.
+sbírá jen, co musí míti._
 
-Po takém nedychtí štěstí,  
+_Po takém nedychtí štěstí,  
 které blaží jenom lenost,  
 největší bohatství jesti –  
-pracovitá spokojenost.“
+pracovitá spokojenost.“_
 
 Toť příklad mravného mravence, milé dítky. A až budete se později dřít na továrenské vydřiduchy za nepatrnou mzdu, zadeklamujete si to – největším bohatstvím jesti pracovitá spokojenost. Nu, Jablonský byl proboštem a jméno jeho ze školních čítanek nevymírá.
 
 Bez něho by děti nevěděly, že –
 
-„I Tobě, synu (dcero),  
+_„I Tobě, synu (dcero),  
 dala ruka boží země část,  
 neboť tobě darovala  
-tvoji krásnou, slavnou vlast.“
+tvoji krásnou, slavnou vlast.“_
 
 A tak, milé dítě, dře se tvůj táta, dře se tvá máma a do úmoru kdysi snad i ty, ale lehce se v krásné a slavné vlasti umírá hlady, je to tvá půda, milé dítě, sáhnout sice nesmíš na rukou boží ti darovanou země část, na to jsou paragrafy, ale přečti si to v čítance.
 
@@ -48,21 +46,21 @@ A až u vás doma nenajdete chleba a táta bude plivat krev, tu přečti si z
 
 A až tě postrkem dopraví na smrt nemocného, jako jednou se stalo v Moravské Třebové, tu vzpomeň si na školní čítanku, jak jsi ve čtvrté třídě obecné školy obrátil první stránku, a co jsi tam četl?
 
-„Otče náš. K tobě důvěrně voláme,  
+_„Otče náš. K tobě důvěrně voláme,  
 neb my lásku dobře známe,  
-kterou ty nás objímáš. Otče náš!“
+kterou ty nás objímáš. Otče náš!“_
 
 A kdyby tě utiskovali, neklej! Dílem by ti jazyk zdřevěněl. Znám podobných zvláštních chorob z čítanek školních několik, dílem by se ti za takové „sakra“ špatně vedlo i na zemi i na nebi. Jakmile bys chtěl klnout, vzpomeň, jaks četl v čítance básničku B. Hakla:
 
-„Čistá vždy řeč plyň ti z úst,  
+_„Čistá vždy řeč plyň ti z úst,  
 mysli tvá buď ctnosti sídlem,  
-zlých slov nikdy nevypusť.“
+zlých slov nikdy nevypusť.“_
 
 Dej se vždy klidně utiskovat, poněvadž po smrti se budeš mít dobře. Za to ručí slavná jména Beneše Metoděje Kuldy, Xavera Dvořáka, Vojtěcha Pakosty a jiných mrtvých i živých páterů, milostných trubadúrů nadhvězdného štěstí.
 
 K nim druží se celá řada jiných spisovatelů, kteří chtějí vytvořit pevné charaktery z dětí. Činí tak roztomilými povídkami o Aničkách, věrných služkách a chůvách, které dřou se přes dvě generace na jednom statku a chovají upracované jen jedno tklivé přání, aby byly pochovány na hřbitově vedle svých pánů:
 
-„Tam se zas všichni pěkně sejdeme.“
+_„Tam se zas všichni pěkně sejdeme.“_
 
 Nebo ta stařenka, která se modlí růženec a pláče. Je jí osmdesát let a naříká, že už nemůže pracovat. Ještě loni v sedmdesáti devíti letech pracovala. Všichni kolem ji mají rádi, zahrnují ji láskou, ale ona pláče na celé stránce školní čítanky, ve kterých hlavní důraz klade se na to nešťastné čtení výchovné, jehož zlatým hřebem byl nebožtík František Doucha.
 
@@ -74,10 +72,10 @@ Byl první, který zavedl do školních čítanek takzvané průzračné příkl
 
 Školní čítanky skýtají vůbec nejedno poučení, které mládež provází po cestách ctnosti.
 
-„Modli se a pracuj!  
+_„Modli se a pracuj!  
 Přičiň se a důvěřuj v Boha!  
 Povolnost činí přátele!  
-Moudřejší ustoupí!“
+Moudřejší ustoupí!“_
 
 Jakými krásnými hesly prošpikovány bývají čítanky. Mnohý okamžitě nepozná pravou cenu těch hesel, ale až jednou povyroste, přesvědčí se. Až bude mít spor se zaměstnavatelem, prostě se oběsí a zanechá po sobě lístek „Moudřejší ustoupí“ nebo „Povolnost činí přátele“.
 
@@ -109,7 +107,7 @@ A ti bohumilí občané budou mít takové nepatrné mozečky jako spisovatelé
 
 Napsal nějaký Jan Javarnický:
 
-„Zvykej mládeži čítankám čest dáti,  
-jinak máš se těžkých trestů báti.“
+_„Zvykej mládeži čítankám čest dáti,  
+jinak máš se těžkých trestů báti.“_
 
 A ten těžký trest je nenajít zaopatření v ústavu pro slabomyslné…

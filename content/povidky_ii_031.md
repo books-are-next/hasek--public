@@ -3,8 +3,6 @@ title: "Duchovní cvičení s\_překážkami"
 contentType: prose
 ---
 
-  
-
 V tercii dostali jsme nového katechetu Antonína Heřmana. Před­cházející katecheta Müller příliš se o naše duše nestaral a patrně nabyl přesvědčení, že je vše marno.
 
 Páter Heřman chtěl však ďáblu vyrvat naše zpustlé duše a počal zkoušet liturgii a katechismus s větší přísností. Když viděl, že kromě dvou neb tří všichni klopýtáme o uznané pravdy náboženské, zavedl se svolením ředitele ve středu a v sobotu opakovací hodiny, v nichž zjemňoval duši tercie obratnými frázemi. Jmenoval nás přitom lotry a padouchy uprostřed nejkrásnějších vět, které začínaly poeticky a v nichž přirovnáváním snažil se vzbudit v nás ušlechtilejší city.

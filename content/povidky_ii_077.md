@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Až do toho dne nebylo Jablečno obcí, o které by se dalo mluvit. Ještě že pan vikář nad Přísednicí někdy dřív přivedl řeč na Jablečno, chtěl-li podati důkaz a příklad nějaké věrolomnosti.
 
 Týkalo se to posledních voleb, kdy pan vikář šel se svým kaplanem do Jablečna, aby na důvěrné schůzi obhájil pozici svého kandidáta. Po dlouhé řeči pana vikáře slíbil starosta jménem všech voličů v Jablečnu, že všichni do jednoho budou volit kandidáta vikářova. Podal mu na to obě ruce. Pak pan vikář v zájmu pravdy dal vyvalit soudek piva, a když šel domů lukami za Přísednicí, byl přesvědčen, že nikdy tak krásně nemluvil jako dnes.
@@ -53,8 +51,6 @@ Jakmile však to zvolal, býk se zvedl, šel k němu a už mu hodili na krk pr
 
 ## II
 
-  
-
 I taková slavná věc, jako mít obecního býka, má své ponuré pozadí v Jablečnu. Mívali tu mnoho slibných slavných věcí, čistě místních, které však nepřešly u vědomost lidí za humny.
 
 Byl to například Hospodářský čtenářský spolek, založený již před 25 lety. Nedočkal se však jubilea čtvrtstoletého trvání, poněvadž zašel před 22 lety na nedostatek čtenářů spisů, které nikdy neodbíral. Na obecní hospodě jest sice dodnes tabule Hospodářský čtenářský spolek, ale tu neodstraňují proto, poněvadž mají za ní vlaštovky své hnízdo. Jsou to jemní lidé.
@@ -84,8 +80,6 @@ V takovém okamžiku se velmi rozdováděl, zmítal sebou u jeslí a řval na
 Jednou prohnal až k starostovům přespolního listonoše, takže starosta měl o několik minut dřív v ruce psaní, které mu listonoš nesl. Psaní bylo od starosty nad Přísednicí, který svěřil papíru, že vikář z Přísednice starostu z Jablečna pomlouvá kvůli tomu býkovi.
 
 ## III
-
-  
 
 Pan vikář často kázal o tom, že msta patří Bohu. Zároveň však kázával též, že člověk snadno podléhá vášni a že pak zapomene na všechny dobré zásady.
 

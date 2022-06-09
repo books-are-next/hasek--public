@@ -3,8 +3,6 @@ title: Jak se Baluška naučil lhát
 contentType: prose
 ---
 
-  
-
 Jednou věcí vynikal Baluška nad všechny své spolužáky. Živým patrio­tismem. Byli sice jeho spolužáci též vynikajícími vlastenci, kteří jako Podskaláci s hlubokou nenávistí hořeli vůči Smíchovákům, ale nikdo tak statečně nehájil barvy pravého břehu Vltavy jako Baluška.
 
 Když nastaly památné boje, opakující se rok od roku, když totiž Vltava zamrzla a oba národové mohli na sebe, když ulicemi šlo heslo, že jsou zas již „traufy“[10](./resources/undefined), tu Baluška kradl řemínky z bičišťat kočům a hotovil praky. Jeho praky donášely také nejdál. Byl vždy první, který vrhl se na Smíchováky s hrozným proklínáním s kapsami plnými kamení a který, když zásoby střeliva došly, s řemenem s velikou přezkou hnal se na zděšené tlupy Smíchováků.
@@ -37,9 +35,7 @@ Bylo jaro. Oba národové na sebe nemohli, a proto Podskaláci, aby nezaháleli
 
 Balušku zas jednou chytli Podoláci a on se jim přiznal, že je z Pod­skalí. Pykal za to.
 
-\* \* \*
-
-  
+* * *
 
 Baluškův otec měl hospodu dole u řeky. Jednoho krásného dne, když slunce tak pěkně svítilo a Podskaláci vytáhli do skal nad Vyšehradem, aby zajímali Podoláky, smutně šel Baluška do Prahy, poslán otcem koupit pro hostinec vuřty.
 
@@ -99,6 +95,6 @@ Pak dostal uzené s knedlíkem, a uléhaje po přestálém utrpení do postele
 
 * * *
 
-[10](./resources/undefined) Rvačky (obvykle dětské). Pozn. red.
+_[10](./resources/undefined) Rvačky (obvykle dětské). Pozn. red._
 
-[11](./resources/undefined) Cigareta. Pozn. red.
+_[11](./resources/undefined) Cigareta. Pozn. red._

@@ -3,8 +3,6 @@ title: "Román z\_Malého oznamovatele v\_Národní politice za řadu dní"
 contentType: prose
 ---
 
-  
-
 26\. srpen. Parket Národního divadla. Vzpomínko, ty vonných květů ráji…
 
 26\. srpen. Parket Národního divadla. Patří parket mně? Dagmar.

@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Bylo kolem druhé hodiny noční, když pan Hurych vracel se ze schůze abstinentů, odbývané v jedné restauraci na Malé Straně. Schůze tato protáhla se proto tak dlouho, že v ní byla probírána rezignace předsedy, který byl zapleten do ošklivé aféry. Byl totiž usvědčen, že v jedné restauraci vypil sklenici plzeňského. Jako čestný muž odstoupil.
 
 Pan Hurych šel tedy domů po Karlově mostě.
@@ -63,8 +61,6 @@ Pan Hurych učinil pokus vrhnout se na kadeřníka, ale ustal, když mu strážn
 
 ## II
 
-  
-
 Je celá řada duševních chorob, které provázeny bývají sebevražednými pokusy, jako například paralysa progresiva, paranoia, melancholie, různé druhy mánií, hysterií a psychóz.
 
 Policejní lékaři přivolaní k zachráněným sebevrahům užívají tázacího systému jako nejdůležitější psychiatrické pomůcky.
@@ -84,8 +80,6 @@ Potom zase do něho hučel pan Bílek: „Já jsem kadeřník Bílek ze Smíchov
 Pan Hurych dal se do pláče.
 
 ## III
-
-  
 
 Přišel policejní lékař a řekl: „Přiveďte sem vyšetřovaného!“
 

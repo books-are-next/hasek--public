@@ -3,8 +3,6 @@ title: "V\_přírodovědeckém časopise"
 contentType: prose
 ---
 
-  
-
 Sezóna mořských hadů trvá v denních listech jen několik neděl, já však jako redaktor časopisu Svět zvířat měl jsem tu sezónu pořád. Během let vytloukli redaktoři Světa zvířat kdejaký materiál o zvířatech, a když jsem po nich převzal redakci, seznal jsem, že není zvířete, o kterém by se již v časopise nebylo psalo.
 
 Byl jsem tedy nucen vymýšlet si zvířata, což mně dalo menší práci než psát o zvířatech dávno již objevených.

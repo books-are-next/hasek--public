@@ -3,8 +3,6 @@ title: "Dobrodružství s\_nahým klukem"
 contentType: prose
 ---
 
-  
-
 Bylo pozdě večer. Ve Vltavě nekoupal se již nikdo. Oblékl jsem se na modřanském břehu a strojil jsem se jít ke stanici parníků Pivovar Braník, když jsem uslyšel z vrbin strašlivý pláč a nářek dítěte: „Panenko Maria, Ježíš Marjá Josefe, svatý andělíčku strážný.“
 
 Vnikl jsem do křoví a nalezl tam nahého osmiletého klučinu, který ležel bezmocně na kamínkách. Když mne uviděl, vyskočil a počal objímat mé nohy, přičemž křičel: „Proboha vás prosím, já jsem z Vršovic!“

@@ -3,8 +3,6 @@ title: Smutný konec nádražní misie
 contentType: prose
 ---
 
-  
-
 Komtesa Julie byla velmi ctnostná, což při dnešní zkaženosti mravů padá mnoho na váhu. Se srdcem nezkaženým dovedla v osmnácti letech mluvit o prostituci a jejím potírání, jako by sama prodělala všechny útrapy padlých žen ve vykřičených domech.
 
 Její matka, kněžna Bolderiová, shromáždila kolem sebe výkvět nejmravnějších dam jak ze šlechty, tak i z kruhů občanských a v přítomnosti nevinné Julie bylo velice často přemítáno, jak zachránit děvčata, aby nebyla zavlečena do domů hanby.

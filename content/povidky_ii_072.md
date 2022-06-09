@@ -3,11 +3,9 @@ title: "Aféra s\_křečkem"
 contentType: prose
 ---
 
-  
-
 V ranním vydání listu objevil se tento inzerát. Nebyl příliš velký, ale vyzníval z něho jakýsi výkřik zoufalství:
 
-Prodám okamžitě živého křečka neb vyměním za cokoliv. Praha III, Plaská, II. poschodí, 4. dveře vlevo.
+> _Prodám okamžitě živého křečka neb vyměním za cokoliv. Praha III, Plaská, II. poschodí, 4. dveře vlevo._
 
 Čtenáři přecházeli tento inzerát bez zájmu, jedině Honzátko, sekundán, který měl dnes školu až od devíti mohl nechat na tomto inzerátu oči. Byl v bytě sám. Otec odešel do úřadu, matka šla s jeho sestrou Emou obstarat nějaké poslední věci k svatbě, neboť Ema se bude pozítří vdávat. Služka použila pak té příležitosti a odběhla navštívit svého milence někam do zámečnické dílny v Karlíně a řekla Honzátkovi, aby nezapomněl dobře zamknout předsíň a dát klíč k domovníkovům. Přitom mu řekla „Bohoušku“ a pohladila ho po vlasech. Oba spolu drželi, neboť byli v domácnosti nejpronásledovanějšími tvory.
 
@@ -37,11 +35,11 @@ Dostal se tedy pohodlně otci na sbírku starých mincí a vzal odtamtud jeden 
 
 Nato sedl si k psacímu stolu a napsal na čtvrtku papíru:
 
-Omluvenka.
+> _Omluvenka._
 
-Stvrzuji tímto, že můj syn Bohuslav Honzátko nemohl se zúčastniti dnes pro bolení břicha dopoledního vyučování, a prosím, aby mu ty hodiny byly omluveny.
+> _Stvrzuji tímto, že můj syn Bohuslav Honzátko nemohl se zúčastniti dnes pro bolení břicha dopoledního vyučování, a prosím, aby mu ty hodiny byly omluveny._
 
-_Václav Honzátko_
+> _Václav Honzátko_
 
 Během dvou let podařilo se po dlouhé praxi Honzátkovi napodobit velmi dokonale podpis otcův. Omluvenku uschoval do čítanky na odpůldne, udělal z lupu z prádelníku balíček, vzal knihy podpaždí a odešel z domova, když dal domovníkovi klíč od předsíně pro Annu.
 
@@ -121,19 +119,19 @@ Panu Kratochvílovi se zdálo, že pak ježky měl vypudit pomocí žíhaných h
 
 Pan Honzátko zatím nelenil a ředitelství gymnázia, kde jeho synek nijak nevynikal, obdrželo od něho dopis, kterému pan ředitel nijak nerozuměl:
 
-Slavnému ředitelství gymnázia v Jirovcově ulici.
+> _Slavnému ředitelství gymnázia v Jirovcově ulici._
 
-Podepsaný uctivě prosí slavné gymnázium, aby vzhledem ku změněným rodinným poměrům bezodkladně učinilo kroky, aby křeček, který jest uschován u podepsaného, byl mu odebrán a vycpán.
+> _Podepsaný uctivě prosí slavné gymnázium, aby vzhledem ku změněným rodinným poměrům bezodkladně učinilo kroky, aby křeček, který jest uschován u podepsaného, byl mu odebrán a vycpán._
 
-S veškerou úctou
+> _S veškerou úctou_
 
-_Václav Honzátko, pokladník, Žižkov, Orebitská 5_
+> _Václav Honzátko, pokladník, Žižkov, Orebitská 5_
 
 Pan ředitel dal k sobě zavolat mladého Honzátka a se zájmem se ho vyptával, píše-li často jeho pan otec takové dopisy. Honzátko se vyjádřil, že neví. Nato se ho pan ředitel ještě optal, zdali jeho pan otec nebyl někdy v nějakém ústavu či sanatoriu. Honzátko, aby stále neříkal ne, tentokrát pro změnu přikývl hlavou. „Musíme ho upokojit a uklidnit,“ pomyslil si ředitel, a tak dostal pan Honzátko tento dopis:
 
-Vzhledem k Vašemu dopisu musíme s velkou lítosti Vám oznámiti, že ředitelství gymnázia na vycpání nereflektuje.
+> _Vzhledem k Vašemu dopisu musíme s velkou lítosti Vám oznámiti, že ředitelství gymnázia na vycpání nereflektuje._
 
-_Ředitelství ústavu_
+> _Ředitelství ústavu_
 
 Po obdržení toho dopisu odešel pan Honzátko rozčileně k pohodnému na Vyšehrad, kde mu bylo řečeno, že není možno úřední cestou utrácet zvířata v soukromých bytech, nýbrž že se musí dopravit na kontumační stanici.
 
@@ -147,4 +145,4 @@ Polévka z fretek. Fretky vařené s octovým křenem. Pečený křeček s br
 
 A mladý Honzátko, který způsobil všechen ten blahobyt, skromně seděl za stolem a neoceněn v té velké době, se slzami v očích obíral pečenou hlavičku svého nešťastného křečka.
 
-_Vilímkův humoristický kalendář na rok 1916_
+> _Vilímkův humoristický kalendář na rok 1916_

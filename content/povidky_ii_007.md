@@ -3,8 +3,6 @@ title: Drobílkovo milostné dobrodružství
 contentType: prose
 ---
 
-  
-
 Jsou na světě šlechetné povahy, které vykonávají však přitom trpný úkol lidí klamaných, lidí, kteří dožijí se konečně všelijakého nevděku. Zejména pokud se týče styků těchto šlechetníků s druhým pohlavím, přichází se přečasto k tomu názoru, že právě ty nejšlechetnější muže klamou ženy nejraději a že ti nejšlechetnější mužové mívají v lásce velká neštěstí. Tak i Drobílek, který jest vždy ochoten podepsat směnku Machovi, býval občas nešťastně zamilován.
 
 Miloval Barušku, kuchařku z restaurace U Svíčky, děvče venkovské, buclaté a naivní, a kdysi osmělil se jí říci, že by rád s ní šel do kinematografu. „Vy sviňáku,“ odpověděla Baruška, „co si to o mně myslíte?“ – Od té doby Drobílek Barušku ctil, a kdykoliv mluvilo se o ženách, říkával, že poznal jedinou poctivou dívku, a to že byla Baruška. Byla to ta, jež o několik let později ukroutila k ránu, když dávala na kávu, v bytě svých zaměstnavatelů kohoutek u vodovodu, a když nemohla vodu zastavit, skočila z třetího patra a zabila se. Tak umírají jen nihilisti na Rusi.

@@ -3,8 +3,6 @@ title: Otcovské radosti pana Motejzlíka
 contentType: prose
 ---
 
-  
-
 Pan Motejzlík měl velkou radost, že se stane otcem. Ještě dávno předtím, než se mu narodil synáček, chodil po všech známých a vykládal, že už se mu dítě narodilo.
 
 V mnohých případech styděl se za to, že by se mu mohla narodit dcera, vykládal tedy, že se mu narodil chlapeček. Někde opět, aby se nezdálo, že se příliš chlubí, říkal, že má děvčátko. Asi ve třech ve čtyrech případech říkal, že neví, co to je. Nakonec si to všecko spletl, a když opět přišel ke svým známým, na dané otázky odpovídal obyčejně opačně. Kde dřív říkal, že má chlapečka, tam říkal, že má dcerušku. A tak to všecko proplítal novou a novou lží, šel dokonce ve své drzosti tak daleko, že mluvil o dvojčatech, a v restauraci pana Brejšky vykládal dokonce o nějaké zrůdě, se kterou vydělá strašně peněz.
@@ -59,4 +57,4 @@ Ale pan Motejzlík spal klidně dál a usmíval se ze spaní. Zdálo se mu, že
 
 „Právě se mně, velectěné shromáždění, narodil synáček, pětapadesát centimetrů dlouhý, jemnými chloupky porostlý, červený, velectěné shromáždění, otec úplně zdráv!“
 
-_Humoristické listy, 55 – 2. 8. 1912_
+> _Humoristické listy, 55 – 2. 8. 1912_

@@ -5,8 +5,6 @@ contentType: prose
 
 ## Předmluva
 
-  
-
 Jest to vždy velice smutné a trapné pro člověka, když zabývaje se studiem lidských povah po delší dobu, dospěje k tomu názoru, že nejchytřejší a nejrozumnější lidé si často počínají tak, že musíme vrtět hlavou nad jejich jednáním.
 
 To dalo roku 1787 důvod Adolfovi, svob. pánu Knigge, že nasbírav tyto smutné zkušenosti o obcování s lidmi, s kterými se setkal, vydal roku 1788 v Hannoveru velice roztomilou knihu O obcování s lidmi, ve které podal pravidla ke šťastnému, spokojenému a užitečnému životu.
@@ -18,8 +16,6 @@ Kniha jest připravena do tisku a zbývá mně jen připojit všeobecný přehl
 Prozatím podávám několik ukázek ze své _Vzdělávací čítanky_.
 
 ## Několik ukázek
-
-  
 
 Anekdoty: Každá anekdota, kterou ve společnosti vypravuješ, má mít určitý podklad z okolí společnosti, ve které se pohybuješ a ve které anekdoty vypravuješ. Nejlepší jsou anekdoty, které vrhají na někoho ze společnosti špatné světlo a roznášejí důvěrné rodinné rozmluvy i události. Nezdají-li se ti dosti skandálními, můžeš je podle libosti překroutit. Dojde-li k mrzutosti, můžeš se léčit doma.
 

@@ -3,8 +3,6 @@ title: Osudy společenského člověka
 contentType: prose
 ---
 
-  
-
 Staří definovali člověka jako zvíře společenské. Jestli se nemýlím, poněvadž už jsem zapomněl velice mnoho z řečtiny, říkalo se nešťastnému člověku „zoon politikon“.
 
 Tím si dovedu vysvětlit, že rád rozmlouvám s lidmi, které vidím ponejprv ve svém životě, pletu se jim do rozhovoru, a nedbaje jich protestu, snažím se navázat s nimi přátelské styky.
@@ -117,4 +115,4 @@ Ráno byla zjištěna má identita. Dobrácký policejní komisař řekl, propou
 
 Mne však nepřevrátí. Zůstal jsem tvrdým a nepoddajným. Ne­roztrpčuje mne špatnost lidí, kteří nechápou, že společensky založený člověk nemůže jednat jinak.
 
-_Tribuna – 25. 5. 1921_
+> _Tribuna – 25. 5. 1921_

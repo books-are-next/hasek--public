@@ -3,8 +3,6 @@ title: "Boje s\_domovníky"
 contentType: prose
 ---
 
-  
-
 Jest vskutku velmi zvláštní má nechuť k domovníkům. Což za to mohou, že zamykají vrata domovní v hodinách večerních a že člověk jim musí platit za otevření?
 
 Jest to obmezování osobní svobody, rozhodl jsem, rozbíraje dopodrobna svou nechuť k domovníkům, a stejně mám zlost na ně, na vykonavatele tohoto obmezování, jako na lidi, kteří první způsobili tento stav. Ostatně jsem „dítětem doby“ (jaké to duchaplné vyjádření, bohužel opsané) a zrozený v hříších svých rodičů (ještě duchaplnější a dtto), kteří také nenáviděli, zejména o Novém roce, domovníky, jako hodný jejich syn umínil jsem si, že vypovím, kamkoliv přijdu, boj všem těm klíčníkům, boj, ve kterém někdo prohraje a ten někdo že musí být oni, kteří šoupavým krokem za noci, osvětlujíce průjezd zapálenou svíčkou, otvírají s bručením dvéře domů.
@@ -223,4 +221,4 @@ Přiběhla patrola a vysvětlilo se vše. Ten ničemný cizí domovník byl tak
 
 A dnes? Dnes jedu na venek, kde není domovníků, na malou, tichou dědinu, kde chci vypracovati stanovy Mezinárodního spolku proti domovníkům.
 
-_Veselá Praha – 1. 11., 1. 12. 1908_
+> _Veselá Praha – 1. 11., 1. 12. 1908_

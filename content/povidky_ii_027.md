@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Pan Karel Larsson, velitel Armády spásy v Československu, napsal právě do Ústředního listu Armády spásy pohnutlivou zprávu do rubriky Mezinárodní zprávy: „Jižní Afrika. Podplukovník Smith, pracující již třicet let mezi tamními domorodci, byl se svými dvěma důstojníky, kteří tu práci začali, sněden sedmdesáti obrácenými salutisty. Tím mohl ukázati celému světu, že náboženství lásky má praktickou cenu.“
 
 Pan velitel byl v mrzuté náladě. V jižní Africe žerou jim domorodci podplukovníky i s důstojníky a zde v Československu jdou obchody s dušemi strašně mizerně. Na silvestra odpoledne a večer bylo shromáždění vojínů a v sále musili otevřít všechna okna, tak to čpělo rumem. V noci pak od 10. hod. přes půlnoc veřejné shromáždění s vítězstvím několika osob, které později na ulici byly zatčeny pro opilství. Na Nový rok klečelo u lavice pokání asi deset osob, kterým čouhaly z kapes láhve koňaku.
@@ -41,8 +39,6 @@ Důstojný kapelník se vlídně, něžně usmál a řekl: „Co jest více, ve
 
 ## II
 
-  
-
 A tak setkal jsem se ve vinárně s panem sekretářem Hoppsem od místního velitelství Armády spásy.
 
 „Jsem,“ řekl přívětivě, „vyslán Armádou spásy; může být, že by vás velice zajímalo slyšet mé názory. Je-li zde nějaká místnost, kde bychom byli sami, byl bych velice povděčen…“
@@ -59,23 +55,23 @@ Když jsme seděli sami, pravil mladý pan Hopps: „Odpusťte, ale já to mysl�
 
 Počal zpívat tichým, dojemným hlasem:
 
-„Jdeme kupředu proti všemu zlu,  
+_„Jdeme kupředu proti všemu zlu,  
 byť to třeba byl satan sám,  
 jdeme k vítězství proti světa lsti,  
-boží království jest cílem nám.
+boží království jest cílem nám._
 
-Jdeme kupředu, neznáme svodu,  
+_Jdeme kupředu, neznáme svodu,  
 věrně budem vždy k pravdě stát.  
 Jdeme k vítězství, z hříchu k milosti,  
-aby nový život byl zde znát.“
+aby nový život byl zde znát.“_
 
 Když ukončil, řekl jsem: „Já také něco umím. Poslyšte.“ Zazpíval jsem:
 
-„Kdo dá výhost klamu, bludu,  
+_„Kdo dá výhost klamu, bludu,  
 boží pravdu vyvolí,  
 ten se zbaví všeho trudu,  
 nic ho více nebolí.  
-Nazdar, na vaše zdraví!“
+Nazdar, na vaše zdraví!“_
 
 Díval se na mne svýma modrýma očima.
 
@@ -89,10 +85,10 @@ Mechanicky vzal skleničku rumu a vypil. „Já jsem opravdu z dobré rodiny,�
 
 Panu Hoppsovi, nezvyklému na takový nápoj, oči se počaly klížit. Počal jsem mu tichým, něžným hlasem zpívat ukolébavku:
 
-„Již zazní z doubí hlas slavíčka  
+_„Již zazní z doubí hlas slavíčka  
 a počne v loubí pět hrdlička  
 a přejde zima i prška zlá,  
-i kvítky vzejdou – hallelujah!“
+i kvítky vzejdou – hallelujah!“_
 
 Usnul na židli. Políbil jsem ho na čelo a pohladil jemně po vlasech a tiše po špičkách vyšel z pokoje.
 
@@ -100,6 +96,6 @@ Usnul na židli. Políbil jsem ho na čelo a pohladil jemně po vlasech a tiš
 
 A ocitnuv se na ulici, podíval jsem se na hvězdy zářící na obloze a vykřikl do pražských ulic žalm 92:
 
-„Jak velicí jsou skutkové tvoji, Hospodine! Velmi hluboká jsou myšlení tvá, člověk hovadný nezná toho!“
+> _„Jak velicí jsou skutkové tvoji, Hospodine! Velmi hluboká jsou myšlení tvá, člověk hovadný nezná toho!“_
 
 Což mne stálo dvacet korun pokuty pro rušení nočního ticha.

@@ -3,8 +3,6 @@ title: "Hovor s\_malým Mílou"
 contentType: prose
 ---
 
-  
-
 Sedím již čtyři měsíce ve vyšetřovací vazbě a ještě jsem se nepřiznal, co jsem udělal se svým malým synovcem – čtyřletým Mílou Klognerů.
 
 Obávám se, že kdybych řekl, kde jsem ho zanechal, že bych se už ho, až by ho našli, nezbavil. Vím, že by první jeho slova byla: „Proč tady sedíš?“ To nešťastné jeho „Proč?“
@@ -185,4 +183,4 @@ A rychle jsem se vzdálil. Jen za sebou slyšel jsem jeho nevinný hlásek: „
 
 A to jest moje zpověď.
 
-_Humoristické listy – 21. 6. 1912_
+> _Humoristické listy – 21. 6. 1912_

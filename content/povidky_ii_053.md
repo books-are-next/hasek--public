@@ -3,7 +3,7 @@ title: Nedělní zábavná příloha
 contentType: prose
 ---
 
-Literární humoreska
+_Literární humoreska_
 
 Byl jsem pověřen úkolem redigovat nedělní zábavnou přílohu jednoho deníku a seznal jsem, že obětavost lidská je nevyčerpatelně ohromná. Jest tisíce lidí na světě, kteří si přejí z plného srdce, aby další tisíce a tisíce lidí bavili se jejich povídkami buď v neděli ráno při kávě, nebo po obědě. Obětavost lidská jest nevyčerpatelná a zasahuje do všech kruhů.
 

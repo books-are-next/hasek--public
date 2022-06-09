@@ -3,13 +3,9 @@ title: "Povídka o\_kočce"
 contentType: prose
 ---
 
-  
-
 Pierre Lotti ve své znamenité knize O stesku a zármutku píše o kočce, která zprvu zdála se být ošklivou a později krásnou a něžnou. Já píši o kočce zprvu krásné a později ošklivé.
 
 ## I
-
-  
 
 Jednoho dne na jaře díval jsem se se svou Slávkou z kuchyně na zahradu, kde kvetly hrušně, tráva se zelenala a bez voněl.
 
@@ -47,8 +43,6 @@ Vraceli jsme se domů a rozmlouvali výhradně jen o zvířátku, které jsme 
 
 ## II
 
-  
-
 Druhého dne vedla nás k oknu jediná myšlenka, uvidíme-li svého včerejšího hosta. Naděje, kterou jsme chovali, vyplnila se.
 
 Kotě sedělo již na zídce, a když nás uvidělo, zamňoukalo svým obvyklým prosebným způsobem.
@@ -68,8 +62,6 @@ Pak zas upoutala jeho pozornost veliká moucha, za kterou hnalo se dychtivě, vy
 Nevrátilo se, běželo za svým ideálem, velkou, bzučící masařkou.
 
 ## III
-
-  
 
 Když jsem následujícího dne přišel k obědu, již ve dveřích oznamovala mně Slávka, že máme návštěvu, vzácnou návštěvu, která u nás obědvá. Slávčiny oči plály takovou radostí, že jsem se lekl, nepřijela-li její matka.
 
@@ -97,8 +89,6 @@ Když náš host usnul, radili jsme se, co s ním. „Můj milý,“ pravila Sl
 
 ## IV
 
-  
-
 Nelitovali jsme, že přijali jsme kotě k sobě. Grina způsobovala nám tolik blažených chvilek, tolik jsme se jí nasmáli. Mohu říci, že nenudili jsme se ani minutku.
 
 I když spala na posteli, pozorovali jsme její oddychování, jak při něm ježila se jí srst na bocích, jak její hruď se chvěla.
@@ -110,8 +100,6 @@ Pak šla pít a nato počala si hrát. Měla klubko z černé vlny, své klub�
 Naučili jsme ji „dávat pac“ bez přísné drezúry, naučili jsme ji přinášet hozené klubko v tlamě na náš povel: „Přines, Grino!“ Cupala přitom jako pejsek, dupala a vážně položila nám klubko k nohám, dívajíc se upřeně na nás. A v jejích očích zračilo se tolik inteligence a rozumu, že byli bychom zlíbali ta její očka nahnědlá, bystrá. Milovali jsme ji.
 
 ## V
-
-  
 
 Kdykoliv jsem se vrátil domů, ptal jsem se, co dělá naše Grina. Tak ptali se i příbuzní a přátelé, kteří ji znali a při každé návštěvě laskavě s ní hovořili a ji hladili. V přízvuku jejich hlasů bylo znát, že upřímně se těší z naší radosti a z krásy našeho zvířátka. Nebylo to strojené jako někde, kde mají psa a přijde návštěva, která hladí zvíře u přítomnosti jeho majitele a říká: „To je krásný pejsek.“ A když odejde, bručí si: „Že mají takovou nestvůru doma.“ To jsou lidé ošemetní, bez veškeré lásky ku zvířatům, lidé necitelní, lidé, kteří kouska srdce nemají a kteří svou zášť ku zvířatům nedovedou opanovat, když nemusí se vázat společenskými mravy.
 
@@ -157,8 +145,6 @@ Myslil jsem, že se jí zmocní křeče, zčervenala, a aby dělala čest svém
 
 ## VI
 
-  
-
 S obavou hleděli jsme do budoucnosti, neboť kam bude běhat Grina, až se jí zasteskne po zahrádce, stromech, zelených listech a trávě? Najali jsme totiž byt narychlo, hned k stěhování, a v domě nebylo zahrádky. Měli jsme radost, že ten byt vůbec jsme našli, neboť nechtěli jsme ani týden nechat Grinu v nebezpečné blízkosti paní Modré.
 
 „Pravda,“ pravil jsem, „je tam dvorek – snad si naň zvykne.“
@@ -184,8 +170,6 @@ A stesk rozhostil se v nás, zármutek po tom, co jsme milovali a tak náhle 
 Kdo to nezažil, nedovede si to představit, ne, nedovede. A ještě byli na světě lidé, kteří slyšíce to, smáli se nám cynicky, a to nás uráželo.
 
 ## VII
-
-  
 
 Týden uběhl nám v samých smutných vzpomínkách. A takhle jednoho večera slyšíme za dveřmi mňoukání. Jen ze zvyku, domnívajíce se, že jest to obvyklá naše halucinace, otevřeli jsme, a kdo nevrazil do předsíně jako naše Grina.
 
@@ -239,8 +223,6 @@ Přítel podíval se na mne tak podivně, jako se díváme na člověka, o kter
 
 ## VIII
 
-  
-
 Šel jsem do hostince, pil na zlost, a když jsem se pozdě v noci vrátil, pokusil jsem se ji uškrtit provazem. Syčela…
 
 „Co děláš s ní?“ tázala se Slávka v polospánku.
@@ -251,8 +233,6 @@ Když Slávka odešla ráno do trhu, napil jsem se rumu, vzal kočku do hadru, o
 
 ## IX
 
-  
-
 Od té vraždy uplynuly již tři neděle. Slávka na mne nemluví, a když, zabručí jen: „Ty vrahu!“ a odvrátí se ode mne, přičemž v jejích očích zalesknou se slzy, které platí nebožce Grině.
 
-_Národní politika, 24/117 – 29. 4. 1906_
+> _Národní politika, 24/117 – 29. 4. 1906_

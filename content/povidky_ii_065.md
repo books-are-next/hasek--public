@@ -3,8 +3,6 @@ title: Hřích faráře Ondřeje
 contentType: prose
 ---
 
-  
-
 Farář Ondřej nacházel se již osmnáctý rok v očistci, aniž věděl proč. Nebyl dosud definitivně odsouzen, ačkoliv poslední léta nebyl nával do očistce tak veliký. Většina duší se zde jen zastavila a už za skřípění zubů byla odváděna do pekla. Časem si dodal odvahy a ptal se některého z andělů hlídačů: „Proč mne zde držíte, pánové?“
 
 Krčívali křídly a říkali: „Váš proces není ještě definitivně ukončen, velebný pane.“
@@ -19,43 +17,43 @@ A andělé tiše lítali kolem něho, bylo jim ho líto a zpívali mu krásné
 
 I podal písemný rekurs:
 
-Slavný poslední soude!
+> _Slavný poslední soude!_
 
-Nížepsaná dušička, farář Ondřej, podává tímto nejpokornější prosbu, aby byl propuštěn z očistce, a odůvodňuje svou uctivou žádost následujícími důvody:
+> _Nížepsaná dušička, farář Ondřej, podává tímto nejpokornější prosbu, aby byl propuštěn z očistce, a odůvodňuje svou uctivou žádost následujícími důvody:_
 
-A. Nížepsaný nenachází ve svém svědomí ničeho, což by mu mohlo škodit. Žil tak, jak stojí psáno v knihách posvátných.
+> _A. Nížepsaný nenachází ve svém svědomí ničeho, což by mu mohlo škodit. Žil tak, jak stojí psáno v knihách posvátných._
 
-B. Jest úplně zachovalý, jak dokáže starosta obce Paluška, nacházející se tou dobou v kotli číslo 253 v mírném oddělení očistcovém, opatřeném ventilátory.
+> _B. Jest úplně zachovalý, jak dokáže starosta obce Paluška, nacházející se tou dobou v kotli číslo 253 v mírném oddělení očistcovém, opatřeném ventilátory._
 
-C. Totéž, zachovalost i bezúhonnost, dokáže mu četnický strážmistr Josef Loukota, tu dobu žijící v blaženosti na nebi u pátého turniketu.
+> _C. Totéž, zachovalost i bezúhonnost, dokáže mu četnický strážmistr Josef Loukota, tu dobu žijící v blaženosti na nebi u pátého turniketu._
 
-D. Nížepsaný objevil zázračnou studánku a dodával z ní vodu zadarmo do sirotčinců a polepšoven.
+> _D. Nížepsaný objevil zázračnou studánku a dodával z ní vodu zadarmo do sirotčinců a polepšoven._
 
-E. Studoval s vyznamenáním, což dokáže ředitel gymnázia Alexius přidělený k andělům střežícím gymnazisty v očistci.
+> _E. Studoval s vyznamenáním, což dokáže ředitel gymnázia Alexius přidělený k andělům střežícím gymnazisty v očistci._
 
-F. Zná zejména nížepsaný perfektně latinsky, řecky, hebrejsky a aramejsky.
+> _F. Zná zejména nížepsaný perfektně latinsky, řecky, hebrejsky a aramejsky._
 
-G. Nikdy o ničem nepochyboval.
+> _G. Nikdy o ničem nepochyboval._
 
-Z těchto důvodů prosí, aby byl propuštěn z očistce, a slibuje v pádu milostivého vyřízení své nejuctivější prosby, že se vynasnaží, aby této důvěry také hodným se ukázal.
+> _Z těchto důvodů prosí, aby byl propuštěn z očistce, a slibuje v pádu milostivého vyřízení své nejuctivější prosby, že se vynasnaží, aby této důvěry také hodným se ukázal._
 
 Prosba tato byla mu vrácena. „Schází rubrum[18](./resources/undefined),“ řekl anděl, který mu ji přinesl. Ten anděl byl zaživa úředníkem v kabinetní kanceláři.
 
 Farář Ondřej napsal tedy na zadní stránku:
 
-„Dušička farář Ondřej prosí za propuštění z očistce:
+> _„Dušička farář Ondřej prosí za propuštění z očistce:_
 
-Hub litteris A, B, C, D, E, F, G.“
+> _Hub litteris A, B, C, D, E, F, G.“_
 
 Ve výroční den svého úmrtí (dřív se obyčejně ani na zemi žádosti příznivě nevyřizují) dostal odpověď:
 
-Vaše Blahorodí!
+> _Vaše Blahorodí!_
 
-Dovolujeme si Vás upozornit, že poslední soud v dohledné době nezasedá, pročež poslali jsme Vaši žádost k soudnímu očistcovému dvoru s vybídnutím, aby na Vaši žádost vzal pokud možno zřetel a postavil Vás po vyšetření Vašeho hříchu před řádný soud.
+> _Dovolujeme si Vás upozornit, že poslední soud v dohledné době nezasedá, pročež poslali jsme Vaši žádost k soudnímu očistcovému dvoru s vybídnutím, aby na Vaši žádost vzal pokud možno zřetel a postavil Vás po vyšetření Vašeho hříchu před řádný soud._
 
-Za průpravné komité posledního soudu:
+> _Za průpravné komité posledního soudu:_
 
-_Gabriel_
+> _Gabriel_
 
 A tiše plynula léta za úpění dušiček a za tklivých zpěvů andílků, kolébajících v očistci nekřtěňátka.
 
@@ -87,4 +85,4 @@ Ve své knize, napsané roku 415 po Kristu, De retractatione, vel librorum recen
 
 * * *
 
-[18](./resources/undefined) Vnější strana podání (žádosti ap.) se stručným zachycením toho, čeho a koho se týká. Pozn. red.
+_[18](./resources/undefined) Vnější strana podání (žádosti ap.) se stručným zachycením toho, čeho a koho se týká. Pozn. red._

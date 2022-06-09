@@ -3,8 +3,6 @@ title: "Interview s\_panem cenzorem"
 contentType: prose
 ---
 
-  
-
 Byl jsem již mnohokráte vybídnut, abych navštívil pana cenzora a s ním pohovořil, ale vždy jsem to odkládal, neboť jsem měl neurčitý pocit hrůzy před tím mužem. Mohu říci, že trpěl jsem utkvělou představou, že mne ten muž škrtne.
 
 Nemohu vám vyložit, jak jsem si to vlastně představoval, ale byl to velice nepříjemný pocit, spojený vždy s mrazením na zádech.
@@ -45,4 +43,4 @@ Vzal ze stěny velkou tužku, která jako ozdoba visela pod obrazy, a pravil: �
 
 Opustil jsem ho rychle, poněvadž mně tou tužkou šermoval pod nosem a já jsem viděl, že by mne bez milosti také s ní přeškrtl.
 
-_Karikatury, 3/43 – 11. 12. 1911_
+> _Karikatury, 3/43 – 11. 12. 1911_

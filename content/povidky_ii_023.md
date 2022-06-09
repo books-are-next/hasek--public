@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Nejsmutnější důkaz toho, kam vede pití, podalo nám známé individuum z bible Chám, který ocitl se před soudem dějin pro zločin proti mravopočestnosti, který spáchal na svém otci Noemovi.
 
 Znám jest též případ opilého faráře z Interlakenu, který šel sloužit mši svatou v košili, a mého přítele Slavíka, který v opilosti snědl v zoologické zahradě v Drážďanech zaživa mladou jedovatou kobru, roztomilé hadí mládě.
@@ -33,8 +31,6 @@ Všechny brožury Ymky o střízlivosti stojí za starého kozla, když v novi
 
 ## II
 
-  
-
 Nelze říci, že město, kde se stal pokus o abstinentní večírek a amerikánskou zábavu, bylo by snad městem prostopášnějším než druhá města v republice. Alkoholikové tam drželi stejné tempo s alkoholiky jiných měst a jako všude jinde i tam připadal na pět střízlivých jeden opilý chlap a na tři obyvatele denně láhev kořalky. V noci našli vždycky ležet tucet lidí jako všude v jiném městě, které mělo stejný počet obyvatelstva, a dva nebo tři se ve dne váleli po chodníku. Také nelze říci, že by se v tom městě v noci víc řvalo než kdekoliv jinde, nebo tropilo víc výtržností. Tu a tam někdo o někoho přerazil hůl, jednou za rok někdo někoho v opilství rozpáral, to by tak už snad bylo všechno.
 
 Proto vzbudilo velkou senzaci v městě, když jedna paní, která přijela po smrti svého muže z Ameriky do svého rodného města, pobláznila veřejnost s uspořádáním abstinentního večírku a amerikánské zábavy, která se měla konat v restauraci pana Vašaty.
@@ -45,30 +41,30 @@ Manžel té americké dámy byl jedním z průkopníků abstinentního hnutí v
 
 Plakáty, které dala natisknout, měly černý rámec jako nějaké úmrtní oznámení:
 
-ABSTINENTNÍ ZÁBAVA
+_ABSTINENTNÍ ZÁBAVA_
 
-AMERIKÁNSKÝ VEČÍREK
+_AMERIKÁNSKÝ VEČÍREK_
 
-BEZ ALKOHOLU
+_BEZ ALKOHOLU_
 
-Vyhýbejme se opilcům!
+_Vyhýbejme se opilcům!_
 
-Alkohol snižuje obraz boží k obrazu nerozumného zvířete!
+_Alkohol snižuje obraz boží k obrazu nerozumného zvířete!_
 
-9\. DUBNA POBAVÍTE SE BEZ ALKOHOLU  
-V RESTAURACI P. VAŠATY!
+_9\. DUBNA POBAVÍTE SE BEZ ALKOHOLU  
+V RESTAURACI P. VAŠATY!_
 
-Začátek v 7 hod. večer.  
-Na programu:
+_Začátek v 7 hod. večer.  
+Na programu:_
 
-Úvodní slovo pí Piccknown, pocházející z našeho města.
+_Úvodní slovo pí Piccknown, pocházející z našeho města._
 
-Různé hry.
+_Různé hry._
 
-Pro občerstvení podává se bezplatně čaj.
+_Pro občerstvení podává se bezplatně čaj._
 
-Přijďte hromadně a přesvědčíte se sami, co je lepší,  
-zábava s alkoholem, nebo bez alkoholu!
+_Přijďte hromadně a přesvědčíte se sami, co je lepší,  
+zábava s alkoholem, nebo bez alkoholu!_
 
 Když se obsah plakátu uvedl ve známost obyvatelstva, nastalo pravé pobouření v městě, kteréž bylo asi tlumočeno vyhraněným prohlášením starého lesníka ve výslužbě, pana Polívky: „Taková zábava nepatří do hospody, ať si jdou s tím čajem někam na palouk.“
 
@@ -79,8 +75,6 @@ Téhož mínění byla spousta jiných občanů.
 Nad abstinentní zábavou visely těžké chmury.
 
 ## III
-
-  
 
 Paní Piccknown velmi pečlivě sestavila si krátký proslov, který způsobil v sále restaurace pana Vašaty ohromný rozruch. Dostavilo se velké množství obecenstva, samí staří pijáci, na které se šly dívat jejich manželky, jak to na ně bude účinkovat.
 
@@ -132,21 +126,19 @@ Tato důstojná dáma tak byla nadšena svou prohibiční myšlenkou, že nepozo
 
 Chtěla právě dát pokyny, jak provésti licitaci pánů, když oba, Polívka i Vořech, držíce se jako rekruti kolem krku, blížili se k ní, opisujíce obdivuhodné křivky, přičemž řvali, až se okna třásla, sloky staré písně:
 
-„Když jsme táhli k Jaroměři,  
-ať si nám to kdo chce věří…“
+_„Když jsme táhli k Jaroměři,  
+ať si nám to kdo chce věří…“_
 
 Paní Piccknown sama ani nevěděla, jak se najednou ocitla na kolenou pana Polívky, který ji houpal, jak seděla obkročmo, přičemž jí zpíval:
 
-„Houpy, hou – houpy hou –  
+_„Houpy, hou – houpy hou –  
 mlhy padají krajinou –  
-až umřeš, půjdu za jinou…“
+až umřeš, půjdu za jinou…“_
 
 Kapelník Vořech ji při tom štípal do tváře, vytáhl jí z účesu vlásenku a šťoural se s ní v zubech. Potom ještě pocítila, že jí někdo vylil do úst nějakou kořalku a že ji někdo štípe do kolena.
 
 Potom přišly dámy, které to všechno vyházely ven a zpustošily celou místnost, jako by to byla posvícenská zábava…
 
 ## IV
-
-  
 
 Pan Vašata, vzdor škodě, kterou utrpěl ke konci předcházející kapitoly, prohlašuje veřejně, že špatná situace hostinských místností dá se jedině zlepšit pořádáním abstinentních večírků a amerických zábav.

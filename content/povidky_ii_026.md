@@ -3,8 +3,6 @@ title: "Velmi spletitá historie o\_špatném vínu"
 contentType: prose
 ---
 
-  
-
 Mluvilo se o různých příšerných historkách a na celou společnost největší dojem učinilo vypravování hostinského Vidnavy.
 
 „Bylo to časné ráno onoho dne, když jsem ponejprv otevřel svou novou hospodu ve větším okresním městě.“ Jak se člověk těší na prvního hosta, můžete si pomyslit. Kolem sedmé hodiny se dostavil také první host, mladý, slušně ustrojený muž, který si poručil čtvrtku vína a doutník. Zdál se po cestě velice unaven a pravil, že nese nějaké peníze do spořitelny.
@@ -39,4 +37,4 @@ Hostinský Vidnava se napil vína, přejel si rukou čelo a skácel se ze židl
 
 Skonal v mém náručí, aniž dopověděl, jak tato velmi zapletená historka dopadla. Instinktivně jsme ho chtěli odnést také do sklepa.
 
-_Karikatury – 1911_
+> _Karikatury – 1911_
