@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Neznám doopravdy roztomilejší bytosti nad psohlavého paviána. Velice se divím levhartům, že se ho bojí a že ho nebožtík Brehm tak ošklivě pomluvil, nazvav ho obludou.
 
 Zprvu, pravda, když se s ním setkáte, připadá vám jako nějaké zvíře z apokalypsy nebo z kreseb spiritistů, ale když si na něho zvyknete, vidíte, že pod kůží toho ďábla vězí dobrý charakter a že z takového psohlavého paviána udělali netvora jen lidé, kteří mu neporozuměli.
@@ -16,8 +14,6 @@ Budiž mně též, jako člověku zabývajícímu se zoologií, dovolena poznám
 Právě proto mohu říci slovy svého sluhy Čížka: „Dovoluji si vašnostem doporučiti psohlavého paviána.“
 
 ## II
-
-  
 
 Ten psohlavý pavián jmenoval se Julča. Byla to neobyčejná krasavice. Měla protáhlý nos, stříbrně hnědou krátkou srst s vůní pižma, hnědé oči a malý, inteligentní ohon, tak krátký, že to opravňovalo k nadějím, že potomstvo jejího rodu během dalších generací ohon ten úplně ztratí.
 
@@ -117,8 +113,6 @@ Jen na Bělohorské silnici nahoře směrem k Vypichu na telegrafních drátech
 
 ## III
 
-  
-
 Někdy se stávalo, že kromě radostí způsobovala mně má přítelkyně Julča trpké chvíle, poněvadž neporozuměla, co si vlastně přeji. Když jsem sedával na zahradě, často nechápala, jak vypadá ten předmět, který chci, aby mně z domu přinesla na zahradu. Dnes, rozpomínaje se na ty drobné události, nabývám přesvědčení, že jsem si nepočínal systematicky. Třebas byla sebechytřejší, leckterým pojmům nerozuměla hned. Přiznávám, že to byla chyba výchovy. Byly to někdy věci, které se napraviti nedají. Doufám však, přijde-li mně někdy do ruky jiný exemplář roztomilého psohlavého paviána, že se přičiním, abychom si oba počínali rozumněji.
 
 Stalo se totiž, že jednoho nedělního odpůldne přišlo k nám několik cirkusových artistů, pátrajících po nějakém zvláštním zvířeti.
@@ -181,8 +175,6 @@ Julču jsem marně dlouho do noci očekával. Ráno slyšel jsem z kůlny hlas 
 
 ## IV
 
-  
-
 Sedě na lavici před domem, konferoval jsem s Čížkem. Podával mně jakýsi týdenní přehled našeho závodu, bilanci různých nehod, které se místo vavřínového věnce otáčely kolem naší firmy.
 
 „Když nám tedy v pondělí utekl ten zlý buldok“, vzpomínal Čížek, „pomyslil jsem si, že ten týden pěkně začíná.“
@@ -206,8 +198,6 @@ Taková byla tedy bilance za týden mé nepřítomnosti. Byl jsem v Drážďane
 A tak Čížek dostal nový pohlavek.
 
 ## V
-
-  
 
 Bývaly dny, kdy Čížek býval zamyšlen. Takové zahloubání se v sama sebe bývalo vždy předzvěstí velkých událostí. Spojoval-li pak přitom ještě vědychtivost, znamenalo to jistě předzvěst nějakého neštěstí.
 
@@ -289,4 +279,4 @@ Od té doby představovali jsme Julču též pod jménem Jägerle.
 
 * * *
 
-[21](./resources/undefined) Makak. Pozn. red.
+_[21](./resources/undefined) Makak. Pozn. red._

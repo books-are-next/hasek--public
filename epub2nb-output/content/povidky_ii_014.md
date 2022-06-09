@@ -3,8 +3,6 @@ title: Společenské lži
 contentType: prose
 ---
 
-  
-
 Někdy se stává, že vy to neřeknete schválně, nýbrž jen náhle vám to vyklouzne z úst, a slíbíte něco, třebas úplně bezvýznamného.
 
 Podobný případ přihodil se mně v Příbrami, kde jsem se setkal s panem Wimrem letos o Vánocích. Mladý ten muž vyptával se mne, co hodlám podniknout v té nepohodě. Pršelo totiž a všude bylo plno bláta. Řekl jsem mu, že zítra chci se podívat do Kamýku. Aniž se zamyslil, projevil ochotu, bude-li zítra sníh, že má k dispozici sáně a koně, že mne do Kamýku odveze.

@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Měl jsem již odedávna zálibu ve zvířatech jakéhokoliv druhu. V útlém věku nosíval jsem domů myši a jednou vydržel jsem si hrát se zabitou kočkou po celou tu dobu, co jsem byl za školou.
 
 Zajímal jsem se i o hady. Kdysi jsem chytil nějakého hada na kamenité stráni v lese a strojil jsem se odnést si ho s sebou, abych ho dal tetě Anně, kterou jsem neměl rád, do postele. Naštěstí se k tomu přitrefil hajný, který konstatoval, že je to zmije, zabil ji a odnesl, aby dostal zákonitou odměnu.
@@ -18,8 +16,6 @@ Mezi dvacátým čtvrtým rokem a dvacátým osmým pomalu to klesalo a zájem
 Stálo by za povšimnutí, že z toho neměli radost.
 
 ## II
-
-  
 
 Zakládá-li kdo nějaký obchod, tu je nepochybné, že musí se postarat o firmu, která by význačně označovala druh obchodu. Pro tento druh bývá označení „psinec“, což se mně však nezamlouvalo vzhledem k tomu, že jeden můj vzdálený příbuzný je v ministerstvu a že by proti tomu protestoval.
 
@@ -38,8 +34,6 @@ Když si přečetl jeden můj strýc tyto inzeráty, potřásl povážlivě hlav
 Já však hleděl s nadějí do budoucnosti, a nemaje dosud ani jednoho psa, čekal jsem dychtivě na nějakou objednávku a hledal jsem inzertem poctivého, řádného sluhu, vojny prostého, který, až mu psi přirostou k srdci, nemusel by znovu na vojnu.
 
 ## III
-
-  
 
 Na inzert pod názvem Sluha pro chov a prodej psů došla spousta nabídek, z nichž některé byly velmi upřímně psány. Jeden venkovský strážník ve výslužbě sliboval, že dostane-li to místo, že naučí všechny psy skákat přes hůl a chodit po hlavě.
 
@@ -121,8 +115,6 @@ V noci probudilo mne škrábání na dveře. Otevřel jsem a černý špic, st
 
 ## IV
 
-  
-
 Kupec dostavil se ráno asi v deset hodin. Rozhlédl se po bytě a tázal se: „Tak kde máte ty vaše psy?“
 
 „Nemám je doma,“ řekl jsem, „kromě dvou špiclíků,“ „černého a bílého, které vychovávám a kteří jsou již zmluveni pro pana arcivévodu do Brandýsa. Psy své mám na venkově vzhledem k tomu, aby byli na čerstvém vzduchu a netrpěli hmyzem a neštovicemi, čemuž se v městě neubrání ani nejpečlivější obchodník se psy. Zásadou našeho kynologického ústavu je poskytnouti našim psům možnost volného výběhu, a tak venku, kde máme ty své psince, každé ráno rozpráší je sluha po kraji a psi se nevrátí až večer. Má to též tu výhodu, že psi se naučí počínat si samostatně, neboť si sami vyhledávají přes den potravu. Máme najaty pro ně velké revíry, kde se mohou živit zvěří všeho druhu, a měl byste vidět, jak je to komické, když takový trpaslíček ratlíček zápasí se zajícem.“
@@ -166,8 +158,6 @@ Kupec se vzpěčoval, tak jsme ho v pravém slova smyslu přivlékli k té obl
 A do rána toho pána úplně vykradli.
 
 ## V
-
-  
 
 Přiblížily se Vánoce. Mezitím jsme černého špice pomocí kysličníku vodičitého zbarvili na žluto a z bílého špice udělali černého natřením roztokem dusičnanu stříbrnatého. Oba psi při těch manipulacích strašlivě vyli, což dělalo dojem, že kynologický ústav disponuje namísto psy dvěma aspoň šedesáti.
 

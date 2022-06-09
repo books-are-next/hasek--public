@@ -3,8 +3,6 @@ title: Vařím si vejce naměkko
 contentType: prose
 ---
 
-  
-
 Mám dobrou starou tetu. Jest to osoba, která dostává občas záchvaty lásky ku svým příbuzným. Patnáct let nedává vždy o sobě ničeho vědět a po patnácti letech náhle přinese vždy listonoš nějaký balík od mé tety, který ona zasílá právě v jednom takovém záchvatu.
 
 Posledně mně poslala před patnácti léty velký koláč a nyní, šestnáctého roku po této události, doručila mně pošta velký koš, ve kterém jsem objevil kopu vajec, a toto dojemné psaní:

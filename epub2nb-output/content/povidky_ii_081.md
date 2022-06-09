@@ -3,8 +3,6 @@ title: "Povídka z\_hipodromu"
 contentType: prose
 ---
 
-  
-
 Když Lolu prvně přivedli do hipodromu, podívala se ve stáji opo­vržlivě na své tři družky. Kdyby věděly, kdo to vedle nich žere seno.
 
 Klisna Heda, která stála ve vedlejším boxu a zabývala se právě tím, že v zubech přehazovala zamaštěnou čepici neopatrného kluka, přiděleného k posluze jednomu z kočí, zašilhala na své dvě staré přítelkyně a zahýbala ušima. Obrátily se lenivě směrem k Lole a nevšímavě počaly poznovu přežvykovat hubené seno smíchané s řezankou, kterou je napaloval majitel hipodromu.
@@ -61,6 +59,6 @@ Podivuhodnou náhodou ta stará paní od dámské toalety v hipodromu přišla 
 
 * * *
 
-[22](./resources/undefined) Jací lidé. Pozn. red.
+_[22](./resources/undefined) Jací lidé. Pozn. red._
 
-[23](./resources/undefined) Promiňte slečno, i já tomuto jazyku rozumím. Pozn. red.
+_[23](./resources/undefined) Promiňte slečno, i já tomuto jazyku rozumím. Pozn. red._

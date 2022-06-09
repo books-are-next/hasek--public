@@ -3,8 +3,6 @@ title: Vyhubení praktikantů speditérské firmy Kobkán
 contentType: prose
 ---
 
-  
-
 Majitel speditérské firmy Kobkán zavolal do své kanceláře růžolícího praktikanta pisárny Pecháčka a měl s ním dlouhou rozmluvu.
 
 Když se Pecháček vrátil ku svému stolu, byl bledý, třásl se po celém těle a měl zježené vlasy.

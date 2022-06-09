@@ -3,8 +3,6 @@ title: Jak vypadají ženy
 contentType: prose
 ---
 
-  
-
 Přiznávám se, že jsem měl vždy obtíže s dámskou společností. A to značně veliké obtíže, neboť jsem se bál velice žen. Předpokládal jsem, že ženy jsou tvorové, kteří vlídností a půvabným vzezřením chtějí se mít dobře a omámit muže, aby si je vzali za manželky.
 
 Milióny zkušeností, které kdy měli mužové všech věků se ženami, jasně mluvily dle mého zdání o tom, že stav manželský jest něčím hrozným. Muž bývá polknut ženou jako indický zajíc krokodýlem, když se jde napít k vodě, umačkán, roztlučen, rozbit, rozstřílen! A když se to tomu potměšilému tvoru nepodaří, umučí ho hrnci, špatnými polévkami a různými jinými pomalými mučicími nástroji.

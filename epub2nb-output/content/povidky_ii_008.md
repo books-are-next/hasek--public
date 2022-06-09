@@ -5,8 +5,6 @@ contentType: prose
 
 ## I
 
-  
-
 Šest let snaží se v Čechách Šimáčkův Šťastný domov učinit každou domácnost spokojenou, každé manželství klidným a šťastným. O tom jsem se přesvědčil sám.
 
 Nepostrádatelné pokyny pro každou domácnost vyřítí se každých čtrnáct dní z administrace v Jeruzalémské ulici, šíříce všude štěstí. Pokud se mne týče, plakal bych.
@@ -79,8 +77,6 @@ Ach bože, bože! Toto píši z turecké Soluně, kam jsem utekl před Šťastn
 
 ## II
 
-  
-
 Uprchnuv tedy před Šťastným domovem, který přináší domovům štěstí, do tohoto města, byl jsem úplně šťasten a blažen, ačkoliv právě tam vraždili křesťany.
 
 Šestkrát jsem s námahou utekl před krvelačnými mohamedány, ale to zdálo se mně rozkoší vůči tomu, být bezprostředním svědkem ničivé působnosti Šťastného domova.
@@ -99,10 +95,10 @@ To bylo první přání, druhé bylo, abych vypátral turecký jídelní lístek
 
 Na konci stály verše:
 
-Ó, Šťastný domove!  
+_Ó, Šťastný domove!  
 Nás pod ochranu svoji vem,  
 jak matka dítě v loktech chová vždy znova,  
-buď Lásky šťastným domove…
+buď Lásky šťastným domove…_
 
 Po přečtení toho jsem plakal dlouho do noci.
 
@@ -123,8 +119,6 @@ Vlekla s sebou kus stromu. „Přináším vám,“ pravila, „to dřevo. Z t
 V tom okamžiku uzrál ve mně pevný úmysl, že otrávím celou redakci Šťastného domova, a orientálním vlakem vracel jsem se ještě téhož dne do Prahy.
 
 ## III
-
-  
 
 Když jsem se vrátil ze Soluně domů, čekalo mne velké překvapení. Salón byl bez nábytku, úplně bez nábytku, a ten krásný černý nábytek v mé nepřítomnosti má dobrá žena prodala.
 
@@ -162,7 +156,7 @@ Z toho mne rozbolelo okolí žaludku a musel jsem utéct na záchod, kde mě p
 
 Zadní stěnu záchodu vyplňovala tato krásná báseň:
 
-Tichounce, tiše, samo k duši  
+_Tichounce, tiše, samo k duši  
 se v lásce štěstí přihlásí,  
 ráj blahý člověk v ňadru tuší  
 a modlitbu ret šeptá si:  
@@ -172,7 +166,7 @@ všech bouří zlých tě povždy uchová.
 Ó lásko, bdi nad tímto prahem,  
 by zloba nevstoupila naň,  
 nám v žití radostném a blahým  
-náš domov šťastný tady chraň!
+náš domov šťastný tady chraň!_
 
 Žena se dobyla za mnou na záchod, či spíše do toho chrámu umění, který byl vyzdoben perským kobercem z vyprodaného salónu.
 
@@ -183,8 +177,6 @@ Ne, to nebyl záchod, to byl šťastný domov v pravém slova smyslu, to bylo i
 Nesmíte se tedy divit, že jsem v té krásně ozdobené místnosti proseděl celou noc.
 
 ## IV
-
-  
 
 Ranní slunce nalezlo mne tedy ještě v onom prostoru. Prošlo do tohoto idylického koutku oknem polepeným papírem, který rozdělen v pestrobarevné čtverce propouštěl sem slunečný jas pestrými pruhy světla jako do gotické katedrály, a to slunce opřelo se svými paprsky právě na vnitřní stěnu dveří záchodu, kde viselo „Deset rad Šťastného domova pro štěstí v manželství“.
 
@@ -256,8 +248,6 @@ Tak jsem napsal na Šťastný domov, jak jsem to udělal, a podepsal svou ženu
 
 ## V
 
-  
-
 Po všem tom, co jsem zažil, změnil jsem svůj turecký úmysl, že otrávím redakci Šťastného domova pomocí pilulek. Měl jsem v úmyslu zaslat jim ty otravné pilulky s přípisem, že jsem vynalezl aromatické pilulky Šťastného domova a že prosím redakci, aby zjistila jejich účinnost, neboť jsem ochoten zaslati každé předplatitelce jednu krabičku zadarmo, abych svůj výrobek zavedl do oběhu. Tento způsob sprovození ze světa svého nepřítele zdál se býti sice velice účinný, ale scházelo při něm to pravé, nač se každý pořádný člověk, který se chce mstít, těší.
 
 Nevím, jestli vy všichni to chápete, jakou rozkoš působí někoho skolit. Vy jste ovšem nebyli tak krutě pronásledováni, ale u mne jen vzpomínka, jak to tam pobiju, působila rozkošné chvění a nevypsatelnou slast. A proto uznal jsem za nejvhodnější, že celou redakci postřílím.
@@ -318,8 +308,6 @@ Hluboká melancholie zmocnila se mne a místo muže mladého vrátilo se domů 
 
 ## VI
 
-  
-
 Prvé dva dny po návštěvě v redakci Šťastného domova byl jsem velice apatický vůči všemu. Přistihl jsem se často, že jsem si navlékl bezmyšlenkovitě náprstek na prst a klepal jsem si s ním na čelo třebas po tři hodiny, přičemž jsem se díval do prázdna.
 
 Třetího dne poprosil jsem ženu, aby z mého černého kabátu udělala praktickou přikrývku na kredenc, a odešel jsem z domova.
@@ -358,27 +346,27 @@ Prozatím však musil jsem s ní probírat došlé dopisy, týkající se anket
 
 První dopis byl sáhodlouhý a zněl:
 
-„Desatero rad Šťastného domova, týkajících se zaražených předmětů v rabicových stěnách:
+> _„Desatero rad Šťastného domova, týkajících se zaražených předmětů v rabicových stěnách:_
 
-1\. Zvol si byt, kde není rabicky!
+> _1\. Zvol si byt, kde není rabicky!_
 
-2\. Pamatuj, že rabicové stěny jsou tenké.
+> _2\. Pamatuj, že rabicové stěny jsou tenké._
 
-3\. Nepožaduj od nikoho, aby ti přitloukl do rabicové stěny zrcadlo či obrazy.
+> _3\. Nepožaduj od nikoho, aby ti přitloukl do rabicové stěny zrcadlo či obrazy._
 
-4\. Nezatloukej do rabicky ničeho.
+> _4\. Nezatloukej do rabicky ničeho._
 
-5\. Nezarazíš!
+> _5\. Nezarazíš!_
 
-6\. Nevytáhneš lehce!
+> _6\. Nevytáhneš lehce!_
 
-7\. I za cenu sebezapření hleď, abys rabicovou stěnu nepoškodil.
+> _7\. I za cenu sebezapření hleď, abys rabicovou stěnu nepoškodil._
 
-8\. Nehádej se za stěnou rabicovou se svou manželkou, bydlí-li na druhé straně cizí lidé.
+> _8\. Nehádej se za stěnou rabicovou se svou manželkou, bydlí-li na druhé straně cizí lidé._
 
-9\. K vytáhnutí hřebíků použij kleští.
+> _9\. K vytáhnutí hřebíků použij kleští._
 
-10\. Pamatuj, že příliš dlouhými hřeby můžeš souseda při­vrtat ke zdi!“
+> _10\. Pamatuj, že příliš dlouhými hřeby můžeš souseda při­vrtat ke zdi!“_
 
 Počal jsem zuřit a rozbil jsem kamna.
 
@@ -407,8 +395,6 @@ Zprvu jsem se usmál a pak jsem počal počítat měsíce, a to víte, blázen
 A náhle jsem nabyl opět rozumu.
 
 ## VII
-
-  
 
 Stane-li se člověk zčistajasna otcem, aniž by se snad byl o to přičinil, je jisto, že to překvapí a že věc na první pohled záhadná vyjasní se vám rychle, nejste-li tak dobrácké povahy jako ten Slovák, který byl deset let v Americe a do smrti nepochopil, jak se to stalo, že zatím měla jeho žena osm dětí.
 
@@ -480,8 +466,6 @@ Od té doby datuje se, že občas přepadá mne záchvat křečovitého smíchu.
 
 ## VIII
 
-  
-
 Klukovi jsme dali jméno Felix, což znamená česky „šťastný“. Svatý Felix byl mučedník, ale nevím, odebírala-li jeho žena Šťastný domov.
 
 Tři dny před křtem poslala mne žena do redakce Šťastného domova, abych se zeptal, jak se děti křtí a zdali snad nedošel stran křtění nějaký pokyn od některé čtenářky časopisu, že by ho první prakticky použila.
@@ -528,8 +512,6 @@ Podíval jsem se s obdivem na tu energickou ženu, která dodala: „My musíme
 
 ## IX
 
-  
-
 Proč jsem ji dal dopravit do blázince, jest velmi jednoduché. Jakmile totiž uplynulo šest neděl, které proležela v posteli v samých úvahách, jak bude dítě vychovávat, rozhodla se, že provede svůj úmysl a že si zhotoví pro Felixe kočárek ze sudu od petroleje.
 
 Za tím účelem koupila sud petroleje, a poněvadž jako spořivá hospodyňka nechtěla petrolej vylít, koupila petrolejová kamínka a nyní jsme vařili petrolejem. Poněvadž to přišlo dráž než uhlí, spořila na jídle a s úsměvem řekla, že nyní bude zavádět spořivý měsíc čili měsíc odříkání. Považovala přitom za potěšení, když mohla mně vzít z kapsy korunu, kterou ukládala ve prospěch hlasovacího práva žen. Pravila, že se musí řídit příkladem dánských žen, které obstarávají si domácnost bez pomocnic a pomocníků. A poněvadž četla, že dánský svaz žen propaguje tu zásadu spořivou „Jezte tak často, jak možno, u přátel!“, vodila mne po mých i svých přátelích a zařídila to vždy tak, že mne přitáhla tam právě, když oni obědvali.
@@ -564,8 +546,6 @@ Přivolaný psychiatr odvedl ji sám do blázince.
 
 ## X
 
-  
-
 Panu psychiatru podařilo se ji lehce dovést do blázince, neboť jí řekl, že jdou do blázince, jelikož tam jedna paní ve zdravých okamžicích vynašla a sepsala různé praktické rady pro domácnost, zejména nějakou velice praktickou mast na kuří oka a omrzlé nohy, a pak prý napsala velké pojednání, jak vyčistit hrnce, postavené na otevřené ohniště.
 
 Jakmile byla v blázinci, řekli jí: „Milostpaní, musíte si u nás trochu odpočinout.“
@@ -588,15 +568,15 @@ Nechali si ji tam na několik hodin a pak ji propustili, když se uklidnila. Os
 
 Za tři dny uviděl jsem všude tyto plakáty:
 
-VEŘEJNÁ PROTESTNÍ SCHŮZE ŽEN a PŘEDPLATITELEK ŠŤASTNÉHO DOMOVA
+_VEŘEJNÁ PROTESTNÍ SCHŮZE ŽEN a PŘEDPLATITELEK ŠŤASTNÉHO DOMOVA_
 
 s programem:
 
-„Uzavření jedné odběratelky do blázince“ konati se bude ve středu ve 3 hod. odpoledne v Plodinové burze.
+> _„Uzavření jedné odběratelky do blázince“ konati se bude ve středu ve 3 hod. odpoledne v Plodinové burze._
 
-Současně bude demonstrován samovařicí přístroj „Nurso“; který obdrží jedna odběratelka Šťastného domova zadarmo. Účastnice schůze budou po ukončení schůze fotografovány se samovařicím strojem v čele.
+> _Současně bude demonstrován samovařicí přístroj „Nurso“; který obdrží jedna odběratelka Šťastného domova zadarmo. Účastnice schůze budou po ukončení schůze fotografovány se samovařicím strojem v čele._
 
-_Redakce Šťastného domova_
+> _Redakce Šťastného domova_
 
 Do této schůze dostal jsem se převlečen za starou paní, která nevěnuje příliš péče svým chlupům na bradě. Ještě dnes vidím živě před sebou ten chaos, ty spontánní projevy, při kterých mně šel mráz po zádech. Byl jsem přesvědčen, že kdyby náhodou mne objevily, že by mne za velkého jásotu v samovařicím přístroji uvařily naměkko.
 
@@ -613,8 +593,6 @@ Byly však policií rozprášeny. Demonstrace vyžádala si však obětí. Čty�
 Druhý den dostal jsem spoustu anonymních dopisů, psaných něžnou ženskou ručkou, která osmělila se v jednom případě dokonce svěřit papíru to sladké tajemství, že až mě potká, vrazí mi slunečník do chřtánu.
 
 ## XI
-
-  
 
 Nedovedete si ovšem představit, co útrap způsobilo mně zavření mé ženy do blázince. Byl jsem předmětem nezřízených útoků ve mnoha časopisech, které celou věc pojímaly jen z čistě lidské stránky. Senzacechtivé plátky vylíčily mne jako perverzní individuum, které to učinilo kvůli svým milenkám.
 
@@ -644,8 +622,6 @@ Vykřikl jsem: „Brovnink!“
 
 ## XII
 
-  
-
 Byla to výborná vražedná zbraň, velkolepá, a ještě velkolepější byl výbuch sebeobrany. Chtěl-li jsem již tenkrát to vyvést, upozorňuji, že byl jsem tenkrát nepříčetný. Ale nyní jsem to spáchal při úplně zdravém rozumu. Připouštím, že administrátora skolil jsem dobře mířenou ranou, jsa prchliv, ale ostatní, které jsem zastihl v redakci, postřílel jsem již bez hněvu, jaksi mechanicky, omlouvaje se každé oběti, že jsem proti ní trochu zaujat. Vím určitě, že vzhledem k tolika zabitým nebudu navržen k císařské milosti a že budu právoplatně oběšen.
 
 Poslední dny mého života zde ve vězení neztrpčuje nic než to, že z vězeňské knihovny mně půjčili jeden starý ročník Šťastného domova.
@@ -656,14 +632,14 @@ Sedím tedy klidně na slamníku a vzpomínám na minulé dny i na svou ženu 
 
 Ku doplnění této tragédie dodáváme ještě krátký výňatek z referátu jednoho pražského deníku o popravě pana Thomse:
 
-„… Když odsouzenec byl přiveden pod šibenici a byl pomocníky mistra W. svazován na nohou, s cynickým úsměvem zvolal: ‚Šťastný domov přináší domovům štěstí!‘, přičemž si posměšně ukázal na krk!“
+> _„… Když odsouzenec byl přiveden pod šibenici a byl pomocníky mistra W. svazován na nohou, s cynickým úsměvem zvolal: ‚Šťastný domov přináší domovům štěstí!‘, přičemž si posměšně ukázal na krk!“_
 
 To byla tedy poslední slova toho pronásledovaného muže, který kdysi hrál tak vynikající úlohu v českém životě.
 
 * * *
 
-[1](./resources/undefined) Vysoké nástěnné nebo stojací zrcadlo se skříňkou. Pozn. red.
+_[1](./resources/undefined) Vysoké nástěnné nebo stojací zrcadlo se skříňkou. Pozn. red._
 
-[2](./resources/undefined) Pletivo z pozinkovaného ocelového drátu, používané k vyztužení příček. Pozn. red.
+_[2](./resources/undefined) Pletivo z pozinkovaného ocelového drátu, používané k vyztužení příček. Pozn. red._
 
-[3](./resources/undefined) Průjem. Pozn. red.
+_[3](./resources/undefined) Průjem. Pozn. red._

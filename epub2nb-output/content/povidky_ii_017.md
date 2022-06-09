@@ -3,8 +3,6 @@ title: "Z\_praktického života"
 contentType: prose
 ---
 
-  
-
 Kupec Václav Pazourek přecházel rozčileně ve svém skladišti mezi sudy kávy, koření a balíky papírů. Chvílemi hrábl zuřivě do otevřeného sudu, nabral několik zrnek kávy, které opět zlostně mrštil nazpět.
 
 Jeho žena mu řekla: „Hlupáku!“
@@ -109,4 +107,4 @@ Když sluha odešel, pravil k sobě kupec:
 
 Z úst pana Pazourka vydrala se nesměle slova: „Jsem, ženuško,“ a manželé objali se srdečně.
 
-_Národní listy – 21. 8. 1902_
+> _Národní listy – 21. 8. 1902_

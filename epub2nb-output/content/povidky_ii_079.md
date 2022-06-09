@@ -3,8 +3,6 @@ title: "Podivuhodné dobrodružství indického kačera v\_městském parku"
 contentType: prose
 ---
 
-  
-
 Indický kačer z parku u Františkova nádraží nebyl oblíben u žádné z ptačí havěti, s kterou sdílel domek na ostrůvku rybníka pod umělým vodopádem. Myslil si příliš mnoho o sobě, poněvadž měl na hlavě korunku z kovově lesklého fialového chumáčku peří. Potloukal se sám a sám po cestách parku a žil z milodarů kolemjdoucích, hlavně vášnivě rád jedl preclíky.
 
 Nasycen, hrdě večer vracel se mezi své druhy do ostrovního domku a uvelebil se v koutě zcela samotářsky, odpovídaje jen zlostným štěbetáním na poznámky velké pekinské husy a staré labutě.
@@ -103,4 +101,4 @@ Dnes indický kačer mlčky sedává v domku na ostrůvku rybníka, je tichý, 
 
 Jen předešle s povzdechem řekl k čápovi, který sentimentálně opakoval, že na světě už nejsou asi žádné žáby: „Ach, milý brachu, na světě se dějí ještě horší věci…“
 
-_Světozor – 1914/15, č. 20, 29/1_
+> _Světozor – 1914/15, č. 20, 29/1_

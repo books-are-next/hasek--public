@@ -3,8 +3,6 @@ title: Ohař pana barona
 contentType: prose
 ---
 
-  
-
 Ve čtvrtém poschodí zastrčené ulice byla naproti dveřím u půdy přibita na jiné zažloutlé dvéře tato vizitka:
 
 „Baron Dekker z Přehořova.“

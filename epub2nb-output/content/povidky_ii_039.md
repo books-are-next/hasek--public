@@ -3,7 +3,7 @@ title: Náš dům
 contentType: prose
 ---
 
-Vypravování Lojzíkovo
+_Vypravování Lojzíkovo_
 
 Bydlíme v pěkném, výstavném domě.
 

@@ -3,8 +3,6 @@ title: "Idyla z\_chudobince na Žižkově"
 contentType: prose
 ---
 
-  
-
 Když si babička Pintová ze žižkovského chudobince na to všechno vzpomene, lituje co nejvíc, že nemá zuby, aby s nimi skřípala. Zvedne však oči k nebi, odplivne si a šourá se již pomalu její shrblá, seschlá postava do kouta, kde z kapsy u šedivé sukně vytáhne růženec. A pomalu, ale jistě modlí se za kaplana Tomana, aby mu pánbůh tu zradu jeho odpustil, které se dopustil na žižkovském chudobinci. Když ty ostatní babičky o témže případě hovoří, poznamenává babička Pintová, přičemž její šedivé oči nabývají i lesku, že už tenkrát, když kaplan Toman k nim ještě docházel, nelíbilo se jí, jak se choval tak nějak klackovitě, ne prý jako sluha boží, ale jako slouha.
 
 Bývají ovšem spory mezi nimi, kterým se nelíbí ostrá řeč babičky Pintové.

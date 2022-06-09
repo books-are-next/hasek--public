@@ -3,7 +3,7 @@ title: "Polemika mezi Hlasy od Nučic a\_Nučickou stráží"
 contentType: prose
 ---
 
-Příspěvek ke žluté literatuře
+_Příspěvek ke žluté literatuře_
 
 Když se redaktor orgánu městského zastupitelstva Hlasy od Nučic vrátil od oběda do redakce, našel ve schránce na psaní nové číslo opozičního orgánu Nučické stráže, listu národněsociálního.
 

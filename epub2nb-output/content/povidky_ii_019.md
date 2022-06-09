@@ -3,8 +3,6 @@ title: Alkoholická idylka
 contentType: prose
 ---
 
-  
-
 Pan Hodíšek rozhodně nebyl žádný alkoholik, neboť vypil denně dvě sklenice piva.
 
 Byl to člověk řádný, který pečoval svědomitě o svou rodinu, ale jeho jedinou slabou stránkou, jeho celým neštěstím byla jedna nebo dvě sklenice piva denně.

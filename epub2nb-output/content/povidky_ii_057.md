@@ -3,13 +3,9 @@ title: Rady pro život
 contentType: prose
 ---
 
-  
-
 Jest zajímavé, že lidi potřebují nejrozmanitější rady pro život a že většina sama nemyslí, ale čeká na nějakou radu. Dovoluji si podat též několik rad pro život a uvidíte, že se vám bude, jestli se jim podřídíte, jistě líbit na světě.
 
 ## I Těš a raduj se!
-
-  
 
 Jestli se nám samým nedostalo nic radostného a nemáme-li sami ani malou, ani velkou radost, nalezneme pěknou náhradu v radosti jiných, abychom se nezapomněli těšit. Má-li někdo nový klobouk nebo nové šaty, musíme mu gratulovati, i kdybychom se s ním setkali ponejprv. Připojíme se k němu na ulici, představíme se a jdeme s ním a neustále projevujeme mu svou radost, jak mu to pěkně sluší. Necítí-li se spokojeným, vysvětlíme mu, že je to hulvátství od něho, nedovolit nám radovat se s ním čistou radostí.
 
@@ -18,8 +14,6 @@ Musíme se těšit ze všeho, z květů, z modrého nebe, obláčků, z výkl
 Odtáhnou-li nás do průjezdu a dají svěrací kazajku, musíme se tvářit co nejpřívětivěji, abychom jim tu radost nezkazili.
 
 ## II Nesmějme se cizímu neštěstí!
-
-  
 
 Velice často se stává, že jsme svědky cizího neštěstí. Musíme být v takovém případě cituplnými. Vidíme-li například, že někomu elektrika uřízla obě nohy, nesmíme se mu vysmívat a ptát se ho, čím teď bude hrát fotbal! Vystříhejme se dělat směšné poznámky.
 
@@ -31,13 +25,9 @@ Hoří-li divadlo, nechte si všechny poznámky pro sebe. Pravý vzdělanec nesm
 
 ## III Nelezte v noci do pokoje pro služebné!
 
-  
-
 Jste-li ženat, buďte přesvědčen, že vám žádná manželka neodpustí, dobýváte-li se v noci do pokojíku vaší služebné. Rozhodopádně musíte mít po ruce nějakou výmluvu, na kterou však žádná manželka nic nedá. Vymlouvat se, že jste šel služebnou kontrolovat, je blbost. Mluvit o tom, že jste si spletl pokojík pro služebnou se svou ložnicí, je kretenismus. Omlouvat se, že jste náměsíčník, znamená, že vám měkne mozek. Za nejlepší výmluvu považuji, prohlásíte-li, že jste si tam zapomněl kapesník.
 
 ## IV Nenadávejte!
-
-  
 
 Sprostá nadávka velice často raní. Musíte být pamětlivi toho, že člověka nadávkou můžete urazit. Taková slova jako „vole“ nebo „krávo“ neměla by být v rozhovorů používána. Názor o účincích nadávek není správně rozšířen.
 
@@ -52,21 +42,15 @@ Jest pravdou, že pro někoho jest velice těžké odvyknout si nadávat. Zkusme
 ## V Nechoďte světem s obličejem zasmušilým  
 a nevlídným!
 
-  
-
 Kdyby každý si byl toho pamětliv, nebylo by třeba, aby nás museli při fotografování napomínat, abychom se tvářili přívětivě. Máme si být toho vědomí, že není nic ošklivějšího jako se kabonit, když nás pronásleduje neštěstí. Díváš-li se na veselou stránku věci, budeš šťasten a nebudeš mrzut, uteče-li ti manželka s jiným. Ztratíš-li své jmění, máš se smát na celé kolo. Vedou-li tě k šibenici, vypravuj knězi anekdoty, směj se a tvař klidně.
 
 Své štěstí musíme pěstovat a to nás povede k oné klidné spokojenosti, kdy se smějeme na celý svět a kdy srdce naše překypuje vlídností.
 
 ## VI Nekupujte zajíce v pytli!
 
-  
-
 Zajíc není takovým bázlivým stvořením, jak jsme zvyklí číst. Je-li podrážděn, kouše, prská, mečí a staví se na odpor. Proto musíme být velice opatrnými, kupujeme-li zajíce v pytli, aby nás nepokousal, když ho chceme dostat z pytle ven. Zajíc může být svým chrupem nebezpečný lidskému zdraví. Kromě toho strkání zajíců do pytle jest týráním zvířat, nemluvě o tom, že můžete být podvedeni, že v pytli je kočka, a nikoliv zajíc.
 
 ## VII Čím více se do tebe mluví, tím méně mluv!
-
-  
 
 Jestli tě chce například otec dospělé dcery, za kterou chodíš, přimět záplavou slov k zasnoubení, musíš si ihned pomyslit, že reelní obchod­ník mnoho nemluví. Musíš si připamatovat, jak veliká by byla škoda, kterou bych si způsobil ukvapeným rozhodnutím, jedině na základě žvanění toho mluvky. Vezmi klobouk a beze slova odejdi a nevracej se nikdy více.
 
@@ -78,15 +62,11 @@ U soudu mnoho nemluv. Pamatuj si, že mnoho lidí bylo právě proto zavřeno, 
 
 ## VIII Odlož rozhodnutí učiněné ve zlosti!
 
-  
-
 Jsou lidé, kteří se velice snadno rozzlobí, a ne každý se dovede zdržet zlosti, když mu spadne z okna květináč na hlavu, když mu omylem vychrstnou vitriol do obličeje či přerazí o něho omylem býkovec. Pamatujte si, že přemýšlet okamžitě na odplatu nezjednává zadostiučinění a že je třeba nepřenáhlit se.
 
 Stane se například, že vám šlápne omylem nějaký atlet na nohu. Ve své nerozvážnosti chcete mu to oplatit, a po vás zbude na tomto světě jen mastná skvrna. Zdržuj rozhodně svou ruku, nebuď brutální. Pamatuj si, že není slušné si myslit „já ho musím zabít“ a že je ještě neslušnějším konat dalekosáhlé přípravy k uskutečnění svého úmyslu. Uvažuj vždy o tom, že naše soudnictví a bezpečnostní orgány jsou na takovém stupni rozvoje, že tě chytnou a posadí do chládku.
 
 ## IX Nevypravuj své domácí nesnáze přátelům!
-
-  
 
 „Víte o tom, že pan profesor byl včera opilý a že byl bit v hospodě, a když přišel domů, že ho paní nepustila do bytu a že se musel válet až do rána po chodbě? Vyprávěl mně to dnes,“ sděloval mně dobrý přítel pana profesora.
 
@@ -96,8 +76,6 @@ Ano, přátelé, tak se to má, když vypravujeme své domácí nesnáze svým d
 
 ## X Nepomáhej, pokud pomoci žádající  
 sám si může pomoci!
-
-  
 
 Znal jsem jednoho člověka, který, hraje karty, půjčoval peníze do karet tomu spoluhráči, který hrál proti němu, a strašně se pak divil, že musel prohrát, ačkoliv vyhrával.
 

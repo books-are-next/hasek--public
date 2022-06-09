@@ -3,8 +3,6 @@ title: "Nešťastná historie s\_kocourem"
 contentType: prose
 ---
 
-  
-
 Pan Hustoles řekl jednou v debatě ke svému sousedu Křičkovi: „Vaše strana, to je moc krásná strana. Když nějakého lumpa odříznou od šibenice, jde hned kandidovat na program vaší strany.“
 
 Pan Křička na to prohlásil: „Však my se, pane Hustoles, ještě uvidíme.“
@@ -55,11 +53,11 @@ Mezitím byl již prozkoumán v ústavě zvěrolékařském na zemědělském o
 
 Dobrozdání znělo:
 
-Pan František Hustoles
+> _Pan František Hustoles_
 
-Vyšetřený jest silných kostí, dobré výživy, trpí však zánětem okostice, takže jeho kousnutí může býti i životu nebezpečné. Z těchto důvodů jest žádoucno, aby byl vyšetřený utracen.
+> _Vyšetřený jest silných kostí, dobré výživy, trpí však zánětem okostice, takže jeho kousnutí může býti i životu nebezpečné. Z těchto důvodů jest žádoucno, aby byl vyšetřený utracen._
 
-_Dr. M. Kašpárek_
+> _Dr. M. Kašpárek_
 
 Státní zastupitelství poslalo tento spis k vyřízení na policejní komisařství, kdež byl ihned zařazen do registratury týkající se záležitosti pana Hustolesa.
 
@@ -75,9 +73,9 @@ Přinesli je.
 
 „Poslyšte místodržitelské nařízení, Hustolesi, ze dne 15. června 1911 číslo 75 289“:
 
-V záležitosti Františka Hustolesa schvaluje se na základě zvěrolékařského dobrozdání čís. 2145/65, aby týž byl neprodleně utracen. Proti tomuto usnesení není odvolání na základě § 5 zákona o dobytčím moru, ze dne 12. února 1867.
+> _V záležitosti Františka Hustolesa schvaluje se na základě zvěrolékařského dobrozdání čís. 2145/65, aby týž byl neprodleně utracen. Proti tomuto usnesení není odvolání na základě § 5 zákona o dobytčím moru, ze dne 12. února 1867._
 
-_C. k. místodržitelský rada Vaníček_
+> _C. k. místodržitelský rada Vaníček_
 
 „Jak vidíte,“ řekl nešťastnému muži policejní strážmistr, „není z rozsudku odvolání. Sepište svoje poslední věci a neřvete. Utracen budete tak jako tak, jen co přijde z Vídně potvrzení rozsudku a poukaz, jakým způsobem máte býti utracen.“
 

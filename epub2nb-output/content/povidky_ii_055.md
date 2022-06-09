@@ -3,11 +3,9 @@ title: "Osiřelé dítě a\_tajemná jeho matka"
 contentType: prose
 ---
 
-Pohnutlivá historie měšťáckého tisku
+_Pohnutlivá historie měšťáckého tisku_
 
 ## I Osiřelé dítě s modrýma očima
-
-  
 
 Jmenovala se Tonička a postrádala tepla lásky mateřské a lásky otcovské. Pak se dostala k jednomu obchodníkovi. Tam chodila nakupovat služka jednoho redaktora jistého měšťáckého listu.
 
@@ -19,8 +17,6 @@ Pro pláč vypadlo mně péro z ruky…
 
 ## II Listonoš s penězi
 
-  
-
 Svižným krokem vstoupil listonoš s penězi Jan Hromada (45 let, zachovalý, katolík, ženatý, příslušný do Libice, hejtmanství Kolín nad Labem. Zvláštní znamení: Mateřské znaménko pod pupečním důlkem) do krámu, kde sloužilo osiřelé dítě. „Jest Tonička přítomna?“ tázal se hlasem chvějícím se, neboť četl, co stálo na poukázce.
 
 „Ano,“ odpověděl chvějícím se hlasem obchodník, když listonoš třesoucím se hlasem dodal: „Nesu jí sto korun.“
@@ -31,8 +27,6 @@ Když to četli Toničce, upustila tato třílitrovou nádobu s lihem, který s
 
 ## III Statečný čin penzisty Pavlíka
 
-  
-
 V následujícím okamžiku vstoupil do krámu pětašedesátiletý penzista Josef Theodor Pavlík. V ruce držel zapálený doutník. Vida, že je v krámu rozlit denaturovaný líh, statečně odhodil hořící doutník otevřeným oknem na hlavu jednomu kolemjdoucímu chodci. Čin ten zasluhuje plného obdivu jako důkaz neobyčejné chladnokrevnosti a odvahy. Jinak byl by možná líh se vzňal, a poněvadž v krámě byl právě velký galon s benzínem, nebylo by možno dále pokračovat v pohnutlivé historii. Zuhelnatěním mrtvol, jsoucích ve vyhořelém krámu, skončila by tato pohnutlivá historie. Kromě toho čin onoho penzisty je tím záslužnější, poněvadž bystrým nápadem zachránil státu listonoše s penězi.
 
 Ministerstvo obchodu volá tímto statečnému muži: „Zaplať pán­bůh!“
@@ -40,8 +34,6 @@ Ministerstvo obchodu volá tímto statečnému muži: „Zaplať pán­bůh!“
 Když penzista Pavlík vyšel z krámu, nenalezl svůj odhozený doutník. Ten vykouřil kolemjdoucí chodec, kterému padl na hlavu.
 
 ## IV Obchodní čin obchodníka
-
-  
 
 Za čtvrt hodiny po přijetí 100 K pro Toničku vyšel obchodník z krámu. Koupil si malý lístek na elektrickou tramvaj a jel do redakce listu, jehož redaktorem byl pán zaměstnávající u sebe služku, která chodila nakupovat do krámu obchodníka, který právě šel na návštěvu k onomu redaktorovi. Jak vidět, pěkně se to všechno vyvíjí.
 
@@ -54,8 +46,6 @@ Nato šel obchodník do inzertního oddělení, kde si objednal na zítřek inze
 Toho dne tržil jako obyčejně.
 
 ## V Následky článku Tajemná matka
-
-  
 
 Redaktor držel slovo. Druhého dne objevil se v listu článek Ta­jemná matka. Byl přes celé tři sloupce. Plačtivý úvod byl stlučen z Marlittové, Carlénové, Schwarcové a jiných rozbrečených spisovatelek rodinných. Pak následovalo jméno nynějšího ochránce Toničky. Obchodník Václav Zeman v ulici Kamínského číslo 18.
 
@@ -79,8 +69,6 @@ Listu s článkem Tajemná matka prodalo se o deset tisíc exemplářů víc.
 
 ## VI Hluchoněmá služka
 
-  
-
 Aby se toto všechno ještě lépe vyvinulo, vypátralo se, že žena, která porodila v porodnici Toničku, porodila ji na knížku jedné hluchoněmé služky, která se posuňky zapřísahala, že není matkou Toničky. Že jest hluchoněmá, těžce nesl onen redaktor, poněvadž se s ní nemohl, jak přirozeno, živou mocí dohovořit. Chystal totiž do stálé rubriky listu Tajemná matka a osiřelé dítě sloupec s názvem Hovor s domnělou, nepravou matkou.
 
 Několik vinohradských paní a dívek poslalo hluchoněmé služce pohlednice.
@@ -94,8 +82,6 @@ Lístek zněl: „Jedu se vyzpovídat!“
 Na základě toho vyslalo policejní ředitelství za hluchoněmou služkou dva detektivy převlečené za kněze.
 
 ## VII Nová psaní, nová odhalení a nové obchody
-
-  
 
 Tonička dostávala den co den nové psaní od „tajemné matky“. Pan Václav Zeman donášel je svědomitě do redakce, která je otiskovala s případnými vzdechy.
 
@@ -116,8 +102,6 @@ Dopis ten byl také uveřejněn. Závistiví lidé říkali: „Za čtyři sta k
 Jeden bývalý lesník prohlásil se za důvěrníka Toničky a současně dal do novin inzerát: „Jelen není stižen tuberkulózou, poněvadž vyhledává si v lesích bylinu, která je hlavní součástkou lesního čaje a koření, které vyrábí bývalý lesník Šuminský v Kamínského ul. č. 26. Mnoho poděkování z Ameriky, z Austrálie, Nového Zélandu, z ostrova Korsiky, Michle, Londýna, Paříže a Poděbrad.“
 
 ## VIII Rady a úvahy
-
-  
 
 Do redakce listu se stálou rubrikou Osiřelé dítě a tajemná jeho matka přicházela spousta dopisů. Za čtrnáct dní jich došlo 1256. Obsahovaly dílem rady, dílem úvahy, upozornění, napomínání, varování.
 
@@ -143,15 +127,11 @@ A za pár dní vyšlo zvláštní vydání jiného listu, zabývajícího se po
 
 ## IX Tajemná matka objevena a diskrétnost zachována
 
-  
-
 Zvláštní vydání večerního listu. Tajemná matka přišla dle rady vynálezce lesního čaje do jeho bytu. Úplná diskrétnost zachována. Stálo v listu: „Váže nás čestné slovo, a proto zachováváme úplnou diskrétnost. Jen tolik můžeme říci, že ona dáma, která je matkou Toničky, je vdovou a má několik dětí. Zamlčujeme zde její jméno, poněvadž jsme slíbili jednati diskrétně. Proto můžeme ještě tolik dodat, že objevená matka jest majitelkou domu v samé blízkosti Toniččině. Váže nás čestné slovo, že zachováme o ní úplné tajemství, proto nemůžeme říci nic více, než že jest 35 let stará a že chtěla se znovu vdávat. Jak nám sdělila, je otec Toničky živ, úředník, ženat a má též několik dětí. Více říci nám nedovoluje náš slib zachovati v té záležitosti úplné mlčení. Jen tolik můžeme říci, že je onen pán úplně podoben Toničce, jejíž podobiznu přineseme zítra v našem ilustrovaném listu zároveň s obrázkem tklivého shledání matky s dcerou.“
 
 Diskrétnost byla úplně zachována a večerního listu prodáno šedesát tisíc exemplářů.
 
 ## X Otec velmi podoben Toničce
-
-  
 
 Uveřejnění podobizny Toničky v ilustrovaném listu mělo za následek, že holiči počali hned dopoledne dělat dobré obchody.
 
@@ -171,4 +151,4 @@ Bůhvíjak to dopadne… Nikdo neví jak, jen jeden sazeč mně říká, že maj
 
 „A zase na tom vyděláme,“ pravil s úsměvem sazeč.
 
-_Právo lidu – 23. 8. 1908_
+> _Právo lidu – 23. 8. 1908_

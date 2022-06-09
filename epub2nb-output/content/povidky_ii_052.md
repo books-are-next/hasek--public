@@ -3,8 +3,6 @@ title: "Něco o\_inzerátech"
 contentType: prose
 ---
 
-  
-
 Až do roku 1874 existoval v Rakousku zvláštní zákon, kterým byla na inzeráty uložena kolková daň. Takovým způsobem rozuměly rakouské vlády před rokem 1874 oné důležitosti inzerce, kterou dnes všichni chápeme, a někdy dokonce i nadužíváme v obecném životě.
 
 Rakouské vlády těch dob nechápaly rozvoje národohospodářského, který podmíněn jest mezi jinými činiteli i účinnou inzercí, kterou stoupá nabídka i poptávka. Dnes nikoho jistě nenapadne uvalovat na inzeráty daň a jen tu a tam okresní hejtmanství v Čechách staví se proti inzerci, konfiskujíc z politických důvodů různé inzerty na základě bojkotového zákona.
@@ -43,9 +41,9 @@ Takové vymáhání inzertů snad jest též zasahováním do svědomí inzerent
 
 Přesto však inzeráty jsou pevným pojítkem výrobců a obchodníků s konzumenty a inzerenti hledí přivábit křiklavými inzerty kupce. Hledí zájem čtenářstva získat nápadnými větami, které se často v listech až k omrzení opakují, v úpravě à la:
 
-ZADARMO ROZDÁME  
+_ZADARMO ROZDÁME  
 obšírné ceníky s návodem, jak lze lacino u nás koupiti  
-PĚT PÁRŮ BOT!
+PĚT PÁRŮ BOT!_
 
 Má v tom být nějaká originalita? A jsou-li inzeráty provázeny ilustracemi, jistěže ve většině případů ty obrázky jsou bez estetické ceny. Z obrázků u inzertů dívají se na vás strašné obličeje, postele, kamna, vany, provedené v hrozné perspektivě. Inzeráty bandážistů provázeny zafačovanými mrzáky a podobně. A všechno to má půvab pro děti, ale na někoho působí to odporně.
 
@@ -57,4 +55,4 @@ A vy odložíte inzertní část deníku, zatímco sta bláhových děvčátek 
 
 Ale vy cítíte, že od toho inzerátku, kterým někdo prodává peří, až k velkému inzertu továren na lokomobily běží veškeren život, který kolem nás proudí, rychleji, než sbírají sběratelé inzertů výrazné předměty tohoto života ve sloupce velkých deníků i malých kousavých plátků.
 
-_Besedy lidu – 1. 10. 1910_
+> _Besedy lidu – 1. 10. 1910_
