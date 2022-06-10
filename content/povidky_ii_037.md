@@ -3,6 +3,8 @@ title: Mnemotechnika
 contentType: prose
 ---
 
+<section>
+
 Rostlina bez vody hyne, a tak i středoškolský student, neznající dějepisných dat, potácí se bídně životem. Jeho život podobá se vraku, jak dobře vystihl profesor dějepisu Šetelík jednou v hodině dějepisu, kdy student Jechuntál nemohl si živou mocí vzpomenout na dvě důležitá data: „Od kterého do kterého roku panoval rod Valois ve Francii a kdy byla válka o dědictví francouzské.“
 
 Jechuntál obmezil se na jakousi dějepisnou loterii. Hádal čísla, a stoje na pódiu, snažil se zachytit sluchem nějaké to století, vyslané sem milosrdnými spolužáky.
@@ -28,3 +30,5 @@ Při příští hodině přišel na inspekci ředitel. Kladl též otázky a me
 Zeman upřel bolestný zrak na ředitele, mlčel chvíli a pak zakvílel: „Já jsem prosím zapomněl, kdy se Jechuntál narodil, kterého měsíce, jen vím, že rod Valois panoval ve Francii 500 let před narozením Jechuntála…“
 
 > _Národní obzor – 3. 10. 1908_
+
+</section>

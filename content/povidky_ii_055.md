@@ -3,6 +3,8 @@ title: "Osiřelé dítě a\_tajemná jeho matka"
 contentType: prose
 ---
 
+<section>
+
 _Pohnutlivá historie měšťáckého tisku_
 
 ## I Osiřelé dítě s modrýma očima
@@ -151,4 +153,10 @@ Bůhvíjak to dopadne… Nikdo neví jak, jen jeden sazeč mně říká, že maj
 
 „A zase na tom vyděláme,“ pravil s úsměvem sazeč.
 
+</section>
+
+<section>
+
 > _Právo lidu – 23. 8. 1908_
+
+</section>

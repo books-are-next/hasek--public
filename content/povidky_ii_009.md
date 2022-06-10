@@ -3,6 +3,8 @@ title: Jak jsem si přišíval knoflík ke kalhotám
 contentType: prose
 ---
 
+<section>
+
 Nejtrapnější, co člověka může postihnout je, když zpozoruje, že jeho oděv jeví citelné nedostatky. V určitém případě nemůže se objevit ani ve společnosti, neboť tato společnost nečiní rozdílů mezi starým mládencem a člověkem ženatým a žádá od obou jistou dávku slušnosti.
 
 Nemít knoflíky u kalhot v pořádku, vzbuzuje u mnohých zaujatých lidí značnou dávku odporu. Společnost tuto záležitost neposuzuje věcně a neprobírá jak ze stránky psychologické, tak i ze stránky praktické pravý stav věcí. Zapomíná, že starý mládenec může být též velice cudným člověkem, který by se neosmělil přinésti kalhoty se scházejícím knoflíkem manželce svého ženatého přítele s prosbou, aby laskavě doplnila vše v ladný celek, který by svědčil o naprostém pořádku. Obrátil-li by se pak s podobnou prosbou a se svými kalhotami ku svobodné dceři své bytné, kdoví zdali by v útlé dívčí duši nevzbudil též jistou dávku opovržení ku své osobě, kteréžto opovržení jistě by bylo na místě.
@@ -38,3 +40,5 @@ Když jsem se s koupenými předměty ubíral k domovu, připadal jsem si jako
 Ráno našli mě ležet na zemi, obtočeného čtrnácti tisíci metry různobarevných nití, jen ve spodním prádle. Spal jsem na dvou stech jehlách a kalhoty našli přišité ke kanapi, na prstech u nohy i na rukách měl jsem dvacet náprstků a lýtko jsem měl přišité ke koberci.
 
 Co jsem měl dělat? – Koupil jsem si nové kalhoty.
+
+</section>

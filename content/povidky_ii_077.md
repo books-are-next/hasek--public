@@ -3,6 +3,8 @@ title: "Obecní býk v\_Jablečnu"
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Až do toho dne nebylo Jablečno obcí, o které by se dalo mluvit. Ještě že pan vikář nad Přísednicí někdy dřív přivedl řeč na Jablečno, chtěl-li podati důkaz a příklad nějaké věrolomnosti.
@@ -104,3 +106,5 @@ Druhého dne bučel obecní býk v Jablečnu, když cítil, jak vedou kolem kr�
 Krávy smutně bučely, býk bučel a pan vikář zuřil, až asi za rok najednou řekl ke kostelníkovi: „Zítra rozsvítíte tu velkou svíci u oltá­ře svatého patrona.“
 
 To se právě dozvěděl, že obecní býk v Jablečnu se stal impotentním a že ho prodávají řezníkovi.
+
+</section>

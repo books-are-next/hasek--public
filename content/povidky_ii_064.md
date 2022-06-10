@@ -3,6 +3,8 @@ title: Fialový hrom
 contentType: prose
 ---
 
+<section>
+
 Fialový hrom byl roku 1596 na koncilu kardinálů v Římě, kterýž koncil odhlasoval, že rouhači mají být bleskem usmrceni.
 
 Poněvadž se tedy jednalo o jeho stavovskou otázku, tu fialový hrom, jak řečeno, zčistajasna se objevil na koncilu. Když se pak vrátil nahoru, tu si stěžoval, že nějak příliš prudce vrazil mezi pány kardinály a že dva budou mít z toho pohřeb. Zmínil se též, že by rád se na ten pohřeb podíval, že bude velmi slavný.
@@ -68,3 +70,5 @@ Když to vyprávěl jednomu starému zkušenému světci, řekl mu tento: „To 
 „Jakpak by nechodil, když mu udělali takovou elektrickou lázeň,“ řekl nevrle starý zkušený světec.
 
 Fialový hrom dal se do pláče.
+
+</section>

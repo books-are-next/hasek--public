@@ -3,6 +3,8 @@ title: "Román z\_Malého oznamovatele v\_Národní politice za řadu dní"
 contentType: prose
 ---
 
+<section>
+
 26\. srpen. Parket Národního divadla. Vzpomínko, ty vonných květů ráji…
 
 26\. srpen. Parket Národního divadla. Patří parket mně? Dagmar.
@@ -78,3 +80,5 @@ Neznámý návštěvník. Lásko, ach lásko, ty mocná vládkyně… Uvidíte m
 Hledají se všichni, kteří posledně mluvili s naším synem Oskarem Krátkým, abiturientem gymnázia, který odešel předevčírem z domova a více se nevrátil. Týž byl poslední dobou nápadně zamlklý a odešel s výstřižky dopisů z „Malého oznamovatele“ v Nár. politice, nalepenými do černých desek. Každý, kdo by o něm něco věděl, nechť to oznámí zarmouceným rodičům, Vinohrady, Perunova 16.
 
 Oskare, vrať se domů. Otec říká, že mně nebude bránit dávat ti peníze na ty Tvé inzeráty. Tvá nešťastná matka.
+
+</section>

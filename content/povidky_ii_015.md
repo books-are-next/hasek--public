@@ -3,6 +3,8 @@ title: Trampoty pana Tenkráta
 contentType: prose
 ---
 
+<section>
+
 _Historie poučná a odstrašující_
 
 ## Předmluva
@@ -28,6 +30,10 @@ Pan Tenkrát vyprávěl mně vše a já to předkládám před širší fórum,
 ## I
 
 _První výklad o povinnostech, který měl pan Banzet, vyzvav pana Tenkráta, aby ho doprovodil domů z úřadu, připojuje k onomu výkladu povídání o vynikajících osobách v N._
+
+</section>
+
+<section>
 
 „Ano, milý příteli, můžete mne doprovodit domů, bydlím na rynku. Pravíte, že s největší radostí. Doufám, že nemáte nyní ničeho na práci, a malá procházka po vykonané práci neškodí. Jmenujete se pan Tenkrát, není-liž pravda. Je to, abych tak řekl, divné jméno. Říkáte, že původně jmenoval se váš dědeček Tenkrad, hehe, mám rád žertovné mladé lidi, ovšem jen tenkrát… Ne, nepřeji si ničeho. Pravím, tenkrát tedy, řekneme tehdy, tehdy mám rád mladé žertovné lidi, když ve svých žertech nedotýkají se stávajících řádů.
 
@@ -55,6 +61,10 @@ Byli jsme již u domu,“ doložil pan Tenkrát, „podali jsme si ruce, přič
 
 _Výklad o špatném hostinci U Vola, o paní Pažoutové, kde bydlí pan Tenkrát, a o stravě, kterou mu ona předkládá._
 
+</section>
+
+<section>
+
 „Že jste byl včera navečer v hostinci U Vola? Že jste se bavil s nějakými pány? Že vás pozvali na večírek? Způsobil jste mně bolest, pane Tenkráte, velkou bolest jste mně způsobil a hněval bych se na vás, kdybych nevěděl, jak je to nepříjemné být cizincem v městě a neznat dobře poměry.
 
 Jste udiven, jak vidím, nemyslete si, že se hněvám na vás. Omluvil jsem vás již neznalostí poměrů zdejších, poněvadž kdybyste byl věděl, jaký je to hostinec, nikdy byste tam nebyl vkročil.
@@ -78,6 +88,10 @@ Pan Tenkrát vyprávěl mně pak, že byl tak hypnotizován a unaven, že dal v
 ## III
 
 _U Koruny._
+
+</section>
+
+<section>
 
 „Pan vrchní berní, pan děkan, pan okresní hejtman, řídící učitel, starosta a já. Představení mé osoby panem vrchním berním a představování pánů jím samým.
 
@@ -123,6 +137,10 @@ Pan Banzet,“ řekl ještě pan Tenkrát, „si nepomyslil, jak za pár neděl 
 
 _Výklad o novém bytě._
 
+</section>
+
+<section>
+
 „Abych přijal vaše největší poděkování za laskavé opatření nového bytu? Pane Tenkráte, konal jsem prostě svou povinnost a doufám, že vy jste též spokojen? Že ještě nevíte! Pane Tenkráte, zaopatřil jsem vám, věřte mi, nejlepší byt v celém městě. Že musíte chodit do svého pokoje přes kuchyň a jeden pokoj a vaším pokojem že chodí se do třetího?
 
 Příteli, pane Tenkráte, nechtějte zklamat mou naději, kterou jsem ve vás měl jako muže řádného. Vaše řeč páchne touhou po pokoji se zvláštním vchodem. Že vás to nenapadlo? Nejsem dnešní, drahý příteli, znám všechny ty touhy mladých lidí. Být co možná nejvíce samostatným. Mít klíč od domu, pokoj se zvláštním vchodem, přijít domů kdykoliv, přivést s sebou kohokoliv, o přátelích nemluvím, jen o přítelkyních, ano, to byla i vaše touha. Že ani zdaleka?
@@ -148,6 +166,10 @@ Tenkrát ponejprv,“ dodal hrdina tohoto vypravování, „přišlo mně na mys
 ## V
 
 _Výklad o růžovém psaníčku._
+
+</section>
+
+<section>
 
 „Ptáte se mne, proč jsem tak málomluvný dnes, proč nežertuji a proč jsem tak smutný. (Povzdech.) Musím být smuten. (Nový povzdech.) Musím být mrzut, když vidím, jak hrozí nebezpečí někomu, za koho bych třebas cedil svou krev.
 
@@ -178,6 +200,10 @@ Pak jsem mu slíbil, že zítra v neděli k nim přijdu na oběd, abych zvykl 
 ## VI
 
 _Pan Tenkrát vypravuje o slavnostním obědě u pana Banzeta a o všem, co působilo na něho neobyčejným dojmem._
+
+</section>
+
+<section>
 
 „Když jsem přesně o půl dvanácté dostavil se do jejich domácnosti, řekl pan Banzet: Chtěl jsem již jít pro vás. Nato byl jsem představen paní Banzetové a jejím dcerám. Kolik těch dcer bylo, nevím, neboť jich bylo tolik, že jejich počet mne omráčil. Bylo mně asi tak jako tomu, kdo dívá se na ohromné lesy nebo ohromný oceán či na skupinu horstva. Vím jedině, že jsem byl nejmladším z celé společnosti a že všechny ty jeho dcerušky uváděly mne do rozpaků svým stářím. Když mně Markétka podávala ruku, podíval se pan Banzet významně na mne a řekl: Vy se již trochu znáte.
 
@@ -259,6 +285,10 @@ Teď si vzpomínám,“ řekl pan Tenkrát, ukončuje své vypravování o slav
 
 _První vycházka pana Tenkráta s panem Banzetem po třínedělní nemoci, datující se od slavnostního oběda._
 
+</section>
+
+<section>
+
 „Jak jsem rád, drahý rekonvalescente, že opět můžete vyjít na čerstvý vzduch. Že vás to již také mrzelo ležet v posteli? Byla to nutnost, můj příteli, potřeboval jste jako sůl odpočinku a klidu. Že nepochopujete, zdali to byl klid, když moje celé příbuzenstvo dělalo vám návštěvy a ptalo se po vašem zdraví?
 
 Milý rekonvalescente, z toho je vidět, jak získal jste si srdce všech nás, jak pečovali jsme o vás… Že jste byl hned zdráv druhý den po tom slavnostním obědě?
@@ -302,6 +332,10 @@ A nyní vám povím,“ řekl mně pan Tenkrát, zapaluje si nový doutník, �
 ## VIII
 
 _Zběhl od praporu…_
+
+</section>
+
+<section>
 
 „Když kroky páně Banzetovy ozvaly se těžkopádně na dřevěných schodech, uvážil jsem rychle svůj duševní stav. Bylo mně jak vojákovi, který nemoha už snášeti týrání svých představených, prchá ze stráže, opouští prapor, utíká. I já, rozhodnut, okamžitě obrátil jsem se rychlými kroky a zahnul za roh, dívaje se obezřetně, zdali nevychází již pan Banzet z domu. Ujistiv se v klusu, že nehrozí mně dosud žádné nebezpečí z té strany, zahnul jsem do Dušní ulice, a nedbaje udivených zraků kolemjdoucích, klusal jsem stále větším a větším tempem. Řídící učitel díval se právě z okna, když běžel jsem Dušní ulicí nahoru, a za mnou křičel stále pan řídící: Zdráv, příteli?
 
@@ -373,6 +407,10 @@ Když pan Tenkrát odešel, přeškrtl jsem nadpis tohoto vypravování Výklady
 
 _Dopadený zběh činí odvážný pokus útěku._
 
+</section>
+
+<section>
+
 „Není třeba poznamenat,“ počal druhého dne vyprávět pan Tenkrát, „že zjevení se těch lidí účinkovalo na mne velmi neblaze. Byl jsem ochromen, nikoliv ohromen, ochromen v pravém slova smyslu, takže mé ochromené nohy vypověděly mně službu. Nemohl jsem utéci otevřeným oknem, které bylo právě za mým stolem. Postavil jsem se a ani z místa hnouti jsem se nemohl, ačkoliv objímali mne jeden po druhém.
 
 Napřed objala mne slečna Markétka, divoce jako rozpustilé děcko, pak vážně a otcovsky pan Banzet, nato přátelsky pan řídící učitel, jen cizí neznámý muž stál vzpřímen u dveří, nespouštěje mne z očí.
@@ -417,6 +455,10 @@ Tím skončil jsem svou historii a nyní můžeme jít někam se občerstvit, n
 
 _Katastrofa._
 
+</section>
+
+<section>
+
 Následujícího dne pan Tenkrát nepřišel. Uplynul již celý týden od naší poslední rozmluvy a dosud nevykonal svou slíbenou návštěvu.
 
 Abych se tedy přesvědčil, zdali snad není nemocen, šel jsem ho navštívit, a tu k svému údivu slyšel jsem od jeho domácí paní podivnou zprávu.
@@ -429,9 +471,17 @@ Abych se tedy přesvědčil, zdali snad není nemocen, šel jsem ho navštívit,
 
 Uplynuly nyní čtyry neděle, v kterémžto období pan Tenkrát nedal o sobě ničeho vědět. Až takhle jednoho dne, když přišla pošta, obdržel jsem oznámení:
 
+</section>
+
+<section>
+
 _MARKÉTA BANZETOVÁ, JAN TENKRÁT  
 dovolují si oznámiti, že bylo jejich sňatku požehnáno  
 dne 18. srpna v chrámu Páně v N…_
+
+</section>
+
+<section>
 
 Doufám, že k tomu není třeba ničeho dodati…
 
@@ -450,3 +500,5 @@ _[7](./resources/undefined) Boty z černé telecí kůže. Pozn. red._
 _[8](./resources/undefined) Konečně jsou určité limity. Pozn. red._
 
 _[9](./resources/undefined) Kde je ten osel? Ten osel tady není! Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: Kynologický ústav
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Měl jsem již odedávna zálibu ve zvířatech jakéhokoliv druhu. V útlém věku nosíval jsem domů myši a jednou vydržel jsem si hrát se zabitou kočkou po celou tu dobu, co jsem byl za školou.
@@ -180,3 +182,5 @@ Když jsem se protlačil k výkladní skříni, nohy div pode mnou neklesly.
 Čížek, aby to pěkně zaranžoval, rozvěsil dva tucty štěňat po větvích velkého vánočního stromku, jako by to bylo cukroví. Visela tu nebožátka s vyplazenými jazyky jako středověcí loupežníci rozvěšení na stromě… A pod tím byl nápis: Nejradostnější Vánoce způsobíte svým dětem, koupíte-li jim zdravé, roztomilé štěňátko.
 
 A to byl konec kynologického ústavu.
+
+</section>

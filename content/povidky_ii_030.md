@@ -3,6 +3,8 @@ title: "Dobrodružství s\_nahým klukem"
 contentType: prose
 ---
 
+<section>
+
 Bylo pozdě večer. Ve Vltavě nekoupal se již nikdo. Oblékl jsem se na modřanském břehu a strojil jsem se jít ke stanici parníků Pivovar Braník, když jsem uslyšel z vrbin strašlivý pláč a nářek dítěte: „Panenko Maria, Ježíš Marjá Josefe, svatý andělíčku strážný.“
 
 Vnikl jsem do křoví a nalezl tam nahého osmiletého klučinu, který ležel bezmocně na kamínkách. Když mne uviděl, vyskočil a počal objímat mé nohy, přičemž křičel: „Proboha vás prosím, já jsem z Vršovic!“
@@ -90,3 +92,5 @@ Octli jsme se venku na silnici. Přemýšlel jsem, co s klukem. Kluk řval: „
 Zašli jsme k nejbližší faře. Zazvonil jsem, a když kuchařka otevřela, vstrčil jsem nahého Tondu do chodby fary a utekl.
 
 Druhého dne četl jsem v novinách, že onoho faráře ranila včera mrtvice.
+
+</section>

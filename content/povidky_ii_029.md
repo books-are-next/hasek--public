@@ -3,6 +3,8 @@ title: Časopisy pro mládež
 contentType: prose
 ---
 
+<section>
+
 Mládí mé bylo neveselé, poněvadž mně mí pěstouni, jinak řádní lidé, předplatili Rajskou zahrádku a Českého jinocha.
 
 Rajskou zahrádku redigoval páter Pohunek. Jest význačné, že mnozí vynikající katoličtí pracovníci mají jména tak podivná. Vezměme si za příklad klerikála Kaňourka, Kopala a Škrdle.
@@ -35,11 +37,19 @@ Povídka jiná měla název Zlý Józa. Na většího padoucha se nepamatuji. Ch
 
 Vzpomínám při té příležitosti na jeden verš z básničky v klerikálním časopise Selský jinoch, kde napomíná rozšafný člověk nějakého lumpa:
 
+</section>
+
+<section>
+
 _Jen sakruj dál,  
 jsi nekřesťanský osel,  
 a věř mně, to že bych se smál,  
 kdyby jen do tě uhodil  
 ohnivý boží posel._
+
+</section>
+
+<section>
 
 Jinak měly povídky v Rajské zahrádce také tendenci, že s poctivostí člověk nejdál dojde. Proti tomu se nedá ničeho namítat a rád si vzpomínám na případ chudé Růženky, jejíž poctivost se táhla přes tři pokračování.
 
@@ -56,3 +66,5 @@ Pokračování však jsme se nedočkali, neboť ten misionář, který vydával 
 Pak nám doporučovali Echo z Afriky a nebožtík otec, když jsem chtěl na něm peníze na tento časopis, zavrtěl hlavou a řekl: „Milý hochu, to bude také zlodějna!“
 
 A byl to přece nábožný křesťan.
+
+</section>

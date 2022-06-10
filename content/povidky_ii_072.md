@@ -3,9 +3,19 @@ title: "Aféra s\_křečkem"
 contentType: prose
 ---
 
+<section>
+
 V ranním vydání listu objevil se tento inzerát. Nebyl příliš velký, ale vyzníval z něho jakýsi výkřik zoufalství:
 
+</section>
+
+<section>
+
 > _Prodám okamžitě živého křečka neb vyměním za cokoliv. Praha III, Plaská, II. poschodí, 4. dveře vlevo._
+
+</section>
+
+<section>
 
 Čtenáři přecházeli tento inzerát bez zájmu, jedině Honzátko, sekundán, který měl dnes školu až od devíti mohl nechat na tomto inzerátu oči. Byl v bytě sám. Otec odešel do úřadu, matka šla s jeho sestrou Emou obstarat nějaké poslední věci k svatbě, neboť Ema se bude pozítří vdávat. Služka použila pak té příležitosti a odběhla navštívit svého milence někam do zámečnické dílny v Karlíně a řekla Honzátkovi, aby nezapomněl dobře zamknout předsíň a dát klíč k domovníkovům. Přitom mu řekla „Bohoušku“ a pohladila ho po vlasech. Oba spolu drželi, neboť byli v domácnosti nejpronásledovanějšími tvory.
 
@@ -34,6 +44,10 @@ To byla již lehčí práce, neboť otec s velkou lehkomyslností, jak si Honz�
 Dostal se tedy pohodlně otci na sbírku starých mincí a vzal odtamtud jeden velký mariánský tolar, jichž tam bylo několik, a spokojil se tím. Zamkl psací stůl, klíč dal opět na své místo a počal vybírat ze svých zábavných knih, co by ještě také ze svého na toho křečka přidal, aby také i on nesl náklady spojené s tím krásným podnikem. Vybral knihu Hrdinný kapitán Korkorán. Byla to nejzachovalejší z jeho knih, neboť scházelo tam jedině dvacet čtyři stránek.
 
 Nato sedl si k psacímu stolu a napsal na čtvrtku papíru:
+
+</section>
+
+<section>
 
 > _Omluvenka._
 
@@ -119,6 +133,10 @@ Panu Kratochvílovi se zdálo, že pak ježky měl vypudit pomocí žíhaných h
 
 Pan Honzátko zatím nelenil a ředitelství gymnázia, kde jeho synek nijak nevynikal, obdrželo od něho dopis, kterému pan ředitel nijak nerozuměl:
 
+</section>
+
+<section>
+
 > _Slavnému ředitelství gymnázia v Jirovcově ulici._
 
 > _Podepsaný uctivě prosí slavné gymnázium, aby vzhledem ku změněným rodinným poměrům bezodkladně učinilo kroky, aby křeček, který jest uschován u podepsaného, byl mu odebrán a vycpán._
@@ -128,6 +146,10 @@ Pan Honzátko zatím nelenil a ředitelství gymnázia, kde jeho synek nijak ne
 > _Václav Honzátko, pokladník, Žižkov, Orebitská 5_
 
 Pan ředitel dal k sobě zavolat mladého Honzátka a se zájmem se ho vyptával, píše-li často jeho pan otec takové dopisy. Honzátko se vyjádřil, že neví. Nato se ho pan ředitel ještě optal, zdali jeho pan otec nebyl někdy v nějakém ústavu či sanatoriu. Honzátko, aby stále neříkal ne, tentokrát pro změnu přikývl hlavou. „Musíme ho upokojit a uklidnit,“ pomyslil si ředitel, a tak dostal pan Honzátko tento dopis:
+
+</section>
+
+<section>
 
 > _Vzhledem k Vašemu dopisu musíme s velkou lítosti Vám oznámiti, že ředitelství gymnázia na vycpání nereflektuje._
 
@@ -145,4 +167,10 @@ Polévka z fretek. Fretky vařené s octovým křenem. Pečený křeček s br
 
 A mladý Honzátko, který způsobil všechen ten blahobyt, skromně seděl za stolem a neoceněn v té velké době, se slzami v očích obíral pečenou hlavičku svého nešťastného křečka.
 
+</section>
+
+<section>
+
 > _Vilímkův humoristický kalendář na rok 1916_
+
+</section>

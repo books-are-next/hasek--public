@@ -3,6 +3,8 @@ title: "V\_přírodovědeckém časopise"
 contentType: prose
 ---
 
+<section>
+
 Sezóna mořských hadů trvá v denních listech jen několik neděl, já však jako redaktor časopisu Svět zvířat měl jsem tu sezónu pořád. Během let vytloukli redaktoři Světa zvířat kdejaký materiál o zvířatech, a když jsem po nich převzal redakci, seznal jsem, že není zvířete, o kterém by se již v časopise nebylo psalo.
 
 Byl jsem tedy nucen vymýšlet si zvířata, což mně dalo menší práci než psát o zvířatech dávno již objevených.
@@ -66,3 +68,5 @@ Spěšně jsem odešel, maje v kapse dopis od jednoho hospodáře z Čech, kte
 V kapse měl jsem více takových dopisů, mezi nimi ten, ve kterém jeden učitel píše, že pozoroval po čtrnáct dní, zdali hlemýždi rozeznávají strany světové, a že tedy přijde nás též laskavě navštívit, informovat se, jaký druh hlemýžďů to je.
 
 Poněvadž jsem se setkal s hošíkem, který chtěl vlkodlaky v Olo­mouci, jest jisto, že jsem před těmito znalci přírody utekl na Moravu, kde hodlám založit nový přírodovědecký časopis, ve kterém budu psát o duševních schopnostech stonožek.
+
+</section>

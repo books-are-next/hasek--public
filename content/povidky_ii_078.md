@@ -3,6 +3,8 @@ title: Ohař pana barona
 contentType: prose
 ---
 
+<section>
+
 Ve čtvrtém poschodí zastrčené ulice byla naproti dveřím u půdy přibita na jiné zažloutlé dvéře tato vizitka:
 
 „Baron Dekker z Přehořova.“
@@ -68,3 +70,5 @@ A zatímco se zaplítal pan baron do nových a nových lží, vykládal jeho o
 A odcházel pyšně se svým pánem, který nesl tři kila koňského masa.
 
 Toho dne po sytém obědě zdálo se oběma o koňských dostihách.
+
+</section>

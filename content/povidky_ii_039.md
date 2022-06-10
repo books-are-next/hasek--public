@@ -3,7 +3,13 @@ title: Náš dům
 contentType: prose
 ---
 
+<section>
+
 _Vypravování Lojzíkovo_
+
+</section>
+
+<section>
 
 Bydlíme v pěkném, výstavném domě.
 
@@ -62,3 +68,5 @@ Teď tedy bych mohl strašit vrabce – ale hrome! až vyrostu, na mou duši, �
 Podívám-li se na ukašlanou maminku a na nás všechny, zdá se mi, že má ten starý zedník z půdy pravdu. A proč by se taky lidi takových otrhanců, jako jsme my, báli, kdyby neměli špatné svědomí?
 
 A tak mám chuť je nejen strašit – ale – no, však uvidíme!
+
+</section>

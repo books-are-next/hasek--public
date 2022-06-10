@@ -3,6 +3,8 @@ title: "O\_vhodných názvech"
 contentType: prose
 ---
 
+<section>
+
 Vymýšleti si názvy patří k nejzajímavějším a nejtěžším problémům. Nemluvím o názvech literárních i vědeckých prací. To je věc úplně lehká. Jestli si odmyslíme názvy sbírek veršů, kde je třeba obecenstvo podráždit a udržet v napětí, aby se verše kupovaly. Záleží čistě, jak se toho člověk chopí. Název Koniklec nemůže mít takového úspěchu jako Zde by měl kvést koniklec, v čemž obecenstvo vidí podivuhodné kouzlo, na které hřešil i Machar ve svém případě s růžemi.
 
 Věda nezná takové životní kresby a nestará se zvýšit zájem. Když někdo napíše základy fyziky, dá prostě tomu název Úvod do fyziky a nepíše a nevymýšlí si senzační název Odkrytí záhad zákonů přírodních. Geograf napíše zeměpis a dá také stručný a výstižný název Zeměpis, a nepíše O horách, řekách, národech a městech. Jediný poetický název viděl jsem na knize jednoho psychiatra: O idiotech a lidech nápadných.
@@ -43,7 +45,15 @@ Název musí být zrcadlem a živým otiskem předmětu, který nabízíte na p
 
 Četl jsem v novinách tento inzerát:
 
+</section>
+
+<section>
+
 > _VELKOU ODMĚNU vyplatím tomu, kdo připadne na vhodný název pro předmět nepostradatelný v každé rodině. K doptání v hotelu Štěpán, pokoj č.12, mezi 10–11 hod._
+
+</section>
+
+<section>
 
 Šel jsem tam. Přivítal mne pán dobráckého vzezření a inteligentní tváře. „Mě velice těší,“ řekl, „že jste přijel. Obával jsem se, že asi nikdo nepřijde. Račte se posadit a zapalte si doutník. Jaké víno pijete? Máte radši muškát, nebo moselské?“
 
@@ -158,3 +168,5 @@ Byl jsem tam týden a nevzpomněl jsem si na nic.
 Ráno sedmého dne jsem jim utekl oknem přes zahradu a šel jsem pěšky do Prahy, poněvadž mou tobolku zavřel pan správní rada do pokladny, aby mně přeřízl odstup na Prahu po dráze, doufaje, že si přece vzpomenu na svůj fenomenální název.
 
 Vymýšlet si názvy patří k nejzajímavějším a nejtěžším problémům…
+
+</section>

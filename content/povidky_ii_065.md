@@ -3,6 +3,8 @@ title: Hřích faráře Ondřeje
 contentType: prose
 ---
 
+<section>
+
 Farář Ondřej nacházel se již osmnáctý rok v očistci, aniž věděl proč. Nebyl dosud definitivně odsouzen, ačkoliv poslední léta nebyl nával do očistce tak veliký. Většina duší se zde jen zastavila a už za skřípění zubů byla odváděna do pekla. Časem si dodal odvahy a ptal se některého z andělů hlídačů: „Proč mne zde držíte, pánové?“
 
 Krčívali křídly a říkali: „Váš proces není ještě definitivně ukončen, velebný pane.“
@@ -16,6 +18,10 @@ A pořád sedí ve vyšetřovací vazbě v očistci. Poslední dobu měl za sp
 A andělé tiše lítali kolem něho, bylo jim ho líto a zpívali mu krásné písně na slova Svatých otců a říkali: „Račte podat rekurs, pane faráři.“
 
 I podal písemný rekurs:
+
+</section>
+
+<section>
 
 > _Slavný poslední soude!_
 
@@ -37,15 +43,31 @@ I podal písemný rekurs:
 
 > _Z těchto důvodů prosí, aby byl propuštěn z očistce, a slibuje v pádu milostivého vyřízení své nejuctivější prosby, že se vynasnaží, aby této důvěry také hodným se ukázal._
 
+</section>
+
+<section>
+
 Prosba tato byla mu vrácena. „Schází rubrum[18](./resources/undefined),“ řekl anděl, který mu ji přinesl. Ten anděl byl zaživa úředníkem v kabinetní kanceláři.
 
 Farář Ondřej napsal tedy na zadní stránku:
+
+</section>
+
+<section>
 
 > _„Dušička farář Ondřej prosí za propuštění z očistce:_
 
 > _Hub litteris A, B, C, D, E, F, G.“_
 
+</section>
+
+<section>
+
 Ve výroční den svého úmrtí (dřív se obyčejně ani na zemi žádosti příznivě nevyřizují) dostal odpověď:
+
+</section>
+
+<section>
 
 > _Vaše Blahorodí!_
 
@@ -86,3 +108,5 @@ Ve své knize, napsané roku 415 po Kristu, De retractatione, vel librorum recen
 * * *
 
 _[18](./resources/undefined) Vnější strana podání (žádosti ap.) se stručným zachycením toho, čeho a koho se týká. Pozn. red._
+
+</section>

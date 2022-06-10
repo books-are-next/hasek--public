@@ -3,6 +3,8 @@ title: "Jak se máme chovati doma, na ulici, v\_úřadech, v\_obchodech, v\_diva
 contentType: prose
 ---
 
+<section>
+
 Článek tento je určen pro ty, kteří nemají kdy, aby chodili na přednášky paní Laudové-Hořicové, a nemají času na delší četbu kate­chismu občana Gutha, či dokonce být posluchači kursů před odjezdem delegace pražské městské rady do Paříže.
 
 Článek tento přináší opravdu něco nového a lze jej všem s klidným svědomím doporučiti. Jest zde souhrn myšlenek a pokynů, o kterých byste se nic nedověděli ani od Laudové-Hořicové, ani od Gutha, ani na výše zmíněných kursech.
@@ -78,3 +80,5 @@ Pobodat soudce rezavým nožem jest nepřípustné.
 ## Doslov
 
 Ačkoli všechny výše ukázané rady a pokyny nejsou úplné a ještě mnoho schází, jsem přesvědčen, že každý si je lehce osvojí a zapamatuje. Tato stručná pomůcka dobrého chování neměla by scházet v žádné rodině a prosím slavnou školní radu i ministerstvo vyučování, aby na základě mých rad a pokynů v témž duchu byla vychována i studující mládež. Navrhuji, aby tento můj článek se dostal i do školních učebnic. Honoráře se zříkám ve prospěch fondu pro zchudlé džentlmeny.
+
+</section>

@@ -3,6 +3,8 @@ title: "Logické a\_nelogické hlavy"
 contentType: prose
 ---
 
+<section>
+
 Když profesor Antonín Tlamicha zemřel, zbyl mezi jinými věcmi a spisy, které zůstavil světu z oboru chemie, fyziky a matematiky, i malý sešitek poznámek s podivným nápisem Lanl H. Zápisník tento byl pln jmen a komise, která zabývala se zkoumáním jeho pozůstalosti, seznala, že zápisník ten není ničím jiným než knihou prospěchů jeho bývalých žáků.
 
 Pozůstalost profesora Tlamichy připadla muzeu a stkví se dnes v literárně-pedagogicko-historickém oddělení, i zápisník profesora Tlamichy s nepochopeným a neprozkoumaným názvem Lanl H.
@@ -44,3 +46,5 @@ Byl odveden do jídelny, kde při snídaní vysvětlili mu hypotéky na domě a�
 Za šest neděl byla svatba a po svatbě za čtvrt roku zmizela mu náhle manželka s nějakým přítelem z mládí. Dověděl se to právě v přestávce, vyňal zápisník a klidně napsal: „Profesor Tlamicha, h n, hlava nelogická,“ a vešel do třídy pravě: „Vidím se nucena dnes nadobyčej přísně zkoumati.“
 
 A to bylo vše, co učinil v této záležitosti.
+
+</section>

@@ -3,6 +3,8 @@ title: "O\_bludném cyklistovi"
 contentType: prose
 ---
 
+<section>
+
 Ráno v sobotu vyjel si pan Bartůněk na Křivoklát na kole.
 
 Dnes, týden od jeho výjezdu ze Smíchova, můžete potkat na Kladensku i Berounsku smutnou postavu, vedoucí bílé kolo. Ta smutná postava bloudí od vsi ku vsi a všude říkají jí bludný cyklista. A to není nikdo jiný než pan Bartůněk a ta pověst o bludném cyklistovi zní takto:
@@ -73,4 +75,10 @@ Pan Bartůněk snědl půl bochníku chleba a vypil několik lahví piva, pak z
 
 Ale pan Bartůněk se nezabil. Žije na Kladensku a Berounsku, bloudí ode vsi ku vsi, vede bílé kolo, popovídá si všude v hospodách a ne a ne do Prahy trefit. A na Kladensku a Berounsku těší se v hospodách, až uvidí bludného cyklistu, pana Bartůňka, mazavku prvního řádu, který vynašel ve flámování nový směr: Stát se bludným cyklistou.
 
+</section>
+
+<section>
+
 > _Ločákův humoristický kalendář na rok 1908_
+
+</section>

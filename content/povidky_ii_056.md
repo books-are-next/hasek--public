@@ -3,7 +3,13 @@ title: "Polemika mezi Hlasy od Nučic a\_Nučickou stráží"
 contentType: prose
 ---
 
+<section>
+
 _Příspěvek ke žluté literatuře_
+
+</section>
+
+<section>
 
 Když se redaktor orgánu městského zastupitelstva Hlasy od Nučic vrátil od oběda do redakce, našel ve schránce na psaní nové číslo opozičního orgánu Nučické stráže, listu národněsociálního.
 
@@ -25,6 +31,10 @@ Tento důstojný pan redaktor oznámil pak zaslánem, že považoval vše za vti
 
 Leč dosti těchto osobních polemik, byli jsme vždy pro věcnou kritiku, a proto pokračujeme bez jakýchkoliv osobních výpadů, jakým způsobem přišli o peníze ti, kteří zasílali je přímo do redakce Hlasů od Nučic (s odpuštěním). Dostal se nám náhodou do ruky seznam účtů, které zaplatil z těch zaslaných peněz, jichž sešlo se 272 K 30 h.
 
+</section>
+
+<section>
+
 1\. Kloboučníkovi Pakoskovi 6 K za klobouk, koupený před osmi lety. Chodí tedy osm let v promaštěném klobouku.
 
 2\. Hostinskému Janu Palečkovi na Modré první splátka 56 K.
@@ -39,6 +49,10 @@ Leč dosti těchto osobních polemik, byli jsme vždy pro věcnou kritiku, a pr
 
 7\. Utratil zbytek ve vykřičeném domě Za Vodou ve společnosti městského radního a školdozorce Vaňouska.
 
+</section>
+
+<section>
+
 Aby pak udělal se po tom všem v očích města hezkým, kvitoval s díky přijaté milodary ve prospěch polévkového ústavu chudé školní mládeže a prohlásil, že počínaje začátkem školního roku bude rozdávat v redakci polévku chudým školním dítkám. Za tím účelem navázal styky s paní důchodní, která pak chodila mu do redakčních místností se svou služkou polévku vařit. Polévky byly toho druhu, že 18. září onemocněl těžce dvanáctiletý školák Šrámek.
 
 Dne 19. září zpolíčkoval veřejně pan důchodní kuchaře i svou paní, což učinil, jak prohlásil, v zájmu mravnosti chudých školních dítek, které přestaly na začátku zimy pro polévku si chodit, poněvadž většina z nich stižena byla žaludečním katarem. Toto opakujeme jen z toho důvodu, aby naši čtenáři připomněli si onu hroznou blamáž Hlasů od Nučic, které odpověděly na všechny ty pravdy pouhým zaslánem, že všechno to jest jen směšným výmyslem bláznivého padoucha, který jen stěží unikl mnohaletému žaláři, žalován jsa pro žhářství, když se předtím, než se stal redaktorem, potloukal jako vagabund v okolí.
@@ -48,3 +62,5 @@ Jsme tak nestrannými, že opakujeme i věci nás urážející, ale činíme t
 ‚Pravda je jen jedna,‘ praví přísloví, a tou pravdou jest, že ani bandité italští nepodali by ruku tomu, kdo odbírá Hlasy od Nučic, neboť jaký pán, takový krám.
 
 Stojíme pevně na půdě pravdy a tvrdíme to, co v předešlém čísle: Redaktor Hlasů od Nučic nemyl si nohy již přes tři měsíce, dokázali jsme všechno, dokážeme i toto a s klidným svědomím očekáváme, že přijde redaktor Hlasů od Nučic ukázat své čistě umyté nohy do naší redakce, a klidně též, neoblomni ve svém tvrzení, očekáváme nové číslo Hlasů od Nučic (s odpuštěním).“
+
+</section>

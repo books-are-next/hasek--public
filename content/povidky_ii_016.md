@@ -3,6 +3,8 @@ title: Vařím si vejce naměkko
 contentType: prose
 ---
 
+<section>
+
 Mám dobrou starou tetu. Jest to osoba, která dostává občas záchvaty lásky ku svým příbuzným. Patnáct let nedává vždy o sobě ničeho vědět a po patnácti letech náhle přinese vždy listonoš nějaký balík od mé tety, který ona zasílá právě v jednom takovém záchvatu.
 
 Posledně mně poslala před patnácti léty velký koláč a nyní, šestnáctého roku po této události, doručila mně pošta velký koš, ve kterém jsem objevil kopu vajec, a toto dojemné psaní:
@@ -38,3 +40,5 @@ Nezbývalo mně nic jiného než učinit pokus zkoumat sám celou teorii vařen�
 Za čtvrt hodiny jsem vejce z Papinova hrnce vyjmul. Rozklepl jsem skořápku u prvního a bylo ještě tvrdé, u druhého také tvrdé. Byly ještě všechny tvrdé. Oloupal jsem jim tedy skořápky a hodil poznovu do Papinova hrnce a vařil hodinu. Byly stále strašně tvrdé. Vařil jsem je tedy až do rána. Byly pořád tvrdé.
 
 Ráno mne našli ležet v košíku s vejci, kam jsem se svalil následkem rozčilení, když se mně nepodařilo ani za deset hodin uvařit jedno vejce naměkko. Byla pořád tvrdá a nezměkla.
+
+</section>

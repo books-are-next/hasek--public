@@ -3,6 +3,8 @@ title: "Muž a\_žena v\_manželství"
 contentType: prose
 ---
 
+<section>
+
 Profesor geometrie na gymnáziu Hendrich stál za katedrou jako cézar, jako bůh, jako nejvyšší bytost. Hledě s výrazem nejvyšší dokonalosti do třídy, hlásal tomu shromáždění gymnazistů dole pod ním v školních lavicích:
 
 „Přímka může křivku protínati, a pak slove sečnou, aneb se může křivky dotýkati, a pak se jmenuje tečnou křivky. Přímka, která spojuje dva body křivky, nazývá se tětivou.“ A ukazuje s tvrdým posunkem na obrazec, který velkým kružidlem nakreslil na školní umouněné tabuli, zvolal slavnostně: „Tyto přímky s, s, jsou, jak vidíte, sečnami, přímky t, t, tečnami a přímky AB, CD tětivami.“
@@ -102,3 +104,5 @@ Chaloupecký mlčel.
 Nežli došel k lavici, školní zvonek ukončil hodinu a přispěl k roz­uzlení tohoto zajímavého případu.
 
 Jsem panu školníkovi neobyčejně zavázán díky.
+
+</section>

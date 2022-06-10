@@ -3,6 +3,8 @@ title: Jak se Baluška naučil lhát
 contentType: prose
 ---
 
+<section>
+
 Jednou věcí vynikal Baluška nad všechny své spolužáky. Živým patrio­tismem. Byli sice jeho spolužáci též vynikajícími vlastenci, kteří jako Podskaláci s hlubokou nenávistí hořeli vůči Smíchovákům, ale nikdo tak statečně nehájil barvy pravého břehu Vltavy jako Baluška.
 
 Když nastaly památné boje, opakující se rok od roku, když totiž Vltava zamrzla a oba národové mohli na sebe, když ulicemi šlo heslo, že jsou zas již „traufy“[10](./resources/undefined), tu Baluška kradl řemínky z bičišťat kočům a hotovil praky. Jeho praky donášely také nejdál. Byl vždy první, který vrhl se na Smíchováky s hrozným proklínáním s kapsami plnými kamení a který, když zásoby střeliva došly, s řemenem s velikou přezkou hnal se na zděšené tlupy Smíchováků.
@@ -98,3 +100,5 @@ Pak dostal uzené s knedlíkem, a uléhaje po přestálém utrpení do postele
 _[10](./resources/undefined) Rvačky (obvykle dětské). Pozn. red._
 
 _[11](./resources/undefined) Cigareta. Pozn. red._
+
+</section>
