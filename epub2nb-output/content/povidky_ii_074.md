@@ -3,6 +3,8 @@ title: Má drahá přítelkyně Julča
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Neznám doopravdy roztomilejší bytosti nad psohlavého paviána. Velice se divím levhartům, že se ho bojí a že ho nebožtík Brehm tak ošklivě pomluvil, nazvav ho obludou.
@@ -280,3 +282,5 @@ Od té doby představovali jsme Julču též pod jménem Jägerle.
 * * *
 
 _[21](./resources/undefined) Makak. Pozn. red._
+
+</section>

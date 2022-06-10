@@ -3,6 +3,8 @@ title: Dobrodružství pana Karafiáta
 contentType: prose
 ---
 
+<section>
+
 Úředník pojišťovny pan Karafiát dostal k desáté hodině večerní chuť na pivo. V tom by nebylo nic závadného ani překážky by v tom nebylo. V takovém případě stačí, když jde člověk do hospody a tam se napije nebo opije, stačí také, máme-li málo peněz a mnoho práce doma, když si pro pivo pošleme. Je to jednoduchý prostředek. Také si pro pivo můžeme dojít, nebo dokonce musíme, jsme-li svobodni jako pan Karafiát, který při svých dvaačtyřiceti letech dosud vůbec se nezamiloval čili mluveno řečí všech nevěst, o které se kdysi ucházel, „potily se mu neslušně nohy“.
 
 Pan Karafiát nachází se tudíž krátce před desátou hodinou v této situaci: Má důležitou úřední práci doma, píše totiž pojistky na život a na smrt, má v jedné ruce džbánek na pivo a v duši čili v určitých závinech mozku pojem přesného plnění povinností a za třetí hledal klobouk, ale ten klobouk nemůže najít, nachází se tudíž před možností: Buď bude klobouk hledat, a než ho najde, domovnice dům zavře… Poněvadž dělá kavalíra a nemá klíč od domu, bude ho to stát deset krejcarů, nebo vezme si na hlavu cylindr a s tím cylindrem na hlavě půjde si pro pivo, čímž ušetří deset krejcarů, které raději věnuje na zakoupení piva. Tak to bylo logicky jasné, že pan Karafiát nemeškal, popadl cylindr a šel si naproti pro pivo.
@@ -87,4 +89,10 @@ Strážník škrtá sirku odvážně, dělá, že to všechno neslyší, podív�
 
 Obecenstvo nespokojeně leze do vagónu, tramvaj odjíždí a pan Karafiát bez klobouku s vytřeštěným zrakem jde před strážníkem…
 
+</section>
+
+<section>
+
 > _Veselá Praha – červenec 1907_
+
+</section>

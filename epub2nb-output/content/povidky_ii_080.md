@@ -3,6 +3,8 @@ title: "Povídka o\_kočce"
 contentType: prose
 ---
 
+<section>
+
 Pierre Lotti ve své znamenité knize O stesku a zármutku píše o kočce, která zprvu zdála se být ošklivou a později krásnou a něžnou. Já píši o kočce zprvu krásné a později ošklivé.
 
 ## I
@@ -235,4 +237,10 @@ Když Slávka odešla ráno do trhu, napil jsem se rumu, vzal kočku do hadru, o
 
 Od té vraždy uplynuly již tři neděle. Slávka na mne nemluví, a když, zabručí jen: „Ty vrahu!“ a odvrátí se ode mne, přičemž v jejích očích zalesknou se slzy, které platí nebožce Grině.
 
+</section>
+
+<section>
+
 > _Národní politika, 24/117 – 29. 4. 1906_
+
+</section>

@@ -3,8 +3,14 @@ title: Kradení lidí
 contentType: prose
 ---
 
+<section>
+
 _Z vypravování jednoho moc starého mládence  
 den před jeho svatbou_
+
+</section>
+
+<section>
 
 Nikdo nemůže říci, že bych byl snad jednal necharakterně, nečestně, nebo dokonce podle. Kdo zná mou povahu, a doufám, že takových lidí je více, než si sám myslím, ten zajisté ví, že povaha má je ryzí, bezúhonná, čistá jako umělý med a vykrystalovaná ze samých ctností. Jsem přesvědčen, že kdybych žil ve středověku, v době hrubého násilí, pověr a hloupostí, byl bych prohlášen za svatého, neboť stal-li se svatým Karel Veliký, který jak koťata Sasíky topil, proč bych světcem nebyl já, poctivec, který nezůstal nikomu nic dlužen, nosí zaplacené šaty a boty na sobě, nehýří, v karty nehraje, žen nesvádí, domovníkovi vždy správně platí za otevření domu, nikdy se s nikým nehádá, natož aby někoho zabil nebo zlehčil, aby kradl, pálil, loupil.
 
@@ -156,4 +162,10 @@ A tak, přátelé, dnes je poslední den mé zlaté svobody, zejtra vás opust�
 
 A teď si zazpíváme: „Nikdy tak nebude, až se oženíme. Hurrá! Dnes posledně jsem vesel.“
 
+</section>
+
+<section>
+
 > _Národní listy – 1906_
+
+</section>

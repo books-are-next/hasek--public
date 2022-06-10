@@ -3,6 +3,8 @@ title: Silvestr abstinentů
 contentType: prose
 ---
 
+<section>
+
 Nevím, jak se to stalo, že předseda spolku abstinentů Voráček, jeho místopředseda Beck a jednatel Mašek usnesli se, že oslaví též silvestra, ovšem způsobem důstojným zájmů spolku a jeho významu.
 
 Vypravovalo se později, že byli přímo vyzváni členy spolku, aby šli do ulic propagovat myšlenku abstinentního hnutí.
@@ -65,7 +67,15 @@ Jako zmoklé slepice odcházeli beze slova a pan Voráček vykládal svým druh
 
 Vešli dovnitř a dali si přinést láhve sodovky a rozhlédli se kolem. Dvě tři ženy, o kterých si utvořili ihned špatný úsudek, seděly na klíně dvěma chlapíkům, kteří vyhlíželi právě tak, jak stálo v textu písně, kterou právě zpívala celá hospoda sborem:
 
+</section>
+
+<section>
+
 _„Chodí tam frajeři načesaní.“_
+
+</section>
+
+<section>
 
 Když shromáždění přezpívalo, vstal náhle pan Mašek a pevným hlasem, podepřeným o onu kontušovku, řekl: „Dovolíte laskavě, ale jste vlastně zvířata.“
 
@@ -92,3 +102,5 @@ A dveře separace se otevřely a opět zavřely. Skončena velká tragédie ap
 Měl pravdu. Ještě ke všemu dostali všichni tři za týden dopisy od spolku abstinentů, ve kterých se jim stručně sdělovalo, že pro překročení stanov spolku vylučují se navždy.
 
 Ve stanovách není totiž nic o kontušovce, rvačkách a pryčně.
+
+</section>

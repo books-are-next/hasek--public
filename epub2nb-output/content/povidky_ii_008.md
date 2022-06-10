@@ -3,6 +3,8 @@ title: Šťastný domov
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Šest let snaží se v Čechách Šimáčkův Šťastný domov učinit každou domácnost spokojenou, každé manželství klidným a šťastným. O tom jsem se přesvědčil sám.
@@ -95,10 +97,18 @@ To bylo první přání, druhé bylo, abych vypátral turecký jídelní lístek
 
 Na konci stály verše:
 
+</section>
+
+<section>
+
 _Ó, Šťastný domove!  
 Nás pod ochranu svoji vem,  
 jak matka dítě v loktech chová vždy znova,  
 buď Lásky šťastným domove…_
+
+</section>
+
+<section>
 
 Po přečtení toho jsem plakal dlouho do noci.
 
@@ -156,6 +166,10 @@ Z toho mne rozbolelo okolí žaludku a musel jsem utéct na záchod, kde mě p
 
 Zadní stěnu záchodu vyplňovala tato krásná báseň:
 
+</section>
+
+<section>
+
 _Tichounce, tiše, samo k duši  
 se v lásce štěstí přihlásí,  
 ráj blahý člověk v ňadru tuší  
@@ -167,6 +181,10 @@ všech bouří zlých tě povždy uchová.
 by zloba nevstoupila naň,  
 nám v žití radostném a blahým  
 náš domov šťastný tady chraň!_
+
+</section>
+
+<section>
 
 Žena se dobyla za mnou na záchod, či spíše do toho chrámu umění, který byl vyzdoben perským kobercem z vyprodaného salónu.
 
@@ -346,6 +364,10 @@ Prozatím však musil jsem s ní probírat došlé dopisy, týkající se anket
 
 První dopis byl sáhodlouhý a zněl:
 
+</section>
+
+<section>
+
 > _„Desatero rad Šťastného domova, týkajících se zaražených předmětů v rabicových stěnách:_
 
 > _1\. Zvol si byt, kde není rabicky!_
@@ -367,6 +389,10 @@ První dopis byl sáhodlouhý a zněl:
 > _9\. K vytáhnutí hřebíků použij kleští._
 
 > _10\. Pamatuj, že příliš dlouhými hřeby můžeš souseda při­vrtat ke zdi!“_
+
+</section>
+
+<section>
 
 Počal jsem zuřit a rozbil jsem kamna.
 
@@ -568,9 +594,21 @@ Nechali si ji tam na několik hodin a pak ji propustili, když se uklidnila. Os
 
 Za tři dny uviděl jsem všude tyto plakáty:
 
+</section>
+
+<section>
+
 _VEŘEJNÁ PROTESTNÍ SCHŮZE ŽEN a PŘEDPLATITELEK ŠŤASTNÉHO DOMOVA_
 
+</section>
+
+<section>
+
 s programem:
+
+</section>
+
+<section>
 
 > _„Uzavření jedné odběratelky do blázince“ konati se bude ve středu ve 3 hod. odpoledne v Plodinové burze._
 
@@ -632,7 +670,15 @@ Sedím tedy klidně na slamníku a vzpomínám na minulé dny i na svou ženu 
 
 Ku doplnění této tragédie dodáváme ještě krátký výňatek z referátu jednoho pražského deníku o popravě pana Thomse:
 
+</section>
+
+<section>
+
 > _„… Když odsouzenec byl přiveden pod šibenici a byl pomocníky mistra W. svazován na nohou, s cynickým úsměvem zvolal: ‚Šťastný domov přináší domovům štěstí!‘, přičemž si posměšně ukázal na krk!“_
+
+</section>
+
+<section>
 
 To byla tedy poslední slova toho pronásledovaného muže, který kdysi hrál tak vynikající úlohu v českém životě.
 
@@ -643,3 +689,5 @@ _[1](./resources/undefined) Vysoké nástěnné nebo stojací zrcadlo se skří�
 _[2](./resources/undefined) Pletivo z pozinkovaného ocelového drátu, používané k vyztužení příček. Pozn. red._
 
 _[3](./resources/undefined) Průjem. Pozn. red._
+
+</section>

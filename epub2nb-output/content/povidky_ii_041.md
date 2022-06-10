@@ -3,6 +3,8 @@ title: Školní čítanky
 contentType: prose
 ---
 
+<section>
+
 Spisovatelům školních čítanek pro děti nelze upřít tu dobrou snahu vychovat z dětí řádné vlastence a bohabojné lidi…
 
 Tomu nasvědčuje již rozdělení čítanek na části:
@@ -19,24 +21,44 @@ Tomu nasvědčuje již rozdělení čítanek na části:
 
 Všechny ty části tvoří jakousi mravnou a bohabojnou kaši. Omastek tvoří naučení od mravenců, vymyšlené důvtipně nebožtíkem B. Jablonským.
 
+</section>
+
+<section>
+
 _„Synu, uč se od mravence  
 mravně na tom světě žíti,  
 nelenujeť, žije tence,  
 sbírá jen, co musí míti._
+
+</section>
+
+<section>
 
 _Po takém nedychtí štěstí,  
 které blaží jenom lenost,  
 největší bohatství jesti –  
 pracovitá spokojenost.“_
 
+</section>
+
+<section>
+
 Toť příklad mravného mravence, milé dítky. A až budete se později dřít na továrenské vydřiduchy za nepatrnou mzdu, zadeklamujete si to – největším bohatstvím jesti pracovitá spokojenost. Nu, Jablonský byl proboštem a jméno jeho ze školních čítanek nevymírá.
 
 Bez něho by děti nevěděly, že –
+
+</section>
+
+<section>
 
 _„I Tobě, synu (dcero),  
 dala ruka boží země část,  
 neboť tobě darovala  
 tvoji krásnou, slavnou vlast.“_
+
+</section>
+
+<section>
 
 A tak, milé dítě, dře se tvůj táta, dře se tvá máma a do úmoru kdysi snad i ty, ale lehce se v krásné a slavné vlasti umírá hlady, je to tvá půda, milé dítě, sáhnout sice nesmíš na rukou boží ti darovanou země část, na to jsou paragrafy, ale přečti si to v čítance.
 
@@ -46,21 +68,45 @@ A až u vás doma nenajdete chleba a táta bude plivat krev, tu přečti si z
 
 A až tě postrkem dopraví na smrt nemocného, jako jednou se stalo v Moravské Třebové, tu vzpomeň si na školní čítanku, jak jsi ve čtvrté třídě obecné školy obrátil první stránku, a co jsi tam četl?
 
+</section>
+
+<section>
+
 _„Otče náš. K tobě důvěrně voláme,  
 neb my lásku dobře známe,  
 kterou ty nás objímáš. Otče náš!“_
 
+</section>
+
+<section>
+
 A kdyby tě utiskovali, neklej! Dílem by ti jazyk zdřevěněl. Znám podobných zvláštních chorob z čítanek školních několik, dílem by se ti za takové „sakra“ špatně vedlo i na zemi i na nebi. Jakmile bys chtěl klnout, vzpomeň, jaks četl v čítance básničku B. Hakla:
+
+</section>
+
+<section>
 
 _„Čistá vždy řeč plyň ti z úst,  
 mysli tvá buď ctnosti sídlem,  
 zlých slov nikdy nevypusť.“_
 
+</section>
+
+<section>
+
 Dej se vždy klidně utiskovat, poněvadž po smrti se budeš mít dobře. Za to ručí slavná jména Beneše Metoděje Kuldy, Xavera Dvořáka, Vojtěcha Pakosty a jiných mrtvých i živých páterů, milostných trubadúrů nadhvězdného štěstí.
 
 K nim druží se celá řada jiných spisovatelů, kteří chtějí vytvořit pevné charaktery z dětí. Činí tak roztomilými povídkami o Aničkách, věrných služkách a chůvách, které dřou se přes dvě generace na jednom statku a chovají upracované jen jedno tklivé přání, aby byly pochovány na hřbitově vedle svých pánů:
 
+</section>
+
+<section>
+
 _„Tam se zas všichni pěkně sejdeme.“_
+
+</section>
+
+<section>
 
 Nebo ta stařenka, která se modlí růženec a pláče. Je jí osmdesát let a naříká, že už nemůže pracovat. Ještě loni v sedmdesáti devíti letech pracovala. Všichni kolem ji mají rádi, zahrnují ji láskou, ale ona pláče na celé stránce školní čítanky, ve kterých hlavní důraz klade se na to nešťastné čtení výchovné, jehož zlatým hřebem byl nebožtík František Doucha.
 
@@ -72,10 +118,18 @@ Byl první, který zavedl do školních čítanek takzvané průzračné příkl
 
 Školní čítanky skýtají vůbec nejedno poučení, které mládež provází po cestách ctnosti.
 
+</section>
+
+<section>
+
 _„Modli se a pracuj!  
 Přičiň se a důvěřuj v Boha!  
 Povolnost činí přátele!  
 Moudřejší ustoupí!“_
+
+</section>
+
+<section>
 
 Jakými krásnými hesly prošpikovány bývají čítanky. Mnohý okamžitě nepozná pravou cenu těch hesel, ale až jednou povyroste, přesvědčí se. Až bude mít spor se zaměstnavatelem, prostě se oběsí a zanechá po sobě lístek „Moudřejší ustoupí“ nebo „Povolnost činí přátele“.
 
@@ -97,17 +151,35 @@ Je to zvláštní případ, neboť jinde naleznete věty: „Jeden svévolný ch
 
 Školní čítanky mohly by ovšem také býti schváleny nejdůstojnější konzistoří. Mám-li být hodným člověkem, jak předpisuje církev, musím číst naše školní čítanky, a zakrním-li z mládí duševně, tím lépe pro mne, neboť pak má ctnost neutrpí újmy. A budu vlastencem a putovat budu rok co rok na Velehrad, stanu se státním úředníkem a s vděčností budu vzpomínat na školní čítanky, ve kterých je všechno tak pěkně pověděno dětem, že lze z nich vychovat bohumilé lidi s krásnými životními hesly:
 
+</section>
+
+<section>
+
 _„Modli se a pracuj!“_
 
 _„Moudřejší ustoupí!“_
 
 _„Uč se v pravý čas shýbati!“_
 
+</section>
+
+<section>
+
 A ti bohumilí občané budou mít takové nepatrné mozečky jako spisovatelé školních čítanek.
 
 Napsal nějaký Jan Javarnický:
 
+</section>
+
+<section>
+
 _„Zvykej mládeži čítankám čest dáti,  
 jinak máš se těžkých trestů báti.“_
 
+</section>
+
+<section>
+
 A ten těžký trest je nenajít zaopatření v ústavu pro slabomyslné…
+
+</section>

@@ -3,6 +3,8 @@ title: "Nešťastná historie s\_kocourem"
 contentType: prose
 ---
 
+<section>
+
 Pan Hustoles řekl jednou v debatě ke svému sousedu Křičkovi: „Vaše strana, to je moc krásná strana. Když nějakého lumpa odříznou od šibenice, jde hned kandidovat na program vaší strany.“
 
 Pan Křička na to prohlásil: „Však my se, pane Hustoles, ještě uvidíme.“
@@ -53,6 +55,10 @@ Mezitím byl již prozkoumán v ústavě zvěrolékařském na zemědělském o
 
 Dobrozdání znělo:
 
+</section>
+
+<section>
+
 > _Pan František Hustoles_
 
 > _Vyšetřený jest silných kostí, dobré výživy, trpí však zánětem okostice, takže jeho kousnutí může býti i životu nebezpečné. Z těchto důvodů jest žádoucno, aby byl vyšetřený utracen._
@@ -73,6 +79,10 @@ Přinesli je.
 
 „Poslyšte místodržitelské nařízení, Hustolesi, ze dne 15. června 1911 číslo 75 289“:
 
+</section>
+
+<section>
+
 > _V záležitosti Františka Hustolesa schvaluje se na základě zvěrolékařského dobrozdání čís. 2145/65, aby týž byl neprodleně utracen. Proti tomuto usnesení není odvolání na základě § 5 zákona o dobytčím moru, ze dne 12. února 1867._
 
 > _C. k. místodržitelský rada Vaníček_
@@ -80,3 +90,5 @@ Přinesli je.
 „Jak vidíte,“ řekl nešťastnému muži policejní strážmistr, „není z rozsudku odvolání. Sepište svoje poslední věci a neřvete. Utracen budete tak jako tak, jen co přijde z Vídně potvrzení rozsudku a poukaz, jakým způsobem máte býti utracen.“
 
 Jsem vskutku žádostiv, jak se pan Hustoles z toho vymotal.
+
+</section>

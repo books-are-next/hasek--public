@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla Opravdu hodně povídek od Jaroslava Haška tak, jak bylo vydáno nakladatelstvím palmknihy.cz jako e-kniha v Praze v roce 2014. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/image003.jpg)
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 18. 2. 2022.
 
+</section>
+
+<section>
+
 ![](../Images/image004.jpg)
+
+</section>

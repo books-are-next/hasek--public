@@ -3,6 +3,8 @@ title: Hodina pravopisu
 contentType: prose
 ---
 
+<section>
+
 „Můj hoch trochu kulhá v češtině,“ pravila ke mně paní Kohanová, když měl jsem jejího syna Tomáše vyučovat první hodinu. „Tomáš je hlava myslivá, zamyslí se, přemítá a babyka napíše s měkkým i. To mu vadí na postupu. Takový nadaný chlapec, je mu třináct let a je doposud ve čtvrté obecné. Musíte mít s ním trpělivost a vysvětlit mu, co je to ženský, co střední a co mužský rod. On je hloubavá hlava. Třebas se vás optá, proč se slunce nepíše s tvrdým y. Takové věci třeba mu vymluvit.“
 
 Pak mně přála mnoho štěstí a odešla do schůze pokrokových žen.
@@ -26,3 +28,5 @@ Byl to docela slušný klacek. „Vašnosti,“ řekl, „proč se má psát ‚
 Více jsem neslyšel. Před očima vystouply mně náhle fialové kruhy, svalil jsem se ze židle, a když mne vzkřísili, nemohl jsem promluvit. Slyšel jsem, že se mne pan Kohan táže, kde bydlím, aby mne tam odvezli. Napsal jsem třesoucí se rukou: „Bidlým ve Veleslavýnově ulycy…“
 
 > _Besedy lidu – 1. 4. 1911_
+
+</section>

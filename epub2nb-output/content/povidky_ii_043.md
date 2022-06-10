@@ -3,6 +3,8 @@ title: Terciánská vzpoura
 contentType: prose
 ---
 
+<section>
+
 Terciáni Zahrádka a Roztočil pojali šlechetný úmysl, že sprovodí ze světa svého třídního profesora Hubera. Dlouho již v nich všechno vřelo a nedostatečné známky z řečtiny, kterými je stíhal osud, rozšiřovaly stále víc a více propast, která byla mezi nimi a jejich třídním profesorem. A jako při velikých dějinných převratech stačila již jen malá jiskra, aby to propuklo.
 
 A tou jiskrou bylo několik řádek z Cornelia Nepota, kde starý římský spisovatel líčí, jak Solón zbavil Athéňany tyrana Kleona.
@@ -102,3 +104,5 @@ Nedávno jsem pana profesora Hubera viděl naživu. Patrně se polepšil.
 * * *
 
 _[14](./resources/undefined) Vyšší důstojník v tureckém vojsku. Pozn. red._
+
+</section>

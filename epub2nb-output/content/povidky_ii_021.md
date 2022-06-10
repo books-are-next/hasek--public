@@ -3,6 +3,8 @@ title: Jak se stal pan Karaus alkoholikem
 contentType: prose
 ---
 
+<section>
+
 Pan Karaus byl vrchním inspektorem jedné pojišťovny na život a na smrt. S velikou rozkoší mluvíval mezi naší společností o tom, jak by bylo krásné, kdyby vypukla nějaká epidemie nebo válka. Přitom pil sodovou vodu, neboť byl činným členem sdružení abstinentů, odbíral časopis Přítel přírody od Krofty a jeho největší rozkoší bylo, když mohl vyprávět o tom, že jsou celé národy, které živí se stravou čistě rostlinnou, pijí vodu, a že jednotlivci z nich dožijí se tak vysokého věku, že například na Novém Zélandě našli Angličané jednu stařenu, která dosáhla věku 180 let a žije dodnes, a to už je hezkých pár roků, co ji nalezli. Také nabízel nám, abychom požívali sušených banánů, které prý Palacký nazval „pokrmem budoucnosti“, ačkoli věc se má ve skutečnosti takto:
 
 Vydavatel Přítele přírody Krofta na Smíchově skoupil kdysi lacino velkou zásobu banánů částečně již nahnilých, upražil je, dal za výkladní skříň svého obchodu a nad to postavil tento nápis: „Toť jsou sušené banány, o nichž Palacký, otec národa, řekl, že se stanou pokrmem budoucnosti.“ Neřekl to tedy Palacký, nýbrž řekl to pan Krofta, ale pan Karaus se toho držel.
@@ -41,4 +43,10 @@ Doktor Škarda zadržel mu ruku. „To nejde najednou,“ zvolal, „pro začát
 
 Tak se stal pan Karaus alkoholikem a od té doby věrným pří­vržencem Strany mírného pokroku v mezích zákona.
 
+</section>
+
+<section>
+
 > _Veselá Praha – 1913, č. 3, 1/3_
+
+</section>

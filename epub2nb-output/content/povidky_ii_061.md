@@ -3,6 +3,8 @@ title: Vyhubení praktikantů speditérské firmy Kobkán
 contentType: prose
 ---
 
+<section>
+
 Majitel speditérské firmy Kobkán zavolal do své kanceláře růžolícího praktikanta pisárny Pecháčka a měl s ním dlouhou rozmluvu.
 
 Když se Pecháček vrátil ku svému stolu, byl bledý, třásl se po celém těle a měl zježené vlasy.
@@ -130,3 +132,5 @@ Vzal těžkou pokladní knihu a uhodil s ní do stolu. „Zůstanu sedět, nik
 Ošetřovatelé si na posledního praktikanta firmy Kobkán nemohou stěžovat. Má na svém chalátě pět knoflíků a každému ukazuje na knoflíky, počítá je a říká: „První je Klofanda, druhý Vencl, třetí Košťák, čtvrtý Havlík, pátý Pecháček, ne, tak to není. První je Pecháček, druhý je Klofanda, třetí je Vencl, čtvrtý Košták, pátý Havlík. Všichni šli, ale já nepůjdu, nikam nejdu!“
 
 Lékaři pozbývají naděje, že se uzdraví. Jmeniny pana Kobkána přešly bez originelního blahopřání v novinách. V kancelářích sedí šest nových, svěžích praktikantů. Až do nových jmenin je doba hájení a šetření.
+
+</section>

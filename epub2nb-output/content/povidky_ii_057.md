@@ -3,6 +3,8 @@ title: Rady pro život
 contentType: prose
 ---
 
+<section>
+
 Jest zajímavé, že lidi potřebují nejrozmanitější rady pro život a že většina sama nemyslí, ale čeká na nějakou radu. Dovoluji si podat též několik rad pro život a uvidíte, že se vám bude, jestli se jim podřídíte, jistě líbit na světě.
 
 ## I Těš a raduj se!
@@ -80,3 +82,5 @@ sám si může pomoci!
 Znal jsem jednoho člověka, který, hraje karty, půjčoval peníze do karet tomu spoluhráči, který hrál proti němu, a strašně se pak divil, že musel prohrát, ačkoliv vyhrával.
 
 Rad pro život jest mnoho. Tyto jsou malou ukázkou toho, že můžete radit toho kolik chcete a že nikdy to nevyčerpáte. Jest to neskonale hluboká studnice moudrosti. Život se tu objevuje ve velmi vážné stránce. Každý člověk chce být mentorován a veden. Musíme člověka přitáhnout za límec k tištěné věci a přinutit ho, aby četl rady pro život. Musíme být vynalézaví ve svých radách a potom můžeme být spokojeni, že jsme nežili nadarmo a že jsme tisícům poradili, jak mají žít.
+
+</section>

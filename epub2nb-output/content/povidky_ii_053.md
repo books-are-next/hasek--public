@@ -3,7 +3,13 @@ title: Nedělní zábavná příloha
 contentType: prose
 ---
 
+<section>
+
 _Literární humoreska_
+
+</section>
+
+<section>
 
 Byl jsem pověřen úkolem redigovat nedělní zábavnou přílohu jednoho deníku a seznal jsem, že obětavost lidská je nevyčerpatelně ohromná. Jest tisíce lidí na světě, kteří si přejí z plného srdce, aby další tisíce a tisíce lidí bavili se jejich povídkami buď v neděli ráno při kávě, nebo po obědě. Obětavost lidská jest nevyčerpatelná a zasahuje do všech kruhů.
 
@@ -46,3 +52,5 @@ Za čtvrt hodiny přišla nová návštěva: Starší pán s obnošeným, rozch
 Muž, který chtěl tu záležitost se mnou brzy skoncovat, se nato posadil a pokračoval: „Pravda jest, že krása povídky dovede uchvátit dojmem přímo živelným, a vím, že jest možnost oblažit čtenáře, poskytneme-li jim krásnou povídku. Mám doma vskutku pěkné věci, které jsem přichystal pro váš list. Nevzal jsem je s sebou, poněvadž jsem zprvu ani nevěděl, že půjdu kolem. Náhoda však vedla mne kolem redakce a tu jsem se rozhodl, že vám oznámím své rozhodnutí, uveřejnit je právě ve vaší zábavné příloze. Abychom to tedy skoncovali, dejte mně à conto honoráře čtyřicet korun!“
 
 To už přesahovalo všechny meze. Stal jsem se hrubým na drzého chlapa, a ten mne přetáhl holí. Samo sebou se rozumí, že jsme ho s redakčním sluhou také pěkně spořádali, ale od té doby myslím, že je přece jen lepší být podomkem v hotelu netěšícím se dobré pověsti než redigovat zábavnou přílohu při tak rozšířené lidské obětavosti živit duši čtenářů krásnem!
+
+</section>

@@ -3,6 +3,8 @@ title: Vzdělávací čítanka
 contentType: prose
 ---
 
+<section>
+
 ## Předmluva
 
 Jest to vždy velice smutné a trapné pro člověka, když zabývaje se studiem lidských povah po delší dobu, dospěje k tomu názoru, že nejchytřejší a nejrozumnější lidé si často počínají tak, že musíme vrtět hlavou nad jejich jednáním.
@@ -70,3 +72,5 @@ Někdy se ovšem stane, že osud tě uvede mezi nevzdělance, a tu ti radím hn
 Hra v karty: Abys nabyl jmění hrou v karty, musíš znát celou řadu nejrůznějších triků, nazvaných souborně falešnou hrou. Jest to jistá spekulace, a znáš-li dobře dělat volty v kartách, nemusíš se nikdy obávati, že bys upadl v nedostatek, nouzi a bídu. Nesmíš však zapomenout denně cvičit volty doma, abys nevyšel z cviku a tvé prsty aby byly stále obratné a ohebné. Nedávej se, mladý hráči z řemesla, do takových her, které nemají ráz hazardní hry a ve kterých se hraje jen o nepatrný obnos. To jest zbytečná ztráta času. Rozumný muž opovrhuje takovou hrou, která není ničím jiným než sebešizením. Hrej jedině o vysoké peníze a za předmět kořisti vybírej si jen rozhodné blbečky, kteří hledají zábavu v tom, když je svlékneš do posledních kalhot.
 
 Objeví-li však náhodou, že máš nějakou kartu v rukávě nebo pod stolem, neukazuj zlého rozmaru. Společenský tón velí nevšímati si takové maličkosti. Dokážou-li ti, žes falešným hráčem, jdi domů a nabij si před zrcadlem přes hubu, žes takový nešika. Jestli se to ještě stane podruhé a potřetí, že v tobě odhalí falešného hráče, zanech hry a jdi do kláštera.
+
+</section>

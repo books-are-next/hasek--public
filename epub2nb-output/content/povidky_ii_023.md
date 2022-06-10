@@ -3,6 +3,8 @@ title: "Pokus o\_abstinentní večírek čili americká zábava"
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Nejsmutnější důkaz toho, kam vede pití, podalo nám známé individuum z bible Chám, který ocitl se před soudem dějin pro zločin proti mravopočestnosti, který spáchal na svém otci Noemovi.
@@ -41,6 +43,10 @@ Manžel té americké dámy byl jedním z průkopníků abstinentního hnutí v
 
 Plakáty, které dala natisknout, měly černý rámec jako nějaké úmrtní oznámení:
 
+</section>
+
+<section>
+
 _ABSTINENTNÍ ZÁBAVA_
 
 _AMERIKÁNSKÝ VEČÍREK_
@@ -65,6 +71,10 @@ _Pro občerstvení podává se bezplatně čaj._
 
 _Přijďte hromadně a přesvědčíte se sami, co je lepší,  
 zábava s alkoholem, nebo bez alkoholu!_
+
+</section>
+
+<section>
 
 Když se obsah plakátu uvedl ve známost obyvatelstva, nastalo pravé pobouření v městě, kteréž bylo asi tlumočeno vyhraněným prohlášením starého lesníka ve výslužbě, pana Polívky: „Taková zábava nepatří do hospody, ať si jdou s tím čajem někam na palouk.“
 
@@ -126,14 +136,30 @@ Tato důstojná dáma tak byla nadšena svou prohibiční myšlenkou, že nepozo
 
 Chtěla právě dát pokyny, jak provésti licitaci pánů, když oba, Polívka i Vořech, držíce se jako rekruti kolem krku, blížili se k ní, opisujíce obdivuhodné křivky, přičemž řvali, až se okna třásla, sloky staré písně:
 
+</section>
+
+<section>
+
 _„Když jsme táhli k Jaroměři,  
 ať si nám to kdo chce věří…“_
 
+</section>
+
+<section>
+
 Paní Piccknown sama ani nevěděla, jak se najednou ocitla na kolenou pana Polívky, který ji houpal, jak seděla obkročmo, přičemž jí zpíval:
+
+</section>
+
+<section>
 
 _„Houpy, hou – houpy hou –  
 mlhy padají krajinou –  
 až umřeš, půjdu za jinou…“_
+
+</section>
+
+<section>
 
 Kapelník Vořech ji při tom štípal do tváře, vytáhl jí z účesu vlásenku a šťoural se s ní v zubech. Potom ještě pocítila, že jí někdo vylil do úst nějakou kořalku a že ji někdo štípe do kolena.
 
@@ -142,3 +168,5 @@ Potom přišly dámy, které to všechno vyházely ven a zpustošily celou mís
 ## IV
 
 Pan Vašata, vzdor škodě, kterou utrpěl ke konci předcházející kapitoly, prohlašuje veřejně, že špatná situace hostinských místností dá se jedině zlepšit pořádáním abstinentních večírků a amerických zábav.
+
+</section>

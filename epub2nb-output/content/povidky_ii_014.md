@@ -3,6 +3,8 @@ title: Společenské lži
 contentType: prose
 ---
 
+<section>
+
 Někdy se stává, že vy to neřeknete schválně, nýbrž jen náhle vám to vyklouzne z úst, a slíbíte něco, třebas úplně bezvýznamného.
 
 Podobný případ přihodil se mně v Příbrami, kde jsem se setkal s panem Wimrem letos o Vánocích. Mladý ten muž vyptával se mne, co hodlám podniknout v té nepohodě. Pršelo totiž a všude bylo plno bláta. Řekl jsem mu, že zítra chci se podívat do Kamýku. Aniž se zamyslil, projevil ochotu, bude-li zítra sníh, že má k dispozici sáně a koně, že mne do Kamýku odveze.
@@ -72,3 +74,5 @@ Od té doby měl jsem hotové peklo. Nemohl jsem rychle sehnat 180 korun, abych
 Konečně získal jsem ten obnos od jednoho dobrého člověka novou lží, že ho potřebuji na cestu do Dánska. Koupil jsem tedy a přivedl kolo k panu radovi. Nejevil žádného potěšení a řekl mi zcela hrubě: „Od vás když člověk něco chce, to trvá dobu!“
 
 Nemohu se vyprostit z takových lží, ať dělám, co dělám. Včera jsem například slíbil zas jednomu pánovi, že mu zaopatřím místo v ministerstvu.
+
+</section>

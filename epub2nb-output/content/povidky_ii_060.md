@@ -3,6 +3,8 @@ title: Tragický konec sekundána Petišky
 contentType: prose
 ---
 
+<section>
+
 Měsíc redigoval jsem krajinský list Dřevické zájmy se zábavnou přílohou Jitřenka, kam psal kdekdo, koho jen napadlo, že má spisovatelský talent. Proč jsem odtamtud odešel, snad pochopí každý, kdo bude číst tuto zpověď nešťastného, uštvaného člověka, a odpustí mé hříšné duši. Píši to s přesvědčením, že snad přece se vyskytne dobrý člověk, který mne polituje, který nade mnou snad zapláče.
 
 Proč jsem odtamtud odešel? Spíše měl bych položit otázku, proč mne vyvedli z redakce za město, proč mně svázali řetízky ruce a četníky dali dopravit k zemskému trestnímu soudu.
@@ -60,3 +62,5 @@ To bylo také jeho poslední slovo. Nač se o tom rozšiřovat? Zastřelil jsem
 * * *
 
 _[17](./resources/undefined) Humry. Pozn. red._
+
+</section>

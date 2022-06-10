@@ -3,6 +3,8 @@ title: "Duchovní cvičení s\_překážkami"
 contentType: prose
 ---
 
+<section>
+
 V tercii dostali jsme nového katechetu Antonína Heřmana. Před­cházející katecheta Müller příliš se o naše duše nestaral a patrně nabyl přesvědčení, že je vše marno.
 
 Páter Heřman chtěl však ďáblu vyrvat naše zpustlé duše a počal zkoušet liturgii a katechismus s větší přísností. Když viděl, že kromě dvou neb tří všichni klopýtáme o uznané pravdy náboženské, zavedl se svolením ředitele ve středu a v sobotu opakovací hodiny, v nichž zjemňoval duši tercie obratnými frázemi. Jmenoval nás přitom lotry a padouchy uprostřed nejkrásnějších vět, které začínaly poeticky a v nichž přirovnáváním snažil se vzbudit v nás ušlechtilejší city.
@@ -28,3 +30,5 @@ Pak bylo zajímavé dívat se na jeho počínání. Sepjal ruce, poklekl na kate
 Ale tentokráte to ve svém nadšení provedl sám páter Heřman. Mužně, jako slova patriarchy, zaznělo to k nám od katedry a páter Heřman, červený v obličeji, šel, vytáhl třídní knihu a řekl: „Pro tentokrát vám to odpouštím,“ a vymazal gumou obě poznámky.
 
 Od té doby měli jsme ho rádi a celá tercie počala prospívat v uzna­ných pravdách křesťanských.
+
+</section>

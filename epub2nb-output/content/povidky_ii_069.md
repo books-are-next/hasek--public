@@ -3,6 +3,8 @@ title: Smutný konec nádražní misie
 contentType: prose
 ---
 
+<section>
+
 Komtesa Julie byla velmi ctnostná, což při dnešní zkaženosti mravů padá mnoho na váhu. Se srdcem nezkaženým dovedla v osmnácti letech mluvit o prostituci a jejím potírání, jako by sama prodělala všechny útrapy padlých žen ve vykřičených domech.
 
 Její matka, kněžna Bolderiová, shromáždila kolem sebe výkvět nejmravnějších dam jak ze šlechty, tak i z kruhů občanských a v přítomnosti nevinné Julie bylo velice často přemítáno, jak zachránit děvčata, aby nebyla zavlečena do domů hanby.
@@ -54,3 +56,5 @@ Ta šlechetná nevinná komtesa! Jak tak očekávala vlak, přistoupit k ní el
 Ubohá, nevinná, mladá, ctnostná komtesa Julie! Zašantročil ji, nešťastnou nádražní misii, tu lilii nejnevinnější, to poupátko ctnostné a cudné, prodal ji ničema za sto korun do jednoho vykřičeného domu hanby v Plzni.
 
 Péro se zdráhá psát dál, neboť ten smutný osud nádražní misie člověka dojímá a člověk píše a pláče, jako to dělá můj přítel Hájek, když píše nekrolog o svém šéfovi.
+
+</section>

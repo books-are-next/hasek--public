@@ -3,6 +3,8 @@ title: "Kam to vede, když člověk vystoupí z\_církve"
 contentType: prose
 ---
 
+<section>
+
 V Myslíkově ulici v Praze žili dva bohabojní manželé kupeckého původu. Ona byla dcerou zámožného kupce a on zdědil po otci rozsáhlý kupecký krám, který zdokonalil, když od své manželky věnem získané peníze do obchodu přivtělil.
 
 A tak chválili oba manželé boha mezi sudy a slanečky, mezi pytli kávy z ostrova Ceylonu a mezi indickým kořením a cukrem z Čakovic.
@@ -41,8 +43,14 @@ Posledním činem Konipáska jest, že si vzal Pelanta za vlastního a jeho prv
 
 Váží dnes i s ohonem a jazykem 180 kg a čte Volnou myšlenku.
 
+</section>
+
+<section>
+
 > _Karikatury – 1912_
 
 * * *
 
 _[19](./resources/undefined) Olivový. Pozn. red._
+
+</section>

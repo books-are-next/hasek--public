@@ -3,6 +3,8 @@ title: "Povídka z\_pekla"
 contentType: prose
 ---
 
+<section>
+
 Mezi nejhodnější duše v pátém oddělení pro těžké hříšníky patřila dušička policejního ředitele pana Hofbauera.
 
 Náčelník tohoto oddělení, rytmistr čert Přecechtěl, nemohl si ji dosti vynachválit v konferencích satanů. Také obdržela již jakési úlevy a házeli ji do kotlů se sírou jen jednou za měsíc. Ostatní dny poletovala nad kotly a dávala pozor, zdali některé hříšné duše nevystrkují z kotlů hlavu nebo ruce a nohy, aby se trochu ochladily.
@@ -76,3 +78,5 @@ Pan farář tomu dobře nerozumí a usíná poznovu…
 * * *
 
 _[20](./resources/undefined) „Smiluj se nade mnou, Bože, pro své velké milosrdenství.“ Žalm 50 (51). Pozn. red._
+
+</section>

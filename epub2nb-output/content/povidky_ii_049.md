@@ -3,6 +3,8 @@ title: Malá polemička
 contentType: prose
 ---
 
+<section>
+
 Nebyl jsem ještě dlouho redaktorem jistého krajinského listu na menším městě, když přišel ke mně člen městské rady, která ročně poskytovala listu podporu 500 K, pan Struška, zámečník a obchodník.
 
 „Nesu, pane redaktore,“ řekl sladce, „malou a slušnou polemičku proti tomu lumpovi kováři Kezlovi. Chlap píše v Našich ohlasech, že prý neumím spravovat hospodářské stroje, že jsem opilec, že kupuju učedníky od něho, aby mne něco naučili, a že ví dobře, ke komu to chodím do předměstí Žabáku.“
@@ -48,3 +50,5 @@ Hluk před domem přerušil jeho slova. Oknem viděl jsem, jak z jedné strany 
 * * *
 
 _[16](./resources/undefined) Písemný projev (otevřený dopis ap.), s jehož obsahem se redakce neztotožňuje, zaslaný novinám k uveřejnění. Pozn. red._
+
+</section>

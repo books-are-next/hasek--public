@@ -3,6 +3,8 @@ title: "Zápas s\_Armádou spásy"
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Pan Karel Larsson, velitel Armády spásy v Československu, napsal právě do Ústředního listu Armády spásy pohnutlivou zprávu do rubriky Mezinárodní zprávy: „Jižní Afrika. Podplukovník Smith, pracující již třicet let mezi tamními domorodci, byl se svými dvěma důstojníky, kteří tu práci začali, sněden sedmdesáti obrácenými salutisty. Tím mohl ukázati celému světu, že náboženství lásky má praktickou cenu.“
@@ -55,23 +57,43 @@ Když jsme seděli sami, pravil mladý pan Hopps: „Odpusťte, ale já to mysl�
 
 Počal zpívat tichým, dojemným hlasem:
 
+</section>
+
+<section>
+
 _„Jdeme kupředu proti všemu zlu,  
 byť to třeba byl satan sám,  
 jdeme k vítězství proti světa lsti,  
 boží království jest cílem nám._
+
+</section>
+
+<section>
 
 _Jdeme kupředu, neznáme svodu,  
 věrně budem vždy k pravdě stát.  
 Jdeme k vítězství, z hříchu k milosti,  
 aby nový život byl zde znát.“_
 
+</section>
+
+<section>
+
 Když ukončil, řekl jsem: „Já také něco umím. Poslyšte.“ Zazpíval jsem:
+
+</section>
+
+<section>
 
 _„Kdo dá výhost klamu, bludu,  
 boží pravdu vyvolí,  
 ten se zbaví všeho trudu,  
 nic ho více nebolí.  
 Nazdar, na vaše zdraví!“_
+
+</section>
+
+<section>
 
 Díval se na mne svýma modrýma očima.
 
@@ -85,10 +107,18 @@ Mechanicky vzal skleničku rumu a vypil. „Já jsem opravdu z dobré rodiny,�
 
 Panu Hoppsovi, nezvyklému na takový nápoj, oči se počaly klížit. Počal jsem mu tichým, něžným hlasem zpívat ukolébavku:
 
+</section>
+
+<section>
+
 _„Již zazní z doubí hlas slavíčka  
 a počne v loubí pět hrdlička  
 a přejde zima i prška zlá,  
 i kvítky vzejdou – hallelujah!“_
+
+</section>
+
+<section>
 
 Usnul na židli. Políbil jsem ho na čelo a pohladil jemně po vlasech a tiše po špičkách vyšel z pokoje.
 
@@ -96,6 +126,16 @@ Usnul na židli. Políbil jsem ho na čelo a pohladil jemně po vlasech a tiš
 
 A ocitnuv se na ulici, podíval jsem se na hvězdy zářící na obloze a vykřikl do pražských ulic žalm 92:
 
+</section>
+
+<section>
+
 > _„Jak velicí jsou skutkové tvoji, Hospodine! Velmi hluboká jsou myšlení tvá, člověk hovadný nezná toho!“_
 
+</section>
+
+<section>
+
 Což mne stálo dvacet korun pokuty pro rušení nočního ticha.
+
+</section>

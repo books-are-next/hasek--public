@@ -3,7 +3,13 @@ title: "Jaké máme trápení s\_tetou"
 contentType: prose
 ---
 
+<section>
+
 _Z vypravování malého Karlíčka_
+
+</section>
+
+<section>
 
 Máme doma starou tetu. Tatínek říká, že před dvaceti léty přijela k nám z venkova na návštěvu, jen na pár dní, a přivezla s sebou asi za dvanáct krejcarů tvarohu. Od té doby je pořád u nás a těch pár dní se prodloužilo na dvacet let.
 
@@ -63,4 +69,10 @@ Tatínek bál se veřejného skandálu, tak zavolal drožku, strážníci mu pom
 
 Za nějakou čtvrt hodiny však přišla teta sama a povídala ke mně: „Tak páni doktoři, moji zlatí páni, řekli tvýmu tatínkovi, že mám zdravý rozum, tak si tam hned tatínka musili nechat.“
 
+</section>
+
+<section>
+
 > _Veselá Praha – březen 1912_
+
+</section>

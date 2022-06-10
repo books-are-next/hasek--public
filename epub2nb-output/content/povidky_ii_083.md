@@ -3,6 +3,8 @@ title: Vliv hudby na zvířata
 contentType: prose
 ---
 
+<section>
+
 V indické básni Swanwaga pěje neznámý básník staré Indie: „Přišel dobrý Bhagadad do dolního poříčí Gangu a přitom tloukl paličkami na deset malých kovových bubínků a přišel zdráv a slavný do chrámu Višni u dolního poříčí Gangu a za ním táhlo, za hudbou jeho bubínků kovových, osm tygrů, s kterými se setkal daleko v lesích, z nichž bohyně Kálí tygry vysílá a z nichž se nikdo nevrací, s kým setkaly se zelené oči tygrů.“
 
 Ve školních čítankách býval před léty zařazen podivuhodný příběh jednoho venkovského houslisty, který vraceje se z posvícení, spadl do vlčí jámy, kde ku své hrůze zpozoroval, že není sám. Zlověstně dívaly se na něho dva páry žhavých očí vlků. Neztratil duchapřítomnost a počal hrát na housle. Hrál neúnavně až do rána, kdy přišli lidé a z nepříjemné situace ho vysvobodili. Vlci po celou dobu, co hrál, tiše naslouchali.
@@ -58,3 +60,5 @@ Kdo chce konati vážná psychologická studia v tomto oboru, jaký vliv má to
 Pokud se týče opic, mluví Darwin o lidoopici gibbonu, která vyzpívala celou oktávu. O černých šimpanzech je známo, že se shromažďují v tlupy po 30–50, a tvoří tak pěvecké sbory.
 
 Studování vlivu hudby na zvířata jest pro rozluštění psychologie zvířat nepostrádatelným a mělo by se jistě pěstovati soustavněji, než se dosud dělo.
+
+</section>

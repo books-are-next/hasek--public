@@ -3,6 +3,8 @@ title: "Pepíček Nový vypravuje o\_zasnoubení své sestry"
 contentType: prose
 ---
 
+<section>
+
 Můj otec jest vyšším státním úředníkem a jmenuje se Nový. Má sestra se jmenuje Matylda. Vzala si také státního úředníka. Ten se jmenuje Handšlág.
 
 Nejdříve chodila má sestra s jedním pánem od místodržitelství. Tatínek se postaral, aby toho pána povýšili. Když ho povýšili, maminka s Matyldou plakaly, poněvadž ten pán přestal chodit s Matyldou.
@@ -67,4 +69,10 @@ Pak přišla Matylda a řekla, že ten blbec chtěl na ní hubičku.
 
 „Ale je řádný úředník,“ řekl tatínek.
 
+</section>
+
+<section>
+
 > _Karikatury – 5. 1. 1910_
+
+</section>

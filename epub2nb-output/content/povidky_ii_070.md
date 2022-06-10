@@ -3,6 +3,8 @@ title: "Světci a\_zvířata"
 contentType: prose
 ---
 
+<section>
+
 Nad bavorským Řeznem směrem k Brodu nad Černými lesy leží městečko Cham. Toto město jest známo svými poutnickými průvody, zázračnou studní s vodou, obsahující zárodky tyfové, má velkou nemocnici, kam dopravují bavorské poutníky, když se té zázračné vody napili, ale méně známo jest, že v klášterní zahradě nalézá se malý pomník mnicha Augustina Falterstacka, neumělá to socha, kolem které leží postavy koně, medvěda, lišky a osla. Čím prospěl tento mnich benediktinský, proč kolem něho symbolicky rozložena jsou jako táborem různá zvířata? Jděte však do klášterní knihovny a tam naleznete v rohu síně v pergamen svázanou starou knihu s latinským nápisem: _SVATÍ A ZVÍŘATA_ od kněze mnicha benediktinského Augustina Falterstacka ze zdejšího kláštera.
 
 Kniha vydána impresí biskupské tiskárny v Mnichově roku 1782. Prohlédněte si jednotlivé stránky a tu uvidíte velký význam této knihy pro zvířata, neboť nebožtík páter každým řádkem v oné knize uvádí křesťanský lid do života zvířat a mluví o všech zázracích, které se dály, když světci setkávali se se zvířaty nejrůznějších řádů z třídy živočišstva.
@@ -38,3 +40,5 @@ Ctihodný spisovatel píše dále o jedné krávě. Tato kráva pocházela ze s
 A ještě jeden případ může upoutat. Je to ochočený had svatého Serapiona. To byl moc dobrý had. Takový had už se nerodí. Po čtyry roky živil onoho poustevníka na poušti svým mlékem, kteréž mělo asi neobyčejnou výživnou hodnotu, poněvadž Serapion za tu dobu ztloustl ve své jeskyni tak, že ji musili rozbourat, když ho chtěli z ní vytáhnout.
 
 Z těchto ukázek je vidět, proč klášter v Chamu postavil pomník Augustinu Falterstackovi. Jemu podařilo se rehabilitovati zvířata a vykonal též kulturní dílo pro zápasy politické, poněvadž konečně snad si přece rozmyslí národní socialisté, aby své protivníky politické titulovali názvy z přírodopisu živočišstva. Vždyť tím ti nešťastníci urážejí církev.
+
+</section>

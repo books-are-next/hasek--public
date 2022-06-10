@@ -3,6 +3,8 @@ title: Alkoholická idylka
 contentType: prose
 ---
 
+<section>
+
 Pan Hodíšek rozhodně nebyl žádný alkoholik, neboť vypil denně dvě sklenice piva.
 
 Byl to člověk řádný, který pečoval svědomitě o svou rodinu, ale jeho jedinou slabou stránkou, jeho celým neštěstím byla jedna nebo dvě sklenice piva denně.
@@ -35,4 +37,10 @@ A šla do kuchyně a tam s pláčem nalila do sklenky na likéry višňovku, 
 
 Jest to velice smutné, kam člověka zavedou jedna nebo dvě sklenice piva denně. Ba, tu nepomůže ani Károlyho kořalka proti třeštění opilců. A velice smutný důkaz toho podává právě pan Hodíšek, který když končil třetí měsíc léčby, polil sebe, svou manželku a své dítky petrolejem, a zapáliv na nich i na sobě šaty, uhořel s celou rodinou.
 
+</section>
+
+<section>
+
 Karikatury – 1912
+
+</section>

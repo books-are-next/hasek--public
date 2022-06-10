@@ -3,6 +3,8 @@ title: "O\_nejošklivějším psu Balabánovi"
 contentType: prose
 ---
 
+<section>
+
 Pes, o kterém nyní bude řeč, potlouká se ve Spálené ulici kolem trestního soudu, jako by se chtěl dát zavřít, přecházívá pak do ulice Vladislavovy, vrací se pak kolem Novoměstské věže u soudní budovy, pak vidíte, že to „napichuje“ přes park na Karlově náměstí, plíží se přes Zderaz a ocitá se v Myslíkově ulici. Nějaký čas potlouká se kolem Svatého Vojtěcha a pak běží na nábřeží. Projde se po nábřeží a najednou, jako když vystřelí, běží na Vyšehrad, kde zmizí v jednom domě.
 
 A kdo ho vidí, ten si odplivne a jde dál s pocitem, že se ještě v životě nesetkal s takovou potvorou.
@@ -98,3 +100,5 @@ Automobily před ním vždy zarazí, neboť šofér je dojat jeho oškli­vostí
 Příští týden přijde Balabán podívat se k pohodnému na Vyšehrad.
 
 Snad přece tam někdo utratí jeho bídnou postavu a jeho zlomené srdce.
+
+</section>

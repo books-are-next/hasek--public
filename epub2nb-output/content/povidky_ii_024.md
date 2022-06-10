@@ -3,6 +3,8 @@ title: Psychiatrická záhada
 contentType: prose
 ---
 
+<section>
+
 ## I
 
 Bylo kolem druhé hodiny noční, když pan Hurych vracel se ze schůze abstinentů, odbývané v jedné restauraci na Malé Straně. Schůze tato protáhla se proto tak dlouho, že v ní byla probírána rezignace předsedy, který byl zapleten do ošklivé aféry. Byl totiž usvědčen, že v jedné restauraci vypil sklenici plzeňského. Jako čestný muž odstoupil.
@@ -106,3 +108,5 @@ Přivedli pana Hurycha. Tvář jeho byla vyděšena, pysky měl bledé, vlas roz
 Ale tu pan Hurych se již nezdržel, a místo aby řekl „sedmdesát dva“, vlepil policejnímu lékaři nehorázný pohlavek.
 
 Ráno ho odvezli do blázince, kde je ošetřován již půldruhého roku, poněvadž doposud u něho lékaři nezjistili vědomí duševní choroby, což dle psychiatrie jest známkou zlepšení duševního stavu.
+
+</section>

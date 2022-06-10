@@ -3,6 +3,8 @@ title: Školní výlet
 contentType: prose
 ---
 
+<section>
+
 Suplující profesor Hamouz zbledl jako stěna. V přírodopise jmenuje se onen zjev mimikry, což znamená přizpůsobit se svému okolí barvou, aby nebyl tvor zpozorován. Bílé stěny chodby dívaly se na něho příšerně a proti němu rýsovala se ježatá hlava ředitele gymnázia, který zbledlému suplentovi ještě jednou opakoval: „Půjdete se svou třídou sekundou na celodenní školní výlet.“
 
 Suplent Hamouz ozval se úpěnlivým hlasem: „Prosím, pane řediteli, račte uvážit, že ona třída vzhledem k celkovému mravnímu úpadku není toho hodna, aby šla na celodenní výlet. Jsou mravů zákonných, málo jich mravů náležitých a chvalitebných jen dva z celé třídy, koktavý Vaňousek a pak syn kolegy profesora Zykána. Ostatní nedbají, ačkoliv jsou útlého mládí, disciplinárního řádu. Ať mluvím k nim andělsky, nebo ďábelsky, skotačí, hopsají, hovoří, při vyučování se vrtí. Loni jsem s nimi prodělal půldenní výlet. A víte, že ti primáni, kteří bývají ještě nevinní, bez mého vědomí napili se syrovátky, pak na to koupili si třešně a pili vodu. Navedl je Jílek, jak račte pamatovat, žák mravů méně zákonných, který v útlém věku dvanácti let dovolil si říci panu katechetovi, když týž mu řekl, aby se jen přiznal, že hodil po něm pomerančovou kůrou, že se mu nic nestane: ‚Vy to jen tak říkáte, a jinak si to myslíte!‘ Tento Jílek byl zloduch celého výletu. Když se celé primě B ony věci smíchaly v žaludku, podobal se zpáteční návrat, pane řediteli, návratu poražené armády, která má hrozný strach a strachy neví, co činí. Od té doby se jejich mravy zhoršily. Jak račte vědět, pane řediteli, nejsem z těch, kteří se zaleknou překážek. Nikdy, pane řediteli, ani chvilky jsem neopominul, abych té zbloudilé třídě sekundě B nevštěpoval zásady, jak by obrodili své mravní cítění. Mluvil jsem mírně, mluvil jsem přísně. Prosíval jsem v půlletí koukol. Padaly pětky, zákonné mravy, dal jsem mnoho návrhů na odchodnou, posílal jsem cenzury[12](./resources/undefined) a tu a tam kladl za vzor koktavého jich spolužáka Vaňouska. Bylo to marno. Pamatujete se, pane řediteli, jak nedávno bylo půl třídy před konferencí, když nikdo se nepřiznal, kdo mně na židli zapíchl nožičky ocelových per. Použili k tomu ti nešťastníci nových per, abych snad nedostal otravu krve. Celý profesorský sbor se domníval, že právě ta okolnost snad znamená u provinilců jakýs záblesk lásky k profesoru, že přece nepadlo jeho napomínání na neúrodnou půdu. Dva dni poté ráčil jste však, pane řediteli, vyslýchat sám nový ohavný čin sekundy B. Někdo z žáků paklíčem otevřel zásuvku katedry a ukradl sešity se školními úlohami z latiny. Sešity byly později nalezeny v kamnech a nikdo se nepřiznal. A s těmi holomky mám jít na celodenní výlet.“
@@ -51,6 +53,10 @@ Kdo tedy bude lotr a provede alotria, o kterých jsem mluvil, a alotria jim p
 
 Druhého dne po školním výletě do Divoké Šárky přišlo do třídy ze čtyřiceti pěti žáků jen pět. Ostatní se považovali za vyloučené ze středních škol celého Rakouska…
 
+</section>
+
+<section>
+
 > _Humoristické listy – 14. 7. 1909_
 
 * * *
@@ -58,3 +64,5 @@ Druhého dne po školním výletě do Divoké Šárky přišlo do třídy ze čt
 _[12](./resources/undefined) Zde: zpráva školy rodičům o špatném prospěchu nebo chování žáka. Pozn. red._
 
 _[13](./resources/undefined) Spolužáci. Pozn. red._
+
+</section>
