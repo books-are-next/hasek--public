@@ -598,7 +598,15 @@ Za tři dny uviděl jsem všude tyto plakáty:
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _VEŘEJNÁ PROTESTNÍ SCHŮZE ŽEN a PŘEDPLATITELEK ŠŤASTNÉHO DOMOVA_
+
+</div>
+
+</div>
 
 </section>
 

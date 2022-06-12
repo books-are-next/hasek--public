@@ -5,8 +5,16 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _Z vypravování jednoho moc starého mládence  
 den před jeho svatbou_
+
+</div>
+
+</div>
 
 </section>
 

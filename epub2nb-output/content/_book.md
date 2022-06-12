@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Povídky II
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Jaroslav Hašek
   publisher: Městská knihovna v Praze
   modified: '2022-02-18T00:00:00.000Z'
+  yearPublished: ''
+  publisherShort: mkp
+  contentType: prose
 readingOrder:
   - promo.html
-  - povidky_ii_001.html
-  - povidky_ii_002.html
-  - povidky_ii_003.html
-  - povidky_ii_004.html
   - povidky_ii_005.html
   - povidky_ii_006.html
   - povidky_ii_007.html
@@ -94,11 +94,12 @@ readingOrder:
   - povidky_ii_081.html
   - povidky_ii_082.html
   - povidky_ii_083.html
-  - povidky_ii_084.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

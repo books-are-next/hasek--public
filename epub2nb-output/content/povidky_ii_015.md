@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _Historie poučná a odstrašující_
+
+</div>
+
+</div>
 
 ## Předmluva
 
@@ -475,9 +483,17 @@ Uplynuly nyní čtyry neděle, v kterémžto období pan Tenkrát nedal o sob�
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _MARKÉTA BANZETOVÁ, JAN TENKRÁT  
 dovolují si oznámiti, že bylo jejich sňatku požehnáno  
 dne 18. srpna v chrámu Páně v N…_
+
+</div>
+
+</div>
 
 </section>
 
