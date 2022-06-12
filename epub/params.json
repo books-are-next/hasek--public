@@ -1,1 +1,1673 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Povídky II",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jaroslav Hašek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-18T00:00:00.000Z",
+      "yearPublished": "",
+      "publisherShort": "mkp",
+      "contentType": "prose"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": "",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*"
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "povidky_ii_001.md",
+            "xhtml": "povidky_ii_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "povidky_ii_002.md",
+            "xhtml": "povidky_ii_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "povidky_ii_003.md",
+            "xhtml": "povidky_ii_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "povidky_ii_004.md",
+            "xhtml": "povidky_ii_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "povidky_ii_005.md",
+            "xhtml": "povidky_ii_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "povidky_ii_006.md",
+                "xhtml": "povidky_ii_006.xhtml",
+                "id": 5,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_007.md",
+                "xhtml": "povidky_ii_007.xhtml",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_008.md",
+                "xhtml": "povidky_ii_008.xhtml",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_009.md",
+                "xhtml": "povidky_ii_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_010.md",
+                "xhtml": "povidky_ii_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_011.md",
+                "xhtml": "povidky_ii_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_012.md",
+                "xhtml": "povidky_ii_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_013.md",
+                "xhtml": "povidky_ii_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_014.md",
+                "xhtml": "povidky_ii_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_015.md",
+                "xhtml": "povidky_ii_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_016.md",
+                "xhtml": "povidky_ii_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_017.md",
+                "xhtml": "povidky_ii_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "filename": "povidky_ii_018.md",
+            "xhtml": "povidky_ii_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "povidky_ii_019.md",
+                "xhtml": "povidky_ii_019.xhtml",
+                "id": 18,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_020.md",
+                "xhtml": "povidky_ii_020.xhtml",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_021.md",
+                "xhtml": "povidky_ii_021.xhtml",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_022.md",
+                "xhtml": "povidky_ii_022.xhtml",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_023.md",
+                "xhtml": "povidky_ii_023.xhtml",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_024.md",
+                "xhtml": "povidky_ii_024.xhtml",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_025.md",
+                "xhtml": "povidky_ii_025.xhtml",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_026.md",
+                "xhtml": "povidky_ii_026.xhtml",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_027.md",
+                "xhtml": "povidky_ii_027.xhtml",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "filename": "povidky_ii_028.md",
+            "xhtml": "povidky_ii_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "povidky_ii_029.md",
+                "xhtml": "povidky_ii_029.xhtml",
+                "id": 28,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_030.md",
+                "xhtml": "povidky_ii_030.xhtml",
+                "id": 29,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_031.md",
+                "xhtml": "povidky_ii_031.xhtml",
+                "id": 30,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_032.md",
+                "xhtml": "povidky_ii_032.xhtml",
+                "id": 31,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_033.md",
+                "xhtml": "povidky_ii_033.xhtml",
+                "id": 32,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_034.md",
+                "xhtml": "povidky_ii_034.xhtml",
+                "id": 33,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_035.md",
+                "xhtml": "povidky_ii_035.xhtml",
+                "id": 34,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_036.md",
+                "xhtml": "povidky_ii_036.xhtml",
+                "id": 35,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_037.md",
+                "xhtml": "povidky_ii_037.xhtml",
+                "id": 36,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_038.md",
+                "xhtml": "povidky_ii_038.xhtml",
+                "id": 37,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_039.md",
+                "xhtml": "povidky_ii_039.xhtml",
+                "id": 38,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_040.md",
+                "xhtml": "povidky_ii_040.xhtml",
+                "id": 39,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_041.md",
+                "xhtml": "povidky_ii_041.xhtml",
+                "id": 40,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_042.md",
+                "xhtml": "povidky_ii_042.xhtml",
+                "id": 41,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_043.md",
+                "xhtml": "povidky_ii_043.xhtml",
+                "id": 42,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "filename": "povidky_ii_044.md",
+            "xhtml": "povidky_ii_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "povidky_ii_045.md",
+                "xhtml": "povidky_ii_045.xhtml",
+                "id": 44,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_046.md",
+                "xhtml": "povidky_ii_046.xhtml",
+                "id": 45,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_047.md",
+                "xhtml": "povidky_ii_047.xhtml",
+                "id": 46,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_048.md",
+                "xhtml": "povidky_ii_048.xhtml",
+                "id": 47,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_049.md",
+                "xhtml": "povidky_ii_049.xhtml",
+                "id": 48,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_050.md",
+                "xhtml": "povidky_ii_050.xhtml",
+                "id": 49,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_051.md",
+                "xhtml": "povidky_ii_051.xhtml",
+                "id": 50,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_052.md",
+                "xhtml": "povidky_ii_052.xhtml",
+                "id": 51,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_053.md",
+                "xhtml": "povidky_ii_053.xhtml",
+                "id": 52,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_054.md",
+                "xhtml": "povidky_ii_054.xhtml",
+                "id": 53,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_055.md",
+                "xhtml": "povidky_ii_055.xhtml",
+                "id": 54,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_056.md",
+                "xhtml": "povidky_ii_056.xhtml",
+                "id": 55,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_057.md",
+                "xhtml": "povidky_ii_057.xhtml",
+                "id": 56,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_058.md",
+                "xhtml": "povidky_ii_058.xhtml",
+                "id": 57,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_059.md",
+                "xhtml": "povidky_ii_059.xhtml",
+                "id": 58,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_060.md",
+                "xhtml": "povidky_ii_060.xhtml",
+                "id": 59,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_061.md",
+                "xhtml": "povidky_ii_061.xhtml",
+                "id": 60,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_062.md",
+                "xhtml": "povidky_ii_062.xhtml",
+                "id": 61,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "filename": "povidky_ii_063.md",
+            "xhtml": "povidky_ii_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "povidky_ii_064.md",
+                "xhtml": "povidky_ii_064.xhtml",
+                "id": 63,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_065.md",
+                "xhtml": "povidky_ii_065.xhtml",
+                "id": 64,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_066.md",
+                "xhtml": "povidky_ii_066.xhtml",
+                "id": 65,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_067.md",
+                "xhtml": "povidky_ii_067.xhtml",
+                "id": 66,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_068.md",
+                "xhtml": "povidky_ii_068.xhtml",
+                "id": 67,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_069.md",
+                "xhtml": "povidky_ii_069.xhtml",
+                "id": 68,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_070.md",
+                "xhtml": "povidky_ii_070.xhtml",
+                "id": 69,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "filename": "povidky_ii_071.md",
+            "xhtml": "povidky_ii_071.xhtml",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "povidky_ii_072.md",
+                "xhtml": "povidky_ii_072.xhtml",
+                "id": 71,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_073.md",
+                "xhtml": "povidky_ii_073.xhtml",
+                "id": 72,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_074.md",
+                "xhtml": "povidky_ii_074.xhtml",
+                "id": 73,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_075.md",
+                "xhtml": "povidky_ii_075.xhtml",
+                "id": 74,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_076.md",
+                "xhtml": "povidky_ii_076.xhtml",
+                "id": 75,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_077.md",
+                "xhtml": "povidky_ii_077.xhtml",
+                "id": 76,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_078.md",
+                "xhtml": "povidky_ii_078.xhtml",
+                "id": 77,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_079.md",
+                "xhtml": "povidky_ii_079.xhtml",
+                "id": 78,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_080.md",
+                "xhtml": "povidky_ii_080.xhtml",
+                "id": 79,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_081.md",
+                "xhtml": "povidky_ii_081.xhtml",
+                "id": 80,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_082.md",
+                "xhtml": "povidky_ii_082.xhtml",
+                "id": 81,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "povidky_ii_083.md",
+                "xhtml": "povidky_ii_083.xhtml",
+                "id": 82,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "filename": "povidky_ii_084.md",
+            "xhtml": "povidky_ii_084.xhtml",
+            "id": 83,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Povídky II",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jaroslav Hašek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-18T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_001.md",
+        "xhtml": "povidky_ii_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_002.md",
+        "xhtml": "povidky_ii_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_003.md",
+        "xhtml": "povidky_ii_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_004.md",
+        "xhtml": "povidky_ii_004.xhtml"
+      },
+      {
+        "titleSuggest": "ZE ŽIVOTA MILOSTNÉHO, RODINNÉHO I SPOLEČENSKÉHO",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_005.md",
+        "xhtml": "povidky_ii_005.xhtml"
+      },
+      {
+        "titleSuggest": "Boje s domovníky",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_006.md",
+        "xhtml": "povidky_ii_006.xhtml"
+      },
+      {
+        "titleSuggest": "Drobílkovo milostné dobrodružství",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_007.md",
+        "xhtml": "povidky_ii_007.xhtml"
+      },
+      {
+        "titleSuggest": "Šťastný domov",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_008.md",
+        "xhtml": "povidky_ii_008.xhtml"
+      },
+      {
+        "titleSuggest": "Jak jsem si přišíval knoflík ke kalhotám",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_009.md",
+        "xhtml": "povidky_ii_009.xhtml"
+      },
+      {
+        "titleSuggest": "Jak vypadají ženy",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_010.md",
+        "xhtml": "povidky_ii_010.xhtml"
+      },
+      {
+        "titleSuggest": "Kradení lidí",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_011.md",
+        "xhtml": "povidky_ii_011.xhtml"
+      },
+      {
+        "titleSuggest": "Osudy společenského člověka",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_012.md",
+        "xhtml": "povidky_ii_012.xhtml"
+      },
+      {
+        "titleSuggest": "Otcovské radosti pana Motejzlíka",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_013.md",
+        "xhtml": "povidky_ii_013.xhtml"
+      },
+      {
+        "titleSuggest": "Společenské lži",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_014.md",
+        "xhtml": "povidky_ii_014.xhtml"
+      },
+      {
+        "titleSuggest": "Trampoty pana Tenkráta",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_015.md",
+        "xhtml": "povidky_ii_015.xhtml"
+      },
+      {
+        "titleSuggest": "Vařím si vejce naměkko",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_016.md",
+        "xhtml": "povidky_ii_016.xhtml"
+      },
+      {
+        "titleSuggest": "Z praktického života",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_017.md",
+        "xhtml": "povidky_ii_017.xhtml"
+      },
+      {
+        "titleSuggest": "ALKOHOL, ABSTINENCE A JINÉ NEŘESTI",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_018.md",
+        "xhtml": "povidky_ii_018.xhtml"
+      },
+      {
+        "titleSuggest": "Alkoholická idylka",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_019.md",
+        "xhtml": "povidky_ii_019.xhtml"
+      },
+      {
+        "titleSuggest": "Dobrodružství pana Karafiáta",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_020.md",
+        "xhtml": "povidky_ii_020.xhtml"
+      },
+      {
+        "titleSuggest": "Jak se stal pan Karaus alkoholikem",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_021.md",
+        "xhtml": "povidky_ii_021.xhtml"
+      },
+      {
+        "titleSuggest": "O bludném cyklistovi",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_022.md",
+        "xhtml": "povidky_ii_022.xhtml"
+      },
+      {
+        "titleSuggest": "Pokus o abstinentní večírek čili americká zábava",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_023.md",
+        "xhtml": "povidky_ii_023.xhtml"
+      },
+      {
+        "titleSuggest": "Psychiatrická záhada",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_024.md",
+        "xhtml": "povidky_ii_024.xhtml"
+      },
+      {
+        "titleSuggest": "Silvestr abstinentů",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_025.md",
+        "xhtml": "povidky_ii_025.xhtml"
+      },
+      {
+        "titleSuggest": "Velmi spletitá historie o špatném vínu",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_026.md",
+        "xhtml": "povidky_ii_026.xhtml"
+      },
+      {
+        "titleSuggest": "Zápas s Armádou spásy",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_027.md",
+        "xhtml": "povidky_ii_027.xhtml"
+      },
+      {
+        "titleSuggest": "DĚTI, STUDENTI A JEJICH VZDĚLAVATELÉ",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_028.md",
+        "xhtml": "povidky_ii_028.xhtml"
+      },
+      {
+        "titleSuggest": "Časopisy pro mládež",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_029.md",
+        "xhtml": "povidky_ii_029.xhtml"
+      },
+      {
+        "titleSuggest": "Dobrodružství s nahým klukem",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_030.md",
+        "xhtml": "povidky_ii_030.xhtml"
+      },
+      {
+        "titleSuggest": "Duchovní cvičení s překážkami",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_031.md",
+        "xhtml": "povidky_ii_031.xhtml"
+      },
+      {
+        "titleSuggest": "Hodina pravopisu",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_032.md",
+        "xhtml": "povidky_ii_032.xhtml"
+      },
+      {
+        "titleSuggest": "Hovor s malým Mílou",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_033.md",
+        "xhtml": "povidky_ii_033.xhtml"
+      },
+      {
+        "titleSuggest": "Jak se Baluška naučil lhát",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_034.md",
+        "xhtml": "povidky_ii_034.xhtml"
+      },
+      {
+        "titleSuggest": "Jaké máme trápení s tetou",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_035.md",
+        "xhtml": "povidky_ii_035.xhtml"
+      },
+      {
+        "titleSuggest": "Logické a nelogické hlavy",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_036.md",
+        "xhtml": "povidky_ii_036.xhtml"
+      },
+      {
+        "titleSuggest": "Mnemotechnika",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_037.md",
+        "xhtml": "povidky_ii_037.xhtml"
+      },
+      {
+        "titleSuggest": "Muž a žena v manželství",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_038.md",
+        "xhtml": "povidky_ii_038.xhtml"
+      },
+      {
+        "titleSuggest": "Náš dům",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_039.md",
+        "xhtml": "povidky_ii_039.xhtml"
+      },
+      {
+        "titleSuggest": "Pepíček Nový vypravuje o zasnoubení své sestry",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_040.md",
+        "xhtml": "povidky_ii_040.xhtml"
+      },
+      {
+        "titleSuggest": "Školní čítanky",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_041.md",
+        "xhtml": "povidky_ii_041.xhtml"
+      },
+      {
+        "titleSuggest": "Školní výlet",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_042.md",
+        "xhtml": "povidky_ii_042.xhtml"
+      },
+      {
+        "titleSuggest": "Terciánská vzpoura",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_043.md",
+        "xhtml": "povidky_ii_043.xhtml"
+      },
+      {
+        "titleSuggest": "NOVINY A PSANÍ VŮBEC",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_044.md",
+        "xhtml": "povidky_ii_044.xhtml"
+      },
+      {
+        "titleSuggest": "Dotazy a odpovědi",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_045.md",
+        "xhtml": "povidky_ii_045.xhtml"
+      },
+      {
+        "titleSuggest": "Jak se máme chovati doma, na ulici, v úřadech, v obchodech, v divadlech, na aeroplánu a na fotbalových zápasech",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_046.md",
+        "xhtml": "povidky_ii_046.xhtml"
+      },
+      {
+        "titleSuggest": "Interview s panem cenzorem",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_047.md",
+        "xhtml": "povidky_ii_047.xhtml"
+      },
+      {
+        "titleSuggest": "Lidská ješitnost",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_048.md",
+        "xhtml": "povidky_ii_048.xhtml"
+      },
+      {
+        "titleSuggest": "Malá polemička",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_049.md",
+        "xhtml": "povidky_ii_049.xhtml"
+      },
+      {
+        "titleSuggest": "Malý oznamovatel Národní politiky",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_050.md",
+        "xhtml": "povidky_ii_050.xhtml"
+      },
+      {
+        "titleSuggest": "Malý oznamovatel Národní politiky – Nabídnutí k sňatku",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_051.md",
+        "xhtml": "povidky_ii_051.xhtml"
+      },
+      {
+        "titleSuggest": "Něco o inzerátech",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_052.md",
+        "xhtml": "povidky_ii_052.xhtml"
+      },
+      {
+        "titleSuggest": "Nedělní zábavná příloha",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_053.md",
+        "xhtml": "povidky_ii_053.xhtml"
+      },
+      {
+        "titleSuggest": "O vhodných názvech",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_054.md",
+        "xhtml": "povidky_ii_054.xhtml"
+      },
+      {
+        "titleSuggest": "Osiřelé dítě a tajemná jeho matka",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_055.md",
+        "xhtml": "povidky_ii_055.xhtml"
+      },
+      {
+        "titleSuggest": "Polemika mezi Hlasy od Nučic a Nučickou stráží",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_056.md",
+        "xhtml": "povidky_ii_056.xhtml"
+      },
+      {
+        "titleSuggest": "Rady pro život",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_057.md",
+        "xhtml": "povidky_ii_057.xhtml"
+      },
+      {
+        "titleSuggest": "Román z Malého oznamovatele v Národní politice za řadu dní",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_058.md",
+        "xhtml": "povidky_ii_058.xhtml"
+      },
+      {
+        "titleSuggest": "Stručný obsah krvavého románu",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_059.md",
+        "xhtml": "povidky_ii_059.xhtml"
+      },
+      {
+        "titleSuggest": "Tragický konec sekundána Petišky",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_060.md",
+        "xhtml": "povidky_ii_060.xhtml"
+      },
+      {
+        "titleSuggest": "Vyhubení praktikantů speditérské firmy Kobkán",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_061.md",
+        "xhtml": "povidky_ii_061.xhtml"
+      },
+      {
+        "titleSuggest": "Vzdělávací čítanka",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_062.md",
+        "xhtml": "povidky_ii_062.xhtml"
+      },
+      {
+        "titleSuggest": "PÁNBŮH A JEHO SLUŽEBNÍCI",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_063.md",
+        "xhtml": "povidky_ii_063.xhtml"
+      },
+      {
+        "titleSuggest": "Fialový hrom",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_064.md",
+        "xhtml": "povidky_ii_064.xhtml"
+      },
+      {
+        "titleSuggest": "Hřích faráře Ondřeje",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_065.md",
+        "xhtml": "povidky_ii_065.xhtml"
+      },
+      {
+        "titleSuggest": "Idyla z chudobince na Žižkově",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_066.md",
+        "xhtml": "povidky_ii_066.xhtml"
+      },
+      {
+        "titleSuggest": "Kam to vede, když člověk vystoupí z církve",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_067.md",
+        "xhtml": "povidky_ii_067.xhtml"
+      },
+      {
+        "titleSuggest": "Povídka z pekla",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_068.md",
+        "xhtml": "povidky_ii_068.xhtml"
+      },
+      {
+        "titleSuggest": "Smutný konec nádražní misie",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_069.md",
+        "xhtml": "povidky_ii_069.xhtml"
+      },
+      {
+        "titleSuggest": "Světci a zvířata",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_070.md",
+        "xhtml": "povidky_ii_070.xhtml"
+      },
+      {
+        "titleSuggest": "ZVÍŘATA DVOU- I VÍCENOHÁ",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_071.md",
+        "xhtml": "povidky_ii_071.xhtml"
+      },
+      {
+        "titleSuggest": "Aféra s křečkem",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_072.md",
+        "xhtml": "povidky_ii_072.xhtml"
+      },
+      {
+        "titleSuggest": "Kynologický ústav",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_073.md",
+        "xhtml": "povidky_ii_073.xhtml"
+      },
+      {
+        "titleSuggest": "Má drahá přítelkyně Julča",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_074.md",
+        "xhtml": "povidky_ii_074.xhtml"
+      },
+      {
+        "titleSuggest": "Nešťastná historie s kocourem",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_075.md",
+        "xhtml": "povidky_ii_075.xhtml"
+      },
+      {
+        "titleSuggest": "O nejošklivějším psu Balabánovi",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_076.md",
+        "xhtml": "povidky_ii_076.xhtml"
+      },
+      {
+        "titleSuggest": "Obecní býk v Jablečnu",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_077.md",
+        "xhtml": "povidky_ii_077.xhtml"
+      },
+      {
+        "titleSuggest": "Ohař pana barona",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_078.md",
+        "xhtml": "povidky_ii_078.xhtml"
+      },
+      {
+        "titleSuggest": "Podivuhodné dobrodružství indického kačera v městském parku",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_079.md",
+        "xhtml": "povidky_ii_079.xhtml"
+      },
+      {
+        "titleSuggest": "Povídka o kočce",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_080.md",
+        "xhtml": "povidky_ii_080.xhtml"
+      },
+      {
+        "titleSuggest": "Povídka z hipodromu",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_081.md",
+        "xhtml": "povidky_ii_081.xhtml"
+      },
+      {
+        "titleSuggest": "V přírodovědeckém časopise",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_082.md",
+        "xhtml": "povidky_ii_082.xhtml"
+      },
+      {
+        "titleSuggest": "Vliv hudby na zvířata",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_083.md",
+        "xhtml": "povidky_ii_083.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_ii_084.md",
+        "xhtml": "povidky_ii_084.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_povidky2_2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "HorizontalRule-1",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_-I-",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_hvezdicky",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_seznam_-0-0-",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_-12-12-",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-12-12-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_text_bez1radku_-I-_-12-0-",
+      "MLP_text_uprostred_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven3_nadpis",
+      "MLP_verse_-I-_-0-12-",
+      "MLP_verse_-I-_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-10",
+      "ParaOverride-11",
+      "ParaOverride-12",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "ParaOverride-8",
+      "ParaOverride-9",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1",
+      "text"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hasek-povidky"
+    },
+    "generatedAt": 1654948371573
+  }
+}
