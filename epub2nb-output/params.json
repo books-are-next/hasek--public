@@ -25,12 +25,12 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
@@ -107,7 +107,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Boje s domovníky"
               },
               {
                 "filename": "povidky_ii_007.md",
@@ -119,7 +120,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Drobílkovo milostné dobrodružství"
               },
               {
                 "filename": "povidky_ii_008.md",
@@ -131,7 +133,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Šťastný domov"
               },
               {
                 "filename": "povidky_ii_009.md",
@@ -143,7 +146,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Jak jsem si přišíval knoflík ke kalhotám"
               },
               {
                 "filename": "povidky_ii_010.md",
@@ -155,7 +159,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Jak vypadají ženy"
               },
               {
                 "filename": "povidky_ii_011.md",
@@ -167,7 +172,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Kradení lidí"
               },
               {
                 "filename": "povidky_ii_012.md",
@@ -179,7 +185,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Osudy společenského člověka"
               },
               {
                 "filename": "povidky_ii_013.md",
@@ -191,7 +198,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Otcovské radosti pana Motejzlíka"
               },
               {
                 "filename": "povidky_ii_014.md",
@@ -203,7 +211,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Společenské lži"
               },
               {
                 "filename": "povidky_ii_015.md",
@@ -215,7 +224,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Trampoty pana Tenkráta"
               },
               {
                 "filename": "povidky_ii_016.md",
@@ -227,7 +237,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Vařím si vejce naměkko"
               },
               {
                 "filename": "povidky_ii_017.md",
@@ -239,9 +250,11 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Z praktického života"
               }
-            ]
+            ],
+            "title": "ZE ŽIVOTA MILOSTNÉHO, RODINNÉHO I SPOLEČENSKÉHO"
           },
           {
             "filename": "povidky_ii_018.md",
@@ -264,7 +277,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Alkoholická idylka"
               },
               {
                 "filename": "povidky_ii_020.md",
@@ -276,7 +290,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Dobrodružství pana Karafiáta"
               },
               {
                 "filename": "povidky_ii_021.md",
@@ -288,7 +303,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Jak se stal pan Karaus alkoholikem"
               },
               {
                 "filename": "povidky_ii_022.md",
@@ -300,7 +316,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "O bludném cyklistovi"
               },
               {
                 "filename": "povidky_ii_023.md",
@@ -312,7 +329,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Pokus o abstinentní večírek čili americká zábava"
               },
               {
                 "filename": "povidky_ii_024.md",
@@ -324,7 +342,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Psychiatrická záhada"
               },
               {
                 "filename": "povidky_ii_025.md",
@@ -336,7 +355,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Silvestr abstinentů"
               },
               {
                 "filename": "povidky_ii_026.md",
@@ -348,7 +368,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Velmi spletitá historie o špatném vínu"
               },
               {
                 "filename": "povidky_ii_027.md",
@@ -360,9 +381,11 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Zápas s Armádou spásy"
               }
-            ]
+            ],
+            "title": "ALKOHOL, ABSTINENCE A JINÉ NEŘESTI"
           },
           {
             "filename": "povidky_ii_028.md",
@@ -385,7 +408,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Časopisy pro mládež"
               },
               {
                 "filename": "povidky_ii_030.md",
@@ -397,7 +421,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Dobrodružství s nahým klukem"
               },
               {
                 "filename": "povidky_ii_031.md",
@@ -409,7 +434,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Duchovní cvičení s překážkami"
               },
               {
                 "filename": "povidky_ii_032.md",
@@ -421,7 +447,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Hodina pravopisu"
               },
               {
                 "filename": "povidky_ii_033.md",
@@ -433,7 +460,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Hovor s malým Mílou"
               },
               {
                 "filename": "povidky_ii_034.md",
@@ -445,7 +473,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Jak se Baluška naučil lhát"
               },
               {
                 "filename": "povidky_ii_035.md",
@@ -457,7 +486,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Jaké máme trápení s tetou"
               },
               {
                 "filename": "povidky_ii_036.md",
@@ -469,7 +499,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Logické a nelogické hlavy"
               },
               {
                 "filename": "povidky_ii_037.md",
@@ -481,7 +512,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Mnemotechnika"
               },
               {
                 "filename": "povidky_ii_038.md",
@@ -493,7 +525,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Muž a žena v manželství"
               },
               {
                 "filename": "povidky_ii_039.md",
@@ -505,7 +538,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Náš dům"
               },
               {
                 "filename": "povidky_ii_040.md",
@@ -517,7 +551,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Pepíček Nový vypravuje o zasnoubení své sestry"
               },
               {
                 "filename": "povidky_ii_041.md",
@@ -529,7 +564,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Školní čítanky"
               },
               {
                 "filename": "povidky_ii_042.md",
@@ -541,7 +577,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Školní výlet"
               },
               {
                 "filename": "povidky_ii_043.md",
@@ -553,9 +590,11 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Terciánská vzpoura"
               }
-            ]
+            ],
+            "title": "DĚTI, STUDENTI A JEJICH VZDĚLAVATELÉ"
           },
           {
             "filename": "povidky_ii_044.md",
@@ -578,7 +617,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Dotazy a odpovědi"
               },
               {
                 "filename": "povidky_ii_046.md",
@@ -590,7 +630,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Jak se máme chovati doma, na ulici, v úřadech, v obchodech, v divadlech, na aeroplánu a na fotbalových zápasech"
               },
               {
                 "filename": "povidky_ii_047.md",
@@ -602,7 +643,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Interview s panem cenzorem"
               },
               {
                 "filename": "povidky_ii_048.md",
@@ -614,7 +656,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Lidská ješitnost"
               },
               {
                 "filename": "povidky_ii_049.md",
@@ -626,7 +669,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Malá polemička"
               },
               {
                 "filename": "povidky_ii_050.md",
@@ -638,7 +682,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Malý oznamovatel Národní politiky"
               },
               {
                 "filename": "povidky_ii_051.md",
@@ -650,7 +695,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Malý oznamovatel Národní politiky – Nabídnutí k sňatku"
               },
               {
                 "filename": "povidky_ii_052.md",
@@ -662,7 +708,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Něco o inzerátech"
               },
               {
                 "filename": "povidky_ii_053.md",
@@ -674,7 +721,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Nedělní zábavná příloha"
               },
               {
                 "filename": "povidky_ii_054.md",
@@ -686,7 +734,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "O vhodných názvech"
               },
               {
                 "filename": "povidky_ii_055.md",
@@ -698,7 +747,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Osiřelé dítě a tajemná jeho matka"
               },
               {
                 "filename": "povidky_ii_056.md",
@@ -710,7 +760,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Polemika mezi Hlasy od Nučic a Nučickou stráží"
               },
               {
                 "filename": "povidky_ii_057.md",
@@ -722,7 +773,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Rady pro život"
               },
               {
                 "filename": "povidky_ii_058.md",
@@ -734,7 +786,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Román z Malého oznamovatele v Národní politice za řadu dní"
               },
               {
                 "filename": "povidky_ii_059.md",
@@ -746,7 +799,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Stručný obsah krvavého románu"
               },
               {
                 "filename": "povidky_ii_060.md",
@@ -758,7 +812,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Tragický konec sekundána Petišky"
               },
               {
                 "filename": "povidky_ii_061.md",
@@ -770,7 +825,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Vyhubení praktikantů speditérské firmy Kobkán"
               },
               {
                 "filename": "povidky_ii_062.md",
@@ -782,9 +838,11 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Vzdělávací čítanka"
               }
-            ]
+            ],
+            "title": "NOVINY A PSANÍ VŮBEC"
           },
           {
             "filename": "povidky_ii_063.md",
@@ -807,7 +865,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Fialový hrom"
               },
               {
                 "filename": "povidky_ii_065.md",
@@ -819,7 +878,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Hřích faráře Ondřeje"
               },
               {
                 "filename": "povidky_ii_066.md",
@@ -831,7 +891,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Idyla z chudobince na Žižkově"
               },
               {
                 "filename": "povidky_ii_067.md",
@@ -843,7 +904,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Kam to vede, když člověk vystoupí z církve"
               },
               {
                 "filename": "povidky_ii_068.md",
@@ -855,7 +917,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Povídka z pekla"
               },
               {
                 "filename": "povidky_ii_069.md",
@@ -867,7 +930,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Smutný konec nádražní misie"
               },
               {
                 "filename": "povidky_ii_070.md",
@@ -879,9 +943,11 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Světci a zvířata"
               }
-            ]
+            ],
+            "title": "PÁNBŮH A JEHO SLUŽEBNÍCI"
           },
           {
             "filename": "povidky_ii_071.md",
@@ -904,7 +970,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Aféra s křečkem"
               },
               {
                 "filename": "povidky_ii_073.md",
@@ -916,7 +983,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Kynologický ústav"
               },
               {
                 "filename": "povidky_ii_074.md",
@@ -928,7 +996,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Má drahá přítelkyně Julča"
               },
               {
                 "filename": "povidky_ii_075.md",
@@ -940,7 +1009,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Nešťastná historie s kocourem"
               },
               {
                 "filename": "povidky_ii_076.md",
@@ -952,7 +1022,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "O nejošklivějším psu Balabánovi"
               },
               {
                 "filename": "povidky_ii_077.md",
@@ -964,7 +1035,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Obecní býk v Jablečnu"
               },
               {
                 "filename": "povidky_ii_078.md",
@@ -976,7 +1048,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Ohař pana barona"
               },
               {
                 "filename": "povidky_ii_079.md",
@@ -988,7 +1061,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Podivuhodné dobrodružství indického kačera v městském parku"
               },
               {
                 "filename": "povidky_ii_080.md",
@@ -1000,7 +1074,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Povídka o kočce"
               },
               {
                 "filename": "povidky_ii_081.md",
@@ -1012,7 +1087,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Povídka z hipodromu"
               },
               {
                 "filename": "povidky_ii_082.md",
@@ -1024,7 +1100,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "V přírodovědeckém časopise"
               },
               {
                 "filename": "povidky_ii_083.md",
@@ -1036,9 +1113,11 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "Vliv hudby na zvířata"
               }
-            ]
+            ],
+            "title": "ZVÍŘATA DVOU- I VÍCENOHÁ"
           },
           {
             "filename": "povidky_ii_084.md",
@@ -1667,6 +1746,6 @@
       "user": "books-are-next",
       "repo": "hasek-povidky"
     },
-    "generatedAt": 1655065680958
+    "generatedAt": 1655069016345
   }
 }
