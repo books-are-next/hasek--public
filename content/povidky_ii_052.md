@@ -47,9 +47,17 @@ Přesto však inzeráty jsou pevným pojítkem výrobců a obchodníků s konz
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _ZADARMO ROZDÁME  
 obšírné ceníky s návodem, jak lze lacino u nás koupiti  
 PĚT PÁRŮ BOT!_
+
+</div>
+
+</div>
 
 </section>
 

@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _Z vypravování malého Karlíčka_
+
+</div>
+
+</div>
 
 </section>
 

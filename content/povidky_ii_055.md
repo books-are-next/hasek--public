@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _Pohnutlivá historie měšťáckého tisku_
+
+</div>
+
+</div>
 
 ## I Osiřelé dítě s modrýma očima
 

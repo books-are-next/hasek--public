@@ -47,30 +47,120 @@ Plakáty, které dala natisknout, měly černý rámec jako nějaké úmrtní oz
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 _ABSTINENTNÍ ZÁBAVA_
+
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
 
 _AMERIKÁNSKÝ VEČÍREK_
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 _BEZ ALKOHOLU_
+
+</div>
+
+</div>
+
+ 
+
+<div class="centered">
+
+<div class="verse">
 
 _Vyhýbejme se opilcům!_
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 _Alkohol snižuje obraz boží k obrazu nerozumného zvířete!_
+
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
 
 _9\. DUBNA POBAVÍTE SE BEZ ALKOHOLU  
 V RESTAURACI P. VAŠATY!_
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 _Začátek v 7 hod. večer.  
 Na programu:_
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 _Úvodní slovo pí Piccknown, pocházející z našeho města._
+
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
 
 _Různé hry._
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 _Pro občerstvení podává se bezplatně čaj._
+
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
 
 _Přijďte hromadně a přesvědčíte se sami, co je lepší,  
 zábava s alkoholem, nebo bez alkoholu!_
+
+</div>
+
+</div>
 
 </section>
 
