@@ -13,6 +13,7 @@ meta:
   yearPublished: ''
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2151-0
 readingOrder:
   - promo.html
   - povidky_ii_005.html
