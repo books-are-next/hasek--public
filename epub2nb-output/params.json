@@ -68,7 +68,7 @@
             "filename": "povidky_ii_003.md",
             "xhtml": "povidky_ii_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -80,7 +80,7 @@
             "filename": "povidky_ii_004.md",
             "xhtml": "povidky_ii_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1125,7 +1125,7 @@
             "filename": "povidky_ii_084.md",
             "xhtml": "povidky_ii_084.xhtml",
             "id": 83,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1748,6 +1748,6 @@
       "user": "books-are-next",
       "repo": "hasek-povidky"
     },
-    "generatedAt": 1655978563464
+    "generatedAt": 1657181943848
   }
 }

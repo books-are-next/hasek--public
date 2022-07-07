@@ -96,7 +96,7 @@ readingOrder:
   - povidky_ii_081.html
   - povidky_ii_082.html
   - povidky_ii_083.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-povidky-ii-8f140a9",
-  "revision": "8f140a9",
+  "identifier": "hasek-povidky-ii-990064b",
+  "revision": "990064b",
   "readingOrder": [
     "promo.html",
     "povidky_ii_005.html",
@@ -91,11 +91,11 @@
     "povidky_ii_081.html",
     "povidky_ii_082.html",
     "povidky_ii_083.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:05:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978717721
+    "date": "Thu Jul 07 2022 08:26:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182366675
   },
   "documents": [
     {
@@ -289,7 +289,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak jsem si přišíval knoflík ke kalhotám",
+          "name": "Jak jsem si přišíval knoflík ke kalhotám",
           "id": null,
           "children": []
         }
@@ -507,7 +507,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vařím si vejce naměkko",
+          "name": "Vařím si vejce naměkko",
           "id": null,
           "children": []
         }
@@ -607,7 +607,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak se stal pan Karaus alkoholikem",
+          "name": "Jak se stal pan Karaus alkoholikem",
           "id": null,
           "children": []
         }
@@ -933,7 +933,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak se Baluška naučil lhát",
+          "name": "Jak se Baluška naučil lhát",
           "id": null,
           "children": []
         }
@@ -1173,7 +1173,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak se máme chovati doma, na ulici, v úřadech, v obchodech, v divadlech, na aeroplánu a na fotbalových zápasech",
+          "name": "Jak se máme chovati doma, na ulici, v úřadech, v obchodech, v divadlech, na aeroplánu a na fotbalových zápasech",
           "id": null,
           "children": [
             {
@@ -1509,7 +1509,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Polemika mezi Hlasy od Nučic a Nučickou stráží",
+          "name": "Polemika mezi Hlasy od Nučic a Nučickou stráží",
           "id": null,
           "children": []
         }
@@ -1620,7 +1620,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Román z Malého oznamovatele v Národní politice za řadu dní",
+          "name": "Román z Malého oznamovatele v Národní politice za řadu dní",
           "id": null,
           "children": []
         }
@@ -1795,7 +1795,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Idyla z chudobince na Žižkově",
+          "name": "Idyla z chudobince na Žižkově",
           "id": null,
           "children": []
         }
@@ -1815,7 +1815,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kam to vede, když člověk vystoupí z církve",
+          "name": "Kam to vede, když člověk vystoupí z církve",
           "id": null,
           "children": []
         }
@@ -2288,12 +2288,12 @@
       "role": "chapter",
       "order": 79,
       "prev": "povidky_ii_082.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Vliv hudby na zvířata",
+          "name": "Vliv hudby na zvířata",
           "id": null,
           "children": []
         }
@@ -2301,11 +2301,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 128,
-      "chars": 862,
+      "chars": 861,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "povidky_ii_083.html",
       "next": null,
@@ -2323,7 +2323,7 @@
   "totals": {
     "all": {
       "words": 112676,
-      "chars": 676543,
+      "chars": 676542,
       "ideas": 3539
     },
     "chapters": {
