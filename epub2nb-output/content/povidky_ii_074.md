@@ -45,7 +45,7 @@ Když tedy bylo vše uvedeno do pořádku a policie vytlačila od pokladen davy
 
 Učinil tak bez rozpaků: „Haló, dověděl jsem se, že kupujete rád senzační zvířata, to velice chválím. Považujte mne za svého dobrého přítele, který vás nechce nijak zklamati. Viděl jste někdy opici, která si utírá nos do kapesníku?“
 
-Odpověděl jsem mu, že ano, neboť mně samému podařilo se jednou vycvičiti tak opičáka druhu rhesus[21](./resources/undefined). Ten nosil dokonce malý kapesník neustále při sobě v lícních torbách své tlamy. Když chtěl si utřít nos, vytáhl jednoduše z úst kapesník, nos si do něho utřel a zas kapesník klidně strčil do úst. Prodal jsem ho jedné baronce, která z toho obdivuhodného opičáka dostala žaludeční katar.
+Odpověděl jsem mu, že ano, neboť mně samému podařilo se jednou vycvičiti tak opičáka druhu rhesus[^21]. Ten nosil dokonce malý kapesník neustále při sobě v lícních torbách své tlamy. Když chtěl si utřít nos, vytáhl jednoduše z úst kapesník, nos si do něho utřel a zas kapesník klidně strčil do úst. Prodal jsem ho jedné baronce, která z toho obdivuhodného opičáka dostala žaludeční katar.
 
 „Haló,“ pokračoval pan Hardey, „začínám právě tím, čím vy jste v drezúře skončil. Viděl jste opici, která jí vidličkou a nožem?“
 
@@ -280,7 +280,5 @@ Téhož dne ve večernících stálo: „Jägerle, domnělý pachatel loupežné
 Od té doby představovali jsme Julču též pod jménem Jägerle.
 
 * * *
-
-_[21](./resources/undefined) Makak. Pozn. red._
-
+[^21]: Makak. Pozn. red.
 </section>

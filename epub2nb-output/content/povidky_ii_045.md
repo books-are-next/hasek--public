@@ -45,7 +45,7 @@ _4\. Jak dalece ručí hlava rodiny za dluhy příslušníků domácnosti?_
 
 _5\. Jak se máme chovati ke svým věřitelům?_
 
-ODPOVĚĎ: Velice slušně a s jemným taktem. Přijmout věřitele v každou hodinu denní i noční, nikdy se před ním nezapírat, a nedat tak příležitost humoristickým listům k hloupým a otřepaným vtipům. Váš věřitel musí být vámi vyhledáván, a nikoliv aby on vás hledal. Je-li předplacen v divadle, hleďte se též předplatit tak, abyste seděli vedle sebe. Navštěvujte ty restaurace a kavárny, kam on chodí. Hrajte s ním biliár, šachy, tenis, preferans[15](./resources/undefined). Vyžádej si od svých věřitelů kopie dlužních úpisů, očísluj je dle měsíců, svaž je abecedně v balíček a koncem roku s gratulací k Novému roku rozesílej svým věřitelům výtah obnosů, které jim dluhuješ. Pětadvacetileté jubileum nějakého dlužného obnosu se slaví jako stříbrná svatba v úzkém kruhu rodinném. Přítomnost věřitele jest nutná. Posaď ho na první místo u stolu a věnuj mu největší pozornost. Nepřípustné je dělat ve společnosti vtipy na své věřitele.
+ODPOVĚĎ: Velice slušně a s jemným taktem. Přijmout věřitele v každou hodinu denní i noční, nikdy se před ním nezapírat, a nedat tak příležitost humoristickým listům k hloupým a otřepaným vtipům. Váš věřitel musí být vámi vyhledáván, a nikoliv aby on vás hledal. Je-li předplacen v divadle, hleďte se též předplatit tak, abyste seděli vedle sebe. Navštěvujte ty restaurace a kavárny, kam on chodí. Hrajte s ním biliár, šachy, tenis, preferans[^15]. Vyžádej si od svých věřitelů kopie dlužních úpisů, očísluj je dle měsíců, svaž je abecedně v balíček a koncem roku s gratulací k Novému roku rozesílej svým věřitelům výtah obnosů, které jim dluhuješ. Pětadvacetileté jubileum nějakého dlužného obnosu se slaví jako stříbrná svatba v úzkém kruhu rodinném. Přítomnost věřitele jest nutná. Posaď ho na první místo u stolu a věnuj mu největší pozornost. Nepřípustné je dělat ve společnosti vtipy na své věřitele.
 
 </section>
 
@@ -154,7 +154,5 @@ _Našel jsem 2000 K. Mám je vrátit, či si je nechat? Nikdo mne neviděl._
 Vyciťuji, že v odpovědích jsem nevyčerpal úplně látku, na kterou jsem byl tázán. Prosím, aby čtenáři sami si doplnili, co schází.
 
 * * *
-
-_[15](./resources/undefined) Druh karetní hry; druh hry na kulečníku. Pozn. red._
-
+[^15]: Druh karetní hry; druh hry na kulečníku. Pozn. red.
 </section>

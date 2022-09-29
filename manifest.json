@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-povidky-ii-59af398",
-  "revision": "59af398",
+  "identifier": "hasek-povidky-ii-065adf1",
+  "revision": "065adf1",
   "readingOrder": [
     "promo.html",
     "povidky_ii_005.html",
@@ -94,8 +94,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:40:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414405406
+    "date": "Thu Sep 29 2022 21:24:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486667618
   },
   "documents": [
     {
@@ -173,9 +173,9 @@
     {
       "title": "Šťastný domov",
       "file": "povidky_ii_008.html",
-      "words": 11822,
-      "chars": 71735,
-      "ideas": 327,
+      "words": 11820,
+      "chars": 71748,
+      "ideas": 325,
       "role": "chapter",
       "order": 4,
       "prev": "povidky_ii_007.html",
@@ -398,9 +398,9 @@
     {
       "title": "Trampoty pana Tenkráta",
       "file": "povidky_ii_015.html",
-      "words": 9078,
-      "chars": 53132,
-      "ideas": 225,
+      "words": 9073,
+      "chars": 53165,
+      "ideas": 220,
       "role": "chapter",
       "order": 11,
       "prev": "povidky_ii_014.html",
@@ -922,9 +922,9 @@
     {
       "title": "Jak se Baluška naučil lhát",
       "file": "povidky_ii_034.html",
-      "words": 1190,
-      "chars": 7111,
-      "ideas": 47,
+      "words": 1189,
+      "chars": 7116,
+      "ideas": 46,
       "role": "chapter",
       "order": 30,
       "prev": "povidky_ii_033.html",
@@ -1082,9 +1082,9 @@
     {
       "title": "Školní výlet",
       "file": "povidky_ii_042.html",
-      "words": 1790,
-      "chars": 10734,
-      "ideas": 28,
+      "words": 1789,
+      "chars": 10739,
+      "ideas": 27,
       "role": "chapter",
       "order": 38,
       "prev": "povidky_ii_041.html",
@@ -1103,7 +1103,7 @@
       "title": "Terciánská vzpoura",
       "file": "povidky_ii_043.html",
       "words": 1628,
-      "chars": 9779,
+      "chars": 9778,
       "ideas": 50,
       "role": "chapter",
       "order": 39,
@@ -1143,7 +1143,7 @@
       "title": "Dotazy a odpovědi",
       "file": "povidky_ii_045.html",
       "words": 1916,
-      "chars": 11778,
+      "chars": 11777,
       "ideas": 40,
       "role": "chapter",
       "order": 41,
@@ -1280,7 +1280,7 @@
       "title": "Malá polemička",
       "file": "povidky_ii_049.html",
       "words": 1100,
-      "chars": 6481,
+      "chars": 6480,
       "ideas": 23,
       "role": "chapter",
       "order": 45,
@@ -1650,7 +1650,7 @@
       "title": "Tragický konec sekundána Petišky",
       "file": "povidky_ii_060.html",
       "words": 1380,
-      "chars": 8447,
+      "chars": 8446,
       "ideas": 29,
       "role": "chapter",
       "order": 56,
@@ -1765,7 +1765,7 @@
       "title": "Hřích faráře Ondřeje",
       "file": "povidky_ii_065.html",
       "words": 744,
-      "chars": 4742,
+      "chars": 4741,
       "ideas": 42,
       "role": "chapter",
       "order": 61,
@@ -1805,7 +1805,7 @@
       "title": "Kam to vede, když člověk vystoupí z církve",
       "file": "povidky_ii_067.html",
       "words": 803,
-      "chars": 4852,
+      "chars": 4851,
       "ideas": 22,
       "role": "chapter",
       "order": 63,
@@ -1825,7 +1825,7 @@
       "title": "Povídka z pekla",
       "file": "povidky_ii_068.html",
       "words": 828,
-      "chars": 5269,
+      "chars": 5268,
       "ideas": 37,
       "role": "chapter",
       "order": 64,
@@ -1981,7 +1981,7 @@
       "title": "Má drahá přítelkyně Julča",
       "file": "povidky_ii_074.html",
       "words": 5468,
-      "chars": 32525,
+      "chars": 32524,
       "ideas": 139,
       "role": "chapter",
       "order": 70,
@@ -2242,9 +2242,9 @@
     {
       "title": "Povídka z hipodromu",
       "file": "povidky_ii_081.html",
-      "words": 1114,
-      "chars": 6812,
-      "ideas": 30,
+      "words": 1113,
+      "chars": 6817,
+      "ideas": 29,
       "role": "chapter",
       "order": 77,
       "prev": "povidky_ii_080.html",
@@ -2322,14 +2322,14 @@
   ],
   "totals": {
     "all": {
-      "words": 112676,
-      "chars": 676543,
-      "ideas": 3539
+      "words": 112666,
+      "chars": 676596,
+      "ideas": 3529
     },
     "chapters": {
-      "words": 112542,
-      "chars": 675646,
-      "ideas": 3520
+      "words": 112532,
+      "chars": 675699,
+      "ideas": 3510
     }
   }
 }

@@ -111,11 +111,11 @@ Okresní hejtman: Pan vrchní berní nemůže vás vynachválit.
 
 Starosta: Není prý přesnějšího mladého muže ve vykonávání svěřených povinností…
 
-Jakési koktání z mé strany a pochvalné bručení pana Banzeta, který po chvilce vykládá německy panu okresnímu hejtmanovi, že prý jsem vtipkoval, jak můj dědeček původně se jmenoval Der hat gestohlen[4](./resources/undefined), k čemuž dodal tento: Vielen schönen Mädchen das Herzlein[5](./resources/undefined). Všeobecný smích a pan okresní hejtman klepá prstem na stůl a volá: ’s war damals,[6](./resources/undefined) pane Tenkrát. Když se smích utišil, tázal se mne řídící učitel, zdali jsem četl jeho poslední povídky o Svatých otcích.
+Jakési koktání z mé strany a pochvalné bručení pana Banzeta, který po chvilce vykládá německy panu okresnímu hejtmanovi, že prý jsem vtipkoval, jak můj dědeček původně se jmenoval Der hat gestohlen[^4], k čemuž dodal tento: Vielen schönen Mädchen das Herzlein[^5]. Všeobecný smích a pan okresní hejtman klepá prstem na stůl a volá: ’s war damals,[^6] pane Tenkrát. Když se smích utišil, tázal se mne řídící učitel, zdali jsem četl jeho poslední povídky o Svatých otcích.
 
 Četl, řekl za mne pan Banzet, a pravil ke mně, že by si přál vás vidět, neboť je zkrátka nadšen.
 
-Tak si páni vyprávěli mezi sebou, opomíjejíce mne. Patrně jim stačilo, že si mne všimli a že mezi nimi sedím, jen pan Banzet, můj ochránce, tázal se mne častěji: A co vy o tom soudíte? Kýval jsem hlavou. Mluvilo se o paprice, která prý dnes byla mizerná. Ospalý číšník byl napomenut, aby nezíval. Pak se vyprávělo o zloději, který u kupce Vondráka se ve sklepě opil. Nato pan okresní hejtman láteřil na svou služku, která mu oskarky[7](./resources/undefined) natřela obyčejným leštidlem místo krémem.
+Tak si páni vyprávěli mezi sebou, opomíjejíce mne. Patrně jim stačilo, že si mne všimli a že mezi nimi sedím, jen pan Banzet, můj ochránce, tázal se mne častěji: A co vy o tom soudíte? Kýval jsem hlavou. Mluvilo se o paprice, která prý dnes byla mizerná. Ospalý číšník byl napomenut, aby nezíval. Pak se vyprávělo o zloději, který u kupce Vondráka se ve sklepě opil. Nato pan okresní hejtman láteřil na svou služku, která mu oskarky[^7] natřela obyčejným leštidlem místo krémem.
 
 Nato pan děkan rozhovořil se o politice. Řekl: Politika vůbec, a obraceje se na mne, pravil: Co vy o tom soudíte?
 
@@ -127,7 +127,7 @@ A když pan děkan řekl, že hrachu nejí, pan Banzet pravil, že jsem se mu s
 
 Když nadávali na židy, já též prý je nemohu vystát a mým nejvřelejším přáním prý je, dle slov pana Banzeta, všechny židy vyhubit.
 
-Panu děkanovi svítily oči, a klepaje mně, mlčícímu, na rameno, řekl: Pane Tenkráte, za našich dob je málo takových lidí, jako jste vy, nevěra, vzpoura, tupení všeho posvátného šíří se světem; dokud lid bál se spravedlnosti našich soudů… Sunt certi denique fines[8](./resources/undefined), mluvil povzneseným hlasem, a jednou, uvidíte, moc dostane se opět do našich rukou a pak uvidíte, že nebudou se opakovat případy, aby někdo odtud nedal biřmovat své děti…
+Panu děkanovi svítily oči, a klepaje mně, mlčícímu, na rameno, řekl: Pane Tenkráte, za našich dob je málo takových lidí, jako jste vy, nevěra, vzpoura, tupení všeho posvátného šíří se světem; dokud lid bál se spravedlnosti našich soudů… Sunt certi denique fines[^8], mluvil povzneseným hlasem, a jednou, uvidíte, moc dostane se opět do našich rukou a pak uvidíte, že nebudou se opakovat případy, aby někdo odtud nedal biřmovat své děti…
 
 Jsou to hrozné případy, mluvil, obraceje se k celé společnosti, víte již, co předevčírem mluvil sedlář Nežid ke kostelníkovi, s kterým se setkal v slovní půtce? Když, řekl ten zlosyn, váš děkan se drží Písma svatého, ať jednou pro legraci jí za městem kobylky jako svatý Jan na poušti.
 
@@ -361,7 +361,7 @@ Rozkošná krajina, ona vůně, obloha jasná, světlo letního odpoledne, ticho
 
 Pak jsem se opět pohodlně natáhl do vonné trávy, oddávaje se roztomilým myšlenkám, jak asi pan Banzet vyvaloval údivem oči, když vyjda z průjezdu, mě na chodníku neviděl. Jak se rozhlížel kolem pátravým pohledem, jak kroutil hlavou a jak šel rychle, šeptaje si: On je asi za rohem – na roh Dušní ulice, kde nespatřiv mne, kroutí poznovu hlavou a zoufale dívá se kolem…
 
-Tak asi přemýšlí každý vojenský zběh, když uteče ze stráže. Myslí si: Co asi dělali, když přišli k boudě a mne tam nenašli? Desátník koulí očima a křičí: Wo ist der Esel? Der Esel ist nicht da![9](./resources/undefined) odpovídá stráž, která ho má vystřídat. A pak, jak je pro zběha veselé, když si vzpomene, že desátník zuří, šikovatel chce dát zavřít desátníka, kadet nadává, důstojník už dal desátníka zavřít, hejtman hrozí zastřelením a řve, že kadet měl už dávno vidět na očích tomu chlapovi, že chce utéci, pátrání a zběh se zatím někde při těch vzpomínkách směje, natažen v trávě nebo v obilí…
+Tak asi přemýšlí každý vojenský zběh, když uteče ze stráže. Myslí si: Co asi dělali, když přišli k boudě a mne tam nenašli? Desátník koulí očima a křičí: Wo ist der Esel? Der Esel ist nicht da![^9] odpovídá stráž, která ho má vystřídat. A pak, jak je pro zběha veselé, když si vzpomene, že desátník zuří, šikovatel chce dát zavřít desátníka, kadet nadává, důstojník už dal desátníka zavřít, hejtman hrozí zastřelením a řve, že kadet měl už dávno vidět na očích tomu chlapovi, že chce utéci, pátrání a zběh se zatím někde při těch vzpomínkách směje, natažen v trávě nebo v obilí…
 
 Ale najednou zběh dostane strach, že ho chytí a že ho zavrou…
 
@@ -504,17 +504,5 @@ Doufám, že k tomu není třeba ničeho dodati…
 A tím končím, vzpomínaje ještě stále na smutný úsměv páně Tenkrátův, tohoto ubožáka, který sloužit může za typ pravé slovanské povahy…
 
 * * *
-
-_[4](./resources/undefined) Ten ukradl. _Pozn. red.__
-
-_[5](./resources/undefined) Srdíčko mnoha krásným dívkám. _Pozn. red.__
-
-_[6](./resources/undefined) To bylo tenkrát. Pozn. red._
-
-_[7](./resources/undefined) Boty z černé telecí kůže. Pozn. red._
-
-_[8](./resources/undefined) Konečně jsou určité limity. Pozn. red._
-
-_[9](./resources/undefined) Kde je ten osel? Ten osel tady není! Pozn. red._
-
+[^4]: Ten ukradl. _Pozn. red._[^5] Srdíčko mnoha krásným dívkám. _Pozn. red._[^6] To bylo tenkrát. Pozn. red.[^7] Boty z černé telecí kůže. Pozn. red.[^8] Konečně jsou určité limity. Pozn. red.[^9] Kde je ten osel? Ten osel tady není! Pozn. red.
 </section>

@@ -15,7 +15,7 @@ Prosím, aby nikdo nevykládal si ve zlém mé jednání. Tak, jak je zde napsá
 
 Jak jsem se již na začátku zmínil, je k Dřevickým zájmům přidávána zábavná příloha Jitřenka. Dřevické zájmy jsou jak orgánem městské rady, tak i orgánem okresního výboru a osobním orgánem městského starosty. Platu měl jsem od města sice jen sto dvacet korun měsíčně, ale za každou podařenou nadávku a senzační odhalení ze soukromého života osobních nepřátel městského starosty nebo pánů městských radních byl jsem zvlášť honorován. Za každou lokálku, ve které jsem spílal opozici, dostával jsem deset haléřů za řádek a věta, ve které stálo kupř.: „Víme, že onen mrzák jmenuje se Hubáček a že toto zmrzačené individuum má krám na dolním předměstí.“, ta věta honorována byla korunou.
 
-Mohl jsem tehdy, jak vidno, pěkně vyjíti s penězi a o nadávky nebylo nouze. Aby se pak v listě nehemžilo samými domácími dobytčaty, zavedl jsem i jiná zvířata do svých útoků, kraby a homary[17](./resources/undefined), sarančata, mšice, bagoly, paviány, puchýřníky a podobné, s kterými jmény jsem dovedl tak obratně zacházeti, že napadení v opravě, kterou nám zasílali, nestačili vyvraceti: „Není pravdou, že jsem bagolem africkým, nýbrž jest pravdou, že jmenuji se Roubíček Petr a pocházím z Příbrami. Není dále pravdou, že jsem paviánem, nýbrž jest pravdou, že ve zdejším místě jsem usedlý již od roku 1882. Není dále pravdou, že jsem puchýřníkem atd.“ Tato „zaslána“ a „opravy“ uveřejňoval jsem ochotně a provázel patřičnými případnými poznámkami, že kupř. – v případě pana Roubíčka nejde o bagola afrického, nýbrž o bagola australského, a že pan Roubíček správné rozlišuje oba druhy, když tvrdí, že není bagolem africkým. Co se pak týče toho, že byl nazván paviánem, jsme toho názoru, že nejedná se o paviána pláštíkového, nýbrž o zcela obyčejného paviána, psohlavou opici nejhoršího druhu…
+Mohl jsem tehdy, jak vidno, pěkně vyjíti s penězi a o nadávky nebylo nouze. Aby se pak v listě nehemžilo samými domácími dobytčaty, zavedl jsem i jiná zvířata do svých útoků, kraby a homary[^17], sarančata, mšice, bagoly, paviány, puchýřníky a podobné, s kterými jmény jsem dovedl tak obratně zacházeti, že napadení v opravě, kterou nám zasílali, nestačili vyvraceti: „Není pravdou, že jsem bagolem africkým, nýbrž jest pravdou, že jmenuji se Roubíček Petr a pocházím z Příbrami. Není dále pravdou, že jsem paviánem, nýbrž jest pravdou, že ve zdejším místě jsem usedlý již od roku 1882. Není dále pravdou, že jsem puchýřníkem atd.“ Tato „zaslána“ a „opravy“ uveřejňoval jsem ochotně a provázel patřičnými případnými poznámkami, že kupř. – v případě pana Roubíčka nejde o bagola afrického, nýbrž o bagola australského, a že pan Roubíček správné rozlišuje oba druhy, když tvrdí, že není bagolem africkým. Co se pak týče toho, že byl nazván paviánem, jsme toho názoru, že nejedná se o paviána pláštíkového, nýbrž o zcela obyčejného paviána, psohlavou opici nejhoršího druhu…
 
 Takovým způsobem jsem si získával stále více sympatií a lidé si mne vážili.
 
@@ -60,7 +60,5 @@ To bylo také jeho poslední slovo. Nač se o tom rozšiřovat? Zastřelil jsem
 > _Karikatury – 1910_
 
 * * *
-
-_[17](./resources/undefined) Humry. Pozn. red._
-
+[^17]: Humry. Pozn. red.
 </section>

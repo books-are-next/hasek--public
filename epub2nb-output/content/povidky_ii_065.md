@@ -47,7 +47,7 @@ I podal písemný rekurs:
 
 <section>
 
-Prosba tato byla mu vrácena. „Schází rubrum[18](./resources/undefined),“ řekl anděl, který mu ji přinesl. Ten anděl byl zaživa úředníkem v kabinetní kanceláři.
+Prosba tato byla mu vrácena. „Schází rubrum[^18],“ řekl anděl, který mu ji přinesl. Ten anděl byl zaživa úředníkem v kabinetní kanceláři.
 
 Farář Ondřej napsal tedy na zadní stránku:
 
@@ -106,7 +106,5 @@ Ve své knize, napsané roku 415 po Kristu, De retractatione, vel librorum recen
 „Neplačte,“ těšili andělé odsouzence, „něco podobného mohlo se vám přihodit i před každým senátem na zeměkouli…“
 
 * * *
-
-_[18](./resources/undefined) Vnější strana podání (žádosti ap.) se stručným zachycením toho, čeho a koho se týká. Pozn. red._
-
+[^18]: Vnější strana podání (žádosti ap.) se stručným zachycením toho, čeho a koho se týká. Pozn. red.
 </section>

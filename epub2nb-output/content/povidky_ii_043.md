@@ -49,7 +49,7 @@ Když se vrátil, tázala se ho sestra: „Co ti říkal?“
 
 Neměl tedy zde plakat v lavici, když viděl toho nelítostného Bruta, který nedbaje těch přátelských styků s jeho rodinou, pronásleduje ho na každém kroku?!
 
-Jinak se tvářil Roztočil, čtrnáctiletý klacek, který miloval mladší Zahrádkovu sestřičku Karlu, dvanáctiletou žabku, která se dívala na něho s úctou, neboť kdykoliv přišel k nim za Karlem, vždy mluvil o tom, že byl v Persii. Byl z Ounětic a konečně sám tomu věřil, o čem mluvil s Karličkou. Jak uřezával Kurdům hlavy, když byl bimbašou[14](./resources/undefined).
+Jinak se tvářil Roztočil, čtrnáctiletý klacek, který miloval mladší Zahrádkovu sestřičku Karlu, dvanáctiletou žabku, která se dívala na něho s úctou, neboť kdykoliv přišel k nim za Karlem, vždy mluvil o tom, že byl v Persii. Byl z Ounětic a konečně sám tomu věřil, o čem mluvil s Karličkou. Jak uřezával Kurdům hlavy, když byl bimbašou[^14].
 
 Měl takový vzdorovitý pohled, když o tom mluvil, že mu věřila. Kdykoliv mluvil o Kurdech, jeho oči dívaly se tak nevrle kolem, že šla z něho hrůza. Přinesl také jednou s sebou obyčejný starý kuchyňský nůž, o kterém zcela nedbale se zmínil Karličce, že ten nůž ho zachránil před vzbouřenými křesťany. Jednou řekl před křesťany, podruhé před Kurdy, nakonec jí ten nůž daroval na památku, napsav na střenku inkoustem: Roztočil bej, bimbaša z Persie, tercie A.
 
@@ -102,7 +102,5 @@ Druhého dne řekl ve škole temně a zarputile Roztočil k Zahrádkovi: „D�
 Nedávno jsem pana profesora Hubera viděl naživu. Patrně se polepšil.
 
 * * *
-
-_[14](./resources/undefined) Vyšší důstojník v tureckém vojsku. Pozn. red._
-
+[^14]: Vyšší důstojník v tureckém vojsku. Pozn. red.
 </section>

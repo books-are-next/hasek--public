@@ -59,7 +59,7 @@ Chlapík sice mluvil o svaté inkvizici, toho však málo dbali a zašrouboval
 
 A přes hukot ohně rozléhalo se z kotle úpěnlivé:
 
-„Miserere mei domine, sicut magnam misericordiam tuam.“[20](./resources/undefined)
+„Miserere mei domine, sicut magnam misericordiam tuam.“[^20]
 
 „To je ti tady málo platno,“ zvolala ironicky dušička profesorova, zatímco dušička policejního ředitele toužebně hleděla, brzo-li začne kapat z destilačního přístroje očekávaná tekutina.
 
@@ -76,7 +76,5 @@ Tak ho odnesli sem.
 Pan farář tomu dobře nerozumí a usíná poznovu…
 
 * * *
-
-_[20](./resources/undefined) „Smiluj se nade mnou, Bože, pro své velké milosrdenství.“ Žalm 50 (51). Pozn. red._
-
+[^20]: „Smiluj se nade mnou, Bože, pro své velké milosrdenství.“ Žalm 50 (51). Pozn. red.
 </section>

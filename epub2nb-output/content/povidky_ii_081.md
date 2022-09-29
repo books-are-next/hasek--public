@@ -17,9 +17,9 @@ Heda pozorovala novou družku, která majestátně, s opovržením vybírala ch
 
 „Řekněte raději, že jste dýchavičná,“ ozvala se klisna Darling, „je přece na vás vidět, že máte právní chybu. Není také hezké od vás, když jste vychována ve šlechtických kruzích, že jste se hned nepředstavila. Dovolím si proto trochu pochybovat o vašem příliš skvělém zámeckém vychování. Jen žerte klidně řezanku a zapomeňte na šampionáty.“
 
-„Quel peuple,“[22](./resources/undefined) vzdychla Lola.
+„Quel peuple,“[^22] vzdychla Lola.
 
-„Pardon, mademoiselle,“ ozvala se Darling, „je comprends aussi cette langue.[23](./resources/undefined) Na mně jezdíval jeden arcivévoda. Vy si na řezanku stejně dobře zvyknete jako na mrskání v hipodromu. Upozorňuji vás, že vás budou švihat bičem pod nohy. Nedávno jezdil na mně jeden zvěrolékař celých pět kol a říkal našemu pánovi, že jest to velmi zdravé proti spěchání. Takovou masáží nedostanete zánět střelky, vyznáte-li se vůbec v anatomii. Když tenkrát mne vybrakovali kvůli tomu, že jsem o manévrech jednomu adjutantovi ukousla kus ucha, takže naše modrá armáda dostala rozkazy z jenerálního štábu pozdě a prohrála to, koupil mne jeden milovník rarit. Shodila jsem ho při první příležitosti a on si zlomil, slečno, vaz. To je něco, co je společného nám i lidem, má sestra na jedněch závodech zahynula podobně. To byla slavná klisna. Viděla jsem ji vycpanou v konírnách knížete Auersberga…“
+„Pardon, mademoiselle,“ ozvala se Darling, „je comprends aussi cette langue.[^23] Na mně jezdíval jeden arcivévoda. Vy si na řezanku stejně dobře zvyknete jako na mrskání v hipodromu. Upozorňuji vás, že vás budou švihat bičem pod nohy. Nedávno jezdil na mně jeden zvěrolékař celých pět kol a říkal našemu pánovi, že jest to velmi zdravé proti spěchání. Takovou masáží nedostanete zánět střelky, vyznáte-li se vůbec v anatomii. Když tenkrát mne vybrakovali kvůli tomu, že jsem o manévrech jednomu adjutantovi ukousla kus ucha, takže naše modrá armáda dostala rozkazy z jenerálního štábu pozdě a prohrála to, koupil mne jeden milovník rarit. Shodila jsem ho při první příležitosti a on si zlomil, slečno, vaz. To je něco, co je společného nám i lidem, má sestra na jedněch závodech zahynula podobně. To byla slavná klisna. Viděla jsem ji vycpanou v konírnách knížete Auersberga…“
 
 „Mohla jsem také tak zahynout,“ zabručela Lola.
 
@@ -60,9 +60,5 @@ Druhého dne prodali ji koňskému řezníkovi. Ještě na samé porážce řekl
 Podivuhodnou náhodou ta stará paní od dámské toalety v hipodromu přišla si koupit ke koňskému řezníkovi za dvacet haléřů salámu ze slavné idealistky Loly a povídala, že jest dnes právě čtyřicet let tomu, co utekla od toho hraběte s tím baronem…
 
 * * *
-
-_[22](./resources/undefined) Jací lidé. Pozn. red._
-
-_[23](./resources/undefined) Promiňte slečno, i já tomuto jazyku rozumím. Pozn. red._
-
+[^22]: Jací lidé. Pozn. red.[^23] Promiňte slečno, i já tomuto jazyku rozumím. Pozn. red.
 </section>
