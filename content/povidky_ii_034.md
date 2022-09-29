@@ -7,9 +7,9 @@ contentType: prose
 
 Jednou věcí vynikal Baluška nad všechny své spolužáky. Živým patrio­tismem. Byli sice jeho spolužáci též vynikajícími vlastenci, kteří jako Podskaláci s hlubokou nenávistí hořeli vůči Smíchovákům, ale nikdo tak statečně nehájil barvy pravého břehu Vltavy jako Baluška.
 
-Když nastaly památné boje, opakující se rok od roku, když totiž Vltava zamrzla a oba národové mohli na sebe, když ulicemi šlo heslo, že jsou zas již „traufy“[10](./resources/undefined), tu Baluška kradl řemínky z bičišťat kočům a hotovil praky. Jeho praky donášely také nejdál. Byl vždy první, který vrhl se na Smíchováky s hrozným proklínáním s kapsami plnými kamení a který, když zásoby střeliva došly, s řemenem s velikou přezkou hnal se na zděšené tlupy Smíchováků.
+Když nastaly památné boje, opakující se rok od roku, když totiž Vltava zamrzla a oba národové mohli na sebe, když ulicemi šlo heslo, že jsou zas již „traufy“[^10], tu Baluška kradl řemínky z bičišťat kočům a hotovil praky. Jeho praky donášely také nejdál. Byl vždy první, který vrhl se na Smíchováky s hrozným proklínáním s kapsami plnými kamení a který, když zásoby střeliva došly, s řemenem s velikou přezkou hnal se na zděšené tlupy Smíchováků.
 
-A pak došlo tedy na řemeny. Sám zajal Baluška jednou pět Smíchováků, které vedli pak vítězoslavně na svůj břeh do své rodné vlasti do Podskalí. A vedli je v průvodu do dřevěných ohrad starého Podskalí a tam je za větrem šacovali. Zajatí Smíchováci šli jako oukro­pečkové, neboť věděli, že od tohoto strašlivého nepřítele, kterého vede Baluška, nemohou čekat slitování. Kořisti obyčejně mnoho nebylo, jen praky, jedna nebo dvě čtyřkrejcarové kudly, násadka, která se lepila na prsty (zvláštnost to krejcarová), půl dramky[11](./resources/undefined), krejcar, tři šrouby, hřebíky, řemen a svaté obrázky, které ti hodní dostali od pana katechety, než šli po škole na trauf. Nebyly považovány však za nějaké amulety, chránící před nepřítelem, vzali je s sebou do boje, aby si je ještě v bitevní čáře vyměňovali za gumu nebo barvičky.
+A pak došlo tedy na řemeny. Sám zajal Baluška jednou pět Smíchováků, které vedli pak vítězoslavně na svůj břeh do své rodné vlasti do Podskalí. A vedli je v průvodu do dřevěných ohrad starého Podskalí a tam je za větrem šacovali. Zajatí Smíchováci šli jako oukro­pečkové, neboť věděli, že od tohoto strašlivého nepřítele, kterého vede Baluška, nemohou čekat slitování. Kořisti obyčejně mnoho nebylo, jen praky, jedna nebo dvě čtyřkrejcarové kudly, násadka, která se lepila na prsty (zvláštnost to krejcarová), půl dramky[^11], krejcar, tři šrouby, hřebíky, řemen a svaté obrázky, které ti hodní dostali od pana katechety, než šli po škole na trauf. Nebyly považovány však za nějaké amulety, chránící před nepřítelem, vzali je s sebou do boje, aby si je ještě v bitevní čáře vyměňovali za gumu nebo barvičky.
 
 Nyní byli oloupeni o všechno. Vyrabováni stáli tu obklopeni nepřítelem, který jim spílal. Čekali truchlivě, kdy ještě dostanou na kalhoty. Dočkali se toho brzy, a když bylo po exekuci, naslinil Baluška inkoustovou tužku, slinou přetřel čela zajatců a jednomu po druhém, jak nejpěkněji dovedl, napsal na čelo těžko smazatelnou větu: „Smíchováci jsou smradi.“
 
@@ -96,9 +96,5 @@ Jako na zavolanou praví otec:
 Pak dostal uzené s knedlíkem, a uléhaje po přestálém utrpení do postele, zadíval se Baluška na obraz anděla strážného nad postelí a zašeptal: „Zaplať pánbůh, už umím lhát.“
 
 * * *
-
-_[10](./resources/undefined) Rvačky (obvykle dětské). Pozn. red._
-
-_[11](./resources/undefined) Cigareta. Pozn. red._
-
+[^10]: Rvačky (obvykle dětské). Pozn. red.[^11] Cigareta. Pozn. red.
 </section>

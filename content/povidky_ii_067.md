@@ -9,7 +9,7 @@ V Myslíkově ulici v Praze žili dva bohabojní manželé kupeckého původu.
 
 A tak chválili oba manželé boha mezi sudy a slanečky, mezi pytli kávy z ostrova Ceylonu a mezi indickým kořením a cukrem z Čakovic.
 
-A jejich modlitby nesly ovoce. Jmění jejich rostlo a množilo se a do věčné lampy nad vchodem do krámu nepřilíval už kupec Pažouch obyčejný olej na svícení, nýbrž nejjemnější brabancový[19](./resources/undefined) olej. A když ještě více zbohatl, udělal věčnou lampu s acetylenovým světlem, a když si koupil dům, dal věčnou lampu zřídit na žárovku osramku a později, když měl již tři filiálky v Praze, udělal v krámu elektrický transparent: Buď boží požehnání.
+A jejich modlitby nesly ovoce. Jmění jejich rostlo a množilo se a do věčné lampy nad vchodem do krámu nepřilíval už kupec Pažouch obyčejný olej na svícení, nýbrž nejjemnější brabancový[^19] olej. A když ještě více zbohatl, udělal věčnou lampu s acetylenovým světlem, a když si koupil dům, dal věčnou lampu zřídit na žárovku osramku a později, když měl již tři filiálky v Praze, udělal v krámu elektrický transparent: Buď boží požehnání.
 
 Pak jeho manželka slehla a porodila hezké, roztomilé dítě, kterému na křtu svatém dali jméno Bohuslav. Dítě bylo pokřtěno samotným vyšehradským kanovníkem a bohabojný kupec Pažouch konal toho dne mnoho dobrých skutků a chudé rodině dělníka Konipáska poslal kilo cukru.
 
@@ -50,7 +50,5 @@ Váží dnes i s ohonem a jazykem 180 kg a čte Volnou myšlenku.
 > _Karikatury – 1912_
 
 * * *
-
-_[19](./resources/undefined) Olivový. Pozn. red._
-
+[^19]: Olivový. Pozn. red.
 </section>

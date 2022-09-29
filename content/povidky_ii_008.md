@@ -132,7 +132,7 @@ V tom okamžiku uzrál ve mně pevný úmysl, že otrávím celou redakci Šťa
 
 Když jsem se vrátil ze Soluně domů, čekalo mne velké překvapení. Salón byl bez nábytku, úplně bez nábytku, a ten krásný černý nábytek v mé nepřítomnosti má dobrá žena prodala.
 
-Se zářící tváří ukázala mně různé malby po prázdných stěnách, kterými nahradila velice vkusně, jak tvrdila, jednotlivé kusy nábytku. Dala si záležet, aby velké trymó[1](./resources/undefined) namalovala věrně, podobně i pianino, takže uchvácen, musel jsem si sednout na zem.
+Se zářící tváří ukázala mně různé malby po prázdných stěnách, kterými nahradila velice vkusně, jak tvrdila, jednotlivé kusy nábytku. Dala si záležet, aby velké trymó[^1] namalovala věrně, podobně i pianino, takže uchvácen, musel jsem si sednout na zem.
 
 „Dle Šťastného domova máme ozdobovat svůj příbytek,“ pravila pevným hlasem, „a řekni mně, nevypadá-li tento namalovaný stůl lépe než skutečný?“
 
@@ -232,7 +232,7 @@ Abych tedy i já snesl útrapy podnebí, snědl jsem asi jeden koláček a pol
 
 Nežli jsem se napil, vysvětlila mně, že likér Šťastného domova si hotoví každá pečlivá hospodyňka doma sama. „Vezme se zeměžluč, ta se povaří v černé kávě, odvar přeleje se přes listí levandule a sušené hříbky. Dá se to vařit asi hodinu a přidá na každý litr gram čištěné sody a do všeho rozmačká osm citrónů. Litr odvaru se smíchá s litrem rumu a osolí.“
 
-Nalila mně toho skleničku, a jakmile jsem to se zavřenýma očima spolkl, pocítil jsem, že mně můj žaludek chce vyskočit ke stropu. Opustit tak věrného přítele bylo by neodpustitelnou zradou, a proto jsem vyskočil s ním a zůstal vězet v rabicové[2](./resources/undefined) stěně, která dělila jídelnu od kuchyně.
+Nalila mně toho skleničku, a jakmile jsem to se zavřenýma očima spolkl, pocítil jsem, že mně můj žaludek chce vyskočit ke stropu. Opustit tak věrného přítele bylo by neodpustitelnou zradou, a proto jsem vyskočil s ním a zůstal vězet v rabicové[^2] stěně, která dělila jídelnu od kuchyně.
 
 Má dobrá energická žena neztratila duchapřítomnost. Odběhla do kuchyně, aby se mnou mohla lépe mluvit, poněvadž půl těla s hlavou bylo v kuchyni a jedině zadní část mé osoby posměšně hleděla na láhev likéru Šťastného domova v jídelně.
 
@@ -504,7 +504,7 @@ Z redakce odešel jsem velmi potěšen, poněvadž mi redaktorka řekla, že vi
 
 Když jsem přišel domů, vrhla se má žena dychtivě na přinesené dopisy a sháněla se hlavně po tom, co může její třínedělní Felix jíst.
 
-Konečně nalezla dopis, který zněl: „Velectěná redakce! Působím již čtyřicet let jako učitelka na měšťanské škole v P. Již dávno bylo mým přáním, abych měla děti, ale osud bohužel určil mne k dráze učitelské, kterážto spojena je s celibátem. Jsem již delší dobu literárně činna na poli výchovy nemluvňat. Neboť mám příležitost vniknouti do rodin, které oplývají těmito roztomilými pimprlaty. Vím, jak jest to bolestné pro matku, nemá-li dosti mléka, a ctěná redakce zajisté odpustí, že tak bez ostychu hovořím a jestli si dovolím požádati slavnou redakci, aby zavedla laskavě ve svém listu novou rubriku Šťastný domov kojencům. Vím, jak je trapný osud těchto nemluvňátek, neboť v poslední době stýkám se hlavně s těmi rodinami, které mají jen nemluvňátka. A tu došla jsem k názoru, že lze mateřské mléko s úspěchem nahraditi praženými žaludy. Viděla jsem nedávno odstavovat podsvinče, které se s chutí pustilo do žaludů mu předložených, a zjistila jsem, že odvar z těchto pražených žaludů ani člověku neuškodí, neboť vypila jsem na noc čtyři koflíky silného, zhuštěného odvaru. Ráno cítila jsem se svěží, a tu myslím, že rozředěný odvar pražených rozemletých žaludů musel by blahodárně působiti na kostru nemluvněte, neboť žaludy obsahují jak známo tříslovinu, která zaráží onu zhoubnou nemoc, zvanou diaré[3](./resources/undefined). Kdyby dítě sálo odvar žaludů, nemusily by se matky starat jedině o vypírání plen a mohly by se snáze věnovat literatuře a veřejným otázkám. Prosím tudíž, aby slavná redakce použila tohoto mého pokynu v nejbližším čísle Šťastného domova, a jsem přesvědčena, že v celém českém národě nastane ujasnění, týkající se oněch mokrých plen. Karolína Husová. – P. S. Nejlépe jest na padesát litrů vody vzíti půl kilogramu pražených žaludů.“
+Konečně nalezla dopis, který zněl: „Velectěná redakce! Působím již čtyřicet let jako učitelka na měšťanské škole v P. Již dávno bylo mým přáním, abych měla děti, ale osud bohužel určil mne k dráze učitelské, kterážto spojena je s celibátem. Jsem již delší dobu literárně činna na poli výchovy nemluvňat. Neboť mám příležitost vniknouti do rodin, které oplývají těmito roztomilými pimprlaty. Vím, jak jest to bolestné pro matku, nemá-li dosti mléka, a ctěná redakce zajisté odpustí, že tak bez ostychu hovořím a jestli si dovolím požádati slavnou redakci, aby zavedla laskavě ve svém listu novou rubriku Šťastný domov kojencům. Vím, jak je trapný osud těchto nemluvňátek, neboť v poslední době stýkám se hlavně s těmi rodinami, které mají jen nemluvňátka. A tu došla jsem k názoru, že lze mateřské mléko s úspěchem nahraditi praženými žaludy. Viděla jsem nedávno odstavovat podsvinče, které se s chutí pustilo do žaludů mu předložených, a zjistila jsem, že odvar z těchto pražených žaludů ani člověku neuškodí, neboť vypila jsem na noc čtyři koflíky silného, zhuštěného odvaru. Ráno cítila jsem se svěží, a tu myslím, že rozředěný odvar pražených rozemletých žaludů musel by blahodárně působiti na kostru nemluvněte, neboť žaludy obsahují jak známo tříslovinu, která zaráží onu zhoubnou nemoc, zvanou diaré[^3]. Kdyby dítě sálo odvar žaludů, nemusily by se matky starat jedině o vypírání plen a mohly by se snáze věnovat literatuře a veřejným otázkám. Prosím tudíž, aby slavná redakce použila tohoto mého pokynu v nejbližším čísle Šťastného domova, a jsem přesvědčena, že v celém českém národě nastane ujasnění, týkající se oněch mokrých plen. Karolína Husová. – P. S. Nejlépe jest na padesát litrů vody vzíti půl kilogramu pražených žaludů.“
 
 Když jsme to se ženou přečetli, poručila mně, abych naší nové služce dal peníze na dva kilogramy pražených žaludů a současně se poohlédl po nějakém dvěstělitrovém soudku.
 
@@ -691,11 +691,5 @@ Ku doplnění této tragédie dodáváme ještě krátký výňatek z referátu
 To byla tedy poslední slova toho pronásledovaného muže, který kdysi hrál tak vynikající úlohu v českém životě.
 
 * * *
-
-_[1](./resources/undefined) Vysoké nástěnné nebo stojací zrcadlo se skříňkou. Pozn. red._
-
-_[2](./resources/undefined) Pletivo z pozinkovaného ocelového drátu, používané k vyztužení příček. Pozn. red._
-
-_[3](./resources/undefined) Průjem. Pozn. red._
-
+[^1]: Vysoké nástěnné nebo stojací zrcadlo se skříňkou. Pozn. red.[^2] Pletivo z pozinkovaného ocelového drátu, používané k vyztužení příček. Pozn. red.[^3] Průjem. Pozn. red.
 </section>
