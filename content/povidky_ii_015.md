@@ -504,5 +504,17 @@ Doufám, že k tomu není třeba ničeho dodati…
 A tím končím, vzpomínaje ještě stále na smutný úsměv páně Tenkrátův, tohoto ubožáka, který sloužit může za typ pravé slovanské povahy…
 
 * * *
-[^4]: Ten ukradl. _Pozn. red._[^5] Srdíčko mnoha krásným dívkám. _Pozn. red._[^6] To bylo tenkrát. Pozn. red.[^7] Boty z černé telecí kůže. Pozn. red.[^8] Konečně jsou určité limity. Pozn. red.[^9] Kde je ten osel? Ten osel tady není! Pozn. red.
+
+[^4]: Ten ukradl. _Pozn. red._
+
+[^5]: Srdíčko mnoha krásným dívkám. _Pozn. red._
+
+[^6]: To bylo tenkrát. Pozn. red.
+
+[^7]: Boty z černé telecí kůže. Pozn. red.
+
+[^8]: Konečně jsou určité limity. Pozn. red.
+
+[^9]: Kde je ten osel? Ten osel tady není! Pozn. red.
+
 </section>

@@ -154,5 +154,7 @@ _Našel jsem 2000 K. Mám je vrátit, či si je nechat? Nikdo mne neviděl._
 Vyciťuji, že v odpovědích jsem nevyčerpal úplně látku, na kterou jsem byl tázán. Prosím, aby čtenáři sami si doplnili, co schází.
 
 * * *
+
 [^15]: Druh karetní hry; druh hry na kulečníku. Pozn. red.
+
 </section>

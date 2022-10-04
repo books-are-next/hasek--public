@@ -280,5 +280,7 @@ Téhož dne ve večernících stálo: „Jägerle, domnělý pachatel loupežné
 Od té doby představovali jsme Julču též pod jménem Jägerle.
 
 * * *
+
 [^21]: Makak. Pozn. red.
+
 </section>

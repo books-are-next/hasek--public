@@ -96,5 +96,9 @@ Jako na zavolanou praví otec:
 Pak dostal uzené s knedlíkem, a uléhaje po přestálém utrpení do postele, zadíval se Baluška na obraz anděla strážného nad postelí a zašeptal: „Zaplať pánbůh, už umím lhát.“
 
 * * *
-[^10]: Rvačky (obvykle dětské). Pozn. red.[^11] Cigareta. Pozn. red.
+
+[^10]: Rvačky (obvykle dětské). Pozn. red.
+
+[^11]: Cigareta. Pozn. red.
+
 </section>

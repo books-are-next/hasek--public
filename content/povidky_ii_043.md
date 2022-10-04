@@ -102,5 +102,7 @@ Druhého dne řekl ve škole temně a zarputile Roztočil k Zahrádkovi: „D�
 Nedávno jsem pana profesora Hubera viděl naživu. Patrně se polepšil.
 
 * * *
+
 [^14]: Vyšší důstojník v tureckém vojsku. Pozn. red.
+
 </section>

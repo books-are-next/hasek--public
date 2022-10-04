@@ -60,5 +60,9 @@ Druhého dne po školním výletě do Divoké Šárky přišlo do třídy ze čt
 > _Humoristické listy – 14. 7. 1909_
 
 * * *
-[^12]: Zde: zpráva školy rodičům o špatném prospěchu nebo chování žáka. Pozn. red.[^13] Spolužáci. Pozn. red.
+
+[^12]: Zde: zpráva školy rodičům o špatném prospěchu nebo chování žáka. Pozn. red.
+
+[^13]: Spolužáci. Pozn. red.
+
 </section>

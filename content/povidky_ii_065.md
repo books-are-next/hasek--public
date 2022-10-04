@@ -106,5 +106,7 @@ Ve své knize, napsané roku 415 po Kristu, De retractatione, vel librorum recen
 „Neplačte,“ těšili andělé odsouzence, „něco podobného mohlo se vám přihodit i před každým senátem na zeměkouli…“
 
 * * *
+
 [^18]: Vnější strana podání (žádosti ap.) se stručným zachycením toho, čeho a koho se týká. Pozn. red.
+
 </section>
