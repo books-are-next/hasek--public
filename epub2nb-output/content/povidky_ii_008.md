@@ -691,5 +691,11 @@ Ku doplnění této tragédie dodáváme ještě krátký výňatek z referátu
 To byla tedy poslední slova toho pronásledovaného muže, který kdysi hrál tak vynikající úlohu v českém životě.
 
 * * *
-[^1]: Vysoké nástěnné nebo stojací zrcadlo se skříňkou. Pozn. red.[^2] Pletivo z pozinkovaného ocelového drátu, používané k vyztužení příček. Pozn. red.[^3] Průjem. Pozn. red.
+
+[^1]: Vysoké nástěnné nebo stojací zrcadlo se skříňkou. Pozn. red.
+
+[^2]: Pletivo z pozinkovaného ocelového drátu, používané k vyztužení příček. Pozn. red.
+
+[^3]: Průjem. Pozn. red.
+
 </section>

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-povidky-ii-fcd104e",
-  "revision": "fcd104e",
+  "identifier": "hasek-povidky-ii-4346f19",
+  "revision": "4346f19",
   "readingOrder": [
     "promo.html",
     "povidky_ii_005.html",
@@ -94,8 +94,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:54:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639682020
+    "date": "Tue Oct 04 2022 16:41:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901681146
   },
   "documents": [
     {
@@ -173,9 +173,9 @@
     {
       "title": "Šťastný domov",
       "file": "povidky_ii_008.html",
-      "words": 11820,
-      "chars": 71748,
-      "ideas": 325,
+      "words": 11822,
+      "chars": 71738,
+      "ideas": 327,
       "role": "chapter",
       "order": 4,
       "prev": "povidky_ii_007.html",
@@ -398,9 +398,9 @@
     {
       "title": "Trampoty pana Tenkráta",
       "file": "povidky_ii_015.html",
-      "words": 9073,
-      "chars": 53165,
-      "ideas": 220,
+      "words": 9078,
+      "chars": 53140,
+      "ideas": 225,
       "role": "chapter",
       "order": 11,
       "prev": "povidky_ii_014.html",
@@ -922,9 +922,9 @@
     {
       "title": "Jak se Baluška naučil lhát",
       "file": "povidky_ii_034.html",
-      "words": 1189,
-      "chars": 7116,
-      "ideas": 46,
+      "words": 1190,
+      "chars": 7109,
+      "ideas": 47,
       "role": "chapter",
       "order": 30,
       "prev": "povidky_ii_033.html",
@@ -1082,9 +1082,9 @@
     {
       "title": "Školní výlet",
       "file": "povidky_ii_042.html",
-      "words": 1789,
-      "chars": 10739,
-      "ideas": 27,
+      "words": 1790,
+      "chars": 10732,
+      "ideas": 28,
       "role": "chapter",
       "order": 38,
       "prev": "povidky_ii_041.html",
@@ -2242,9 +2242,9 @@
     {
       "title": "Povídka z hipodromu",
       "file": "povidky_ii_081.html",
-      "words": 1113,
-      "chars": 6817,
-      "ideas": 29,
+      "words": 1114,
+      "chars": 6810,
+      "ideas": 30,
       "role": "chapter",
       "order": 77,
       "prev": "povidky_ii_080.html",
@@ -2302,9 +2302,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 128,
+      "words": 125,
       "chars": 862,
-      "ideas": 15,
+      "ideas": 12,
       "role": "about",
       "order": null,
       "prev": "povidky_ii_083.html",
@@ -2322,14 +2322,14 @@
   ],
   "totals": {
     "all": {
-      "words": 112666,
-      "chars": 676596,
-      "ideas": 3529
+      "words": 112673,
+      "chars": 676540,
+      "ideas": 3536
     },
     "chapters": {
-      "words": 112532,
-      "chars": 675699,
-      "ideas": 3510
+      "words": 112542,
+      "chars": 675643,
+      "ideas": 3520
     }
   }
 }

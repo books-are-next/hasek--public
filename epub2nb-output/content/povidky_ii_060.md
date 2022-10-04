@@ -60,5 +60,7 @@ To bylo také jeho poslední slovo. Nač se o tom rozšiřovat? Zastřelil jsem
 > _Karikatury – 1910_
 
 * * *
+
 [^17]: Humry. Pozn. red.
+
 </section>

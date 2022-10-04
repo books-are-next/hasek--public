@@ -76,5 +76,7 @@ Tak ho odnesli sem.
 Pan farář tomu dobře nerozumí a usíná poznovu…
 
 * * *
+
 [^20]: „Smiluj se nade mnou, Bože, pro své velké milosrdenství.“ Žalm 50 (51). Pozn. red.
+
 </section>

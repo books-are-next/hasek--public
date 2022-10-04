@@ -60,5 +60,9 @@ Druhého dne prodali ji koňskému řezníkovi. Ještě na samé porážce řekl
 Podivuhodnou náhodou ta stará paní od dámské toalety v hipodromu přišla si koupit ke koňskému řezníkovi za dvacet haléřů salámu ze slavné idealistky Loly a povídala, že jest dnes právě čtyřicet let tomu, co utekla od toho hraběte s tím baronem…
 
 * * *
-[^22]: Jací lidé. Pozn. red.[^23] Promiňte slečno, i já tomuto jazyku rozumím. Pozn. red.
+
+[^22]: Jací lidé. Pozn. red.
+
+[^23]: Promiňte slečno, i já tomuto jazyku rozumím. Pozn. red.
+
 </section>

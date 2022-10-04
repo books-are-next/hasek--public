@@ -48,5 +48,7 @@ Do dveří vrazil vtom kupec zezdola. „Jste živ?“ volal již ve dveřích. 
 Hluk před domem přerušil jeho slova. Oknem viděl jsem, jak z jedné strany před dům naší redakce nesli obecní zřízenci umrlčí truhlu, určenou pro mne, a z druhé strany vlekli na strážnici čtyři obecní strážníci lotra Kezla…
 
 * * *
+
 [^16]: Písemný projev (otevřený dopis ap.), s jehož obsahem se redakce neztotožňuje, zaslaný novinám k uveřejnění. Pozn. red.
+
 </section>

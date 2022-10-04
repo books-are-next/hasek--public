@@ -50,5 +50,7 @@ Váží dnes i s ohonem a jazykem 180 kg a čte Volnou myšlenku.
 > _Karikatury – 1912_
 
 * * *
+
 [^19]: Olivový. Pozn. red.
+
 </section>
