@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-povidky-ii-c11ca1c",
-  "revision": "c11ca1c",
+  "identifier": "hasek-povidky-ii-16c04b9",
+  "revision": "16c04b9",
   "readingOrder": [
     "promo.html",
     "povidky_ii_005.html",
@@ -94,8 +94,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:53:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924005424
+    "date": "Fri Oct 07 2022 14:03:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151412668
   },
   "documents": [
     {
