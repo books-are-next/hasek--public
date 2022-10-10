@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-povidky-ii-16c04b9",
-  "revision": "16c04b9",
+  "identifier": "hasek-povidky-ii-97d4683",
+  "revision": "97d4683",
   "readingOrder": [
     "promo.html",
     "povidky_ii_005.html",
@@ -94,8 +94,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:03:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151412668
+    "date": "Mon Oct 10 2022 15:55:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417301999
   },
   "documents": [
     {
@@ -2303,7 +2303,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 125,
-      "chars": 862,
+      "chars": 863,
       "ideas": 12,
       "role": "about",
       "order": null,
@@ -2323,7 +2323,7 @@
   "totals": {
     "all": {
       "words": 112673,
-      "chars": 676540,
+      "chars": 676541,
       "ideas": 3536
     },
     "chapters": {
