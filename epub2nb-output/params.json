@@ -10,7 +10,7 @@
       "yearPublished": "",
       "publisherShort": "mkp",
       "contentType": "prose",
-      "isbn": "978-80-274-2151-0",
+      "isbn": "978-80-274-2830-4",
       "edition": "beletrie"
     },
     "elements": {
@@ -46,7 +46,7 @@
             "id": 0,
             "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -1127,7 +1127,7 @@
             "id": 83,
             "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -1748,6 +1748,6 @@
       "user": "books-are-next",
       "repo": "hasek-povidky"
     },
-    "generatedAt": 1665416083062
+    "generatedAt": 1665750725246
   }
 }

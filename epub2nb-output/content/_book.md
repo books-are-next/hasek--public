@@ -13,7 +13,7 @@ meta:
   yearPublished: ''
   publisherShort: mkp
   contentType: prose
-  isbn: 978-80-274-2151-0
+  isbn: 978-80-274-2830-4
   edition: beletrie
 readingOrder:
   - promo.html
